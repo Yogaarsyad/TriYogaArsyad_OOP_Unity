@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bbd935c8b37111948ac90ce9be4d2780
+guid: de33767d9e8361140a3aa812c09184b9
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615615067980869
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Main Ship - Shields - Invincibility Shield_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.6428572}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 32
       height: 28
-    spriteID: 5a1d33aca8f89fe4eafa07dc66dc68a8
+    spriteID: 31e5590da9e8abd469cdcdf4fc9ec8cc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Main Ship - Shields - Invincibility Shield_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.6428572}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 40
       width: 32
       height: 28
-    spriteID: e5e6b11b9706b0043995a17190a950e7
+    spriteID: d7b2f5fe516ec4d4cb432ecc2a8850c0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 40}
-  - name: Main Ship - Shields - Invincibility Shield_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.6428572}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 76
       width: 32
       height: 28
-    spriteID: cb652ce2ce904274db1663e3f5cb81dc
+    spriteID: 6b65e9b25d3641c4aa0a15f0c5c7b793
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Main Ship - Shields - Invincibility Shield_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.6428572}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 112
       width: 32
       height: 28
-    spriteID: 38e3844c218657f4fa368fc7066428f6
+    spriteID: 7762bc1fc64e0b540bda9a5f8edffbde
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 112}
-  - name: Main Ship - Shields - Invincibility Shield_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: -0.6428572}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 148
       width: 32
       height: 28
-    spriteID: 665272eefdc67c6469933671d816ae20
+    spriteID: f9cb74c82e279d14296b63ea9c58c586
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 148}
-  - name: Main Ship - Shields - Invincibility Shield_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: -0.6428572}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 184
       width: 32
       height: 28
-    spriteID: 072386a5e56502248a2d84e4189ff53c
+    spriteID: 45e64f2d92debb64286db9ae3d8e2362
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 184}
-  - name: Main Ship - Shields - Invincibility Shield_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: -0.6428572}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 220
       width: 32
       height: 28
-    spriteID: e69314d7a20ee554d963088091298e5e
+    spriteID: 43f8be12c5655994196b6a8b0f10ec50
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 220}
-  - name: Main Ship - Shields - Invincibility Shield_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: -0.6428572}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 32
       height: 28
-    spriteID: 4d88b3488f8afae4191e10d81079a299
+    spriteID: 3d5e36b6d37ad2145ab1eaa1af28c536
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 44, y: 4}
-  - name: Main Ship - Shields - Invincibility Shield_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: -0.6428572}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 40
       width: 32
       height: 28
-    spriteID: 9717a2b98268cea4682ecb78d372162d
+    spriteID: d5100b90633db74499b5c1ae02f865ee
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 44, y: 40}
-  - name: Main Ship - Shields - Invincibility Shield_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: -0.6428572}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 76
       width: 32
       height: 28
-    spriteID: 93a9f9f7bf688684c854046385d66bbd
+    spriteID: 8bd699a3755925d4cac7904ed7f91b37
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -330,7 +330,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Main Ship - Shields - Invincibility Shield_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -338,8 +338,8 @@ ScriptedImporter:
         y: 18
         width: 32
         height: 28
-      spriteId: 5a1d33aca8f89fe4eafa07dc66dc68a8
-    - name: Main Ship - Shields - Invincibility Shield_Frame_1
+      spriteId: 31e5590da9e8abd469cdcdf4fc9ec8cc
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -347,8 +347,8 @@ ScriptedImporter:
         y: 18
         width: 32
         height: 28
-      spriteId: e5e6b11b9706b0043995a17190a950e7
-    - name: Main Ship - Shields - Invincibility Shield_Frame_2
+      spriteId: d7b2f5fe516ec4d4cb432ecc2a8850c0
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -356,8 +356,8 @@ ScriptedImporter:
         y: 18
         width: 32
         height: 28
-      spriteId: cb652ce2ce904274db1663e3f5cb81dc
-    - name: Main Ship - Shields - Invincibility Shield_Frame_3
+      spriteId: 6b65e9b25d3641c4aa0a15f0c5c7b793
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -365,8 +365,8 @@ ScriptedImporter:
         y: 18
         width: 32
         height: 28
-      spriteId: 38e3844c218657f4fa368fc7066428f6
-    - name: Main Ship - Shields - Invincibility Shield_Frame_4
+      spriteId: 7762bc1fc64e0b540bda9a5f8edffbde
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -374,8 +374,8 @@ ScriptedImporter:
         y: 18
         width: 32
         height: 28
-      spriteId: 665272eefdc67c6469933671d816ae20
-    - name: Main Ship - Shields - Invincibility Shield_Frame_5
+      spriteId: f9cb74c82e279d14296b63ea9c58c586
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -383,8 +383,8 @@ ScriptedImporter:
         y: 18
         width: 32
         height: 28
-      spriteId: 072386a5e56502248a2d84e4189ff53c
-    - name: Main Ship - Shields - Invincibility Shield_Frame_6
+      spriteId: 45e64f2d92debb64286db9ae3d8e2362
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -392,8 +392,8 @@ ScriptedImporter:
         y: 18
         width: 32
         height: 28
-      spriteId: e69314d7a20ee554d963088091298e5e
-    - name: Main Ship - Shields - Invincibility Shield_Frame_7
+      spriteId: 43f8be12c5655994196b6a8b0f10ec50
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -401,8 +401,8 @@ ScriptedImporter:
         y: 18
         width: 32
         height: 28
-      spriteId: 4d88b3488f8afae4191e10d81079a299
-    - name: Main Ship - Shields - Invincibility Shield_Frame_8
+      spriteId: 3d5e36b6d37ad2145ab1eaa1af28c536
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -410,8 +410,8 @@ ScriptedImporter:
         y: 18
         width: 32
         height: 28
-      spriteId: 9717a2b98268cea4682ecb78d372162d
-    - name: Main Ship - Shields - Invincibility Shield_Frame_9
+      spriteId: d5100b90633db74499b5c1ae02f865ee
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -419,23 +419,11 @@ ScriptedImporter:
         y: 18
         width: 32
         height: 28
-      spriteId: 93a9f9f7bf688684c854046385d66bbd
+      spriteId: 8bd699a3755925d4cac7904ed7f91b37
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

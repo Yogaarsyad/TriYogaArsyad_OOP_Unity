@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 29f9c7e1444f549449c6c1a05da5d790
+guid: d995cc17825e2d0419eb6f51ae7acef1
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615753194850505
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nairan - Torpedo_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 9
       height: 24
-    spriteID: bb5d6c943c5edc1418087118c1179849
+    spriteID: 51fbf2f6fd07cfb4cbd8f42f510c9177
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nairan - Torpedo_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 4
       width: 9
       height: 24
-    spriteID: d74423ce5a83732469d412a8d6387d72
+    spriteID: b286d4081dc403548bb5cb219a4270c7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 21, y: 4}
-  - name: Nairan - Torpedo_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 9
       height: 24
-    spriteID: c4a44f8065e92404d92d314241100339
+    spriteID: 17c0b5afb75c10541a2f04f9719b4e0c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,7 +190,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nairan - Torpedo_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -198,8 +198,8 @@ ScriptedImporter:
         y: 0
         width: 9
         height: 24
-      spriteId: bb5d6c943c5edc1418087118c1179849
-    - name: Nairan - Torpedo_Frame_1
+      spriteId: 51fbf2f6fd07cfb4cbd8f42f510c9177
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -207,8 +207,8 @@ ScriptedImporter:
         y: 0
         width: 9
         height: 24
-      spriteId: d74423ce5a83732469d412a8d6387d72
-    - name: Nairan - Torpedo_Frame_2
+      spriteId: b286d4081dc403548bb5cb219a4270c7
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -216,23 +216,11 @@ ScriptedImporter:
         y: 0
         width: 9
         height: 24
-      spriteId: c4a44f8065e92404d92d314241100339
+      spriteId: 17c0b5afb75c10541a2f04f9719b4e0c
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

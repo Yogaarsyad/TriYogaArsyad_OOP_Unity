@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7fb50281f84b97e499a9adb80245c721
+guid: 2ecfd5df8f8f9ec4e9dc96042b5e72bd
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nautolan Ship - Fighter_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.7037037}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 39
       width: 32
       height: 27
-    spriteID: 9f022f95ab65056488e9fae4308d36f2
+    spriteID: c47a4e95de110bb4b83f9e5366f3f6ca
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 70, y: 39}
-  - name: Nautolan Ship - Fighter_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.7037037}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 215
       width: 34
       height: 27
-    spriteID: ba562fba92252214eb288a6cc7d2fa40
+    spriteID: 5a2efd49020be4f40ac59e5ac51cf9a5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 215}
-  - name: Nautolan Ship - Fighter_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.7037037}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 34
       height: 27
-    spriteID: 7ccf5e29d655a9a47b73cb09dfa4f3e1
+    spriteID: c7dcbd44140505940866494b37d37654
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 70, y: 4}
-  - name: Nautolan Ship - Fighter_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5555556, y: -0.48387095}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 176
       width: 45
       height: 31
-    spriteID: efc4675f17a6cb8488320ab952c06113
+    spriteID: 8fb2b229a0c0a9445870bc78b3fc5f31
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 176}
-  - name: Nautolan Ship - Fighter_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5555556, y: -0.33333334}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 53
       width: 54
       height: 36
-    spriteID: 6be921c98c358174a96b45a9638da601
+    spriteID: 3bdccd753ba69c64d9381dc2583adfc3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 53}
-  - name: Nautolan Ship - Fighter_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.55172414, y: -0.1707317}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 58
       height: 41
-    spriteID: 35cfc182ae96dfd44a6598babc9f75f4
+    spriteID: 2df5bbeb3a999a645a0ffb3e18cdc41a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nautolan Ship - Fighter_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.48979592, y: -0.29411766}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 97
       width: 49
       height: 34
-    spriteID: 43aa4ba0cb2ff494fa886642327ca95b
+    spriteID: f58576f7fe7eb3540b01bbb8aeb57b96
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 97}
-  - name: Nautolan Ship - Fighter_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.48, y: -0.31034482}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 139
       width: 50
       height: 29
-    spriteID: 91d53b2f237158345ba8db6ffcc83599
+    spriteID: ba880851bbbdedb468a392e8b5426bc7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -290,7 +290,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nautolan Ship - Fighter_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -298,8 +298,8 @@ ScriptedImporter:
         y: 19
         width: 32
         height: 27
-      spriteId: 9f022f95ab65056488e9fae4308d36f2
-    - name: Nautolan Ship - Fighter_Frame_1
+      spriteId: c47a4e95de110bb4b83f9e5366f3f6ca
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -307,8 +307,8 @@ ScriptedImporter:
         y: 19
         width: 34
         height: 27
-      spriteId: ba562fba92252214eb288a6cc7d2fa40
-    - name: Nautolan Ship - Fighter_Frame_2
+      spriteId: 5a2efd49020be4f40ac59e5ac51cf9a5
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -316,8 +316,8 @@ ScriptedImporter:
         y: 19
         width: 34
         height: 27
-      spriteId: 7ccf5e29d655a9a47b73cb09dfa4f3e1
-    - name: Nautolan Ship - Fighter_Frame_3
+      spriteId: c7dcbd44140505940866494b37d37654
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -325,8 +325,8 @@ ScriptedImporter:
         y: 15
         width: 45
         height: 31
-      spriteId: efc4675f17a6cb8488320ab952c06113
-    - name: Nautolan Ship - Fighter_Frame_4
+      spriteId: 8fb2b229a0c0a9445870bc78b3fc5f31
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -334,8 +334,8 @@ ScriptedImporter:
         y: 12
         width: 54
         height: 36
-      spriteId: 6be921c98c358174a96b45a9638da601
-    - name: Nautolan Ship - Fighter_Frame_5
+      spriteId: 3bdccd753ba69c64d9381dc2583adfc3
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -343,8 +343,8 @@ ScriptedImporter:
         y: 7
         width: 58
         height: 41
-      spriteId: 35cfc182ae96dfd44a6598babc9f75f4
-    - name: Nautolan Ship - Fighter_Frame_6
+      spriteId: 2df5bbeb3a999a645a0ffb3e18cdc41a
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -352,8 +352,8 @@ ScriptedImporter:
         y: 10
         width: 49
         height: 34
-      spriteId: 43aa4ba0cb2ff494fa886642327ca95b
-    - name: Nautolan Ship - Fighter_Frame_7
+      spriteId: f58576f7fe7eb3540b01bbb8aeb57b96
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -361,10 +361,22 @@ ScriptedImporter:
         y: 9
         width: 50
         height: 29
-      spriteId: 91d53b2f237158345ba8db6ffcc83599
+      spriteId: ba880851bbbdedb468a392e8b5426bc7
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

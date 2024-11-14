@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0cea0149a82da174e8c674aedf90e5dc
+guid: 474f469d211bb894ba8be669ddfc1579
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Kla'ed - Fighter - Shield_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 3978734018e69cb4b9da5ffa37aef9ea
+    spriteID: 20303cf19edd92c4189005fec502e3a8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Kla'ed - Fighter - Shield_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 32b8e33d835f6e6448bc7462c49ce2c7
+    spriteID: 7f54798dec63279448262b90b4f65313
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Kla'ed - Fighter - Shield_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 17212b12728f78e4aa5f31c918481751
+    spriteID: d03bd7457523f9146b8a68d518d8236d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 148}
-  - name: Kla'ed - Fighter - Shield_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 220
       width: 64
       height: 64
-    spriteID: f3f3333a30937aa44a49e3c52210f076
+    spriteID: 4f2d404b93cbc2d42a7c23b839eeeb6b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 220}
-  - name: Kla'ed - Fighter - Shield_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 292
       width: 64
       height: 64
-    spriteID: 1a5f4e7a92143fe449a4654d5df6f484
+    spriteID: 69867538ea5b04c47b1eb5363686874a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 292}
-  - name: Kla'ed - Fighter - Shield_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 364
       width: 64
       height: 64
-    spriteID: 18f834487bf45984e94771a9e29e3e90
+    spriteID: fbe5f068516050b49b1e828a58442491
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 364}
-  - name: Kla'ed - Fighter - Shield_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 436
       width: 64
       height: 64
-    spriteID: 1df52f2344e992741a8d4f1b6d571b8d
+    spriteID: 82509f22eff99c84396f36b83d42c35d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 436}
-  - name: Kla'ed - Fighter - Shield_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 9a6a9299d8749c54fad61cac8751eabd
+    spriteID: d0de1e2643127ac468b952543fef1d13
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 4}
-  - name: Kla'ed - Fighter - Shield_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 6fde6acd0cbba1943aaccfa2a1bf7f1e
+    spriteID: 18efeb6cfce39e448b2a69daa7a9f550
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 76}
-  - name: Kla'ed - Fighter - Shield_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: b9d4e80fbb8c8024dada7bd45a961f18
+    spriteID: bc0793f06eaa05b47baafeecc3700eec
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -330,7 +330,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Kla'ed - Fighter - Shield_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -338,8 +338,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 3978734018e69cb4b9da5ffa37aef9ea
-    - name: Kla'ed - Fighter - Shield_Frame_1
+      spriteId: 20303cf19edd92c4189005fec502e3a8
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -347,8 +347,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 32b8e33d835f6e6448bc7462c49ce2c7
-    - name: Kla'ed - Fighter - Shield_Frame_2
+      spriteId: 7f54798dec63279448262b90b4f65313
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -356,8 +356,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 17212b12728f78e4aa5f31c918481751
-    - name: Kla'ed - Fighter - Shield_Frame_3
+      spriteId: d03bd7457523f9146b8a68d518d8236d
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -365,8 +365,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: f3f3333a30937aa44a49e3c52210f076
-    - name: Kla'ed - Fighter - Shield_Frame_4
+      spriteId: 4f2d404b93cbc2d42a7c23b839eeeb6b
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -374,8 +374,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 1a5f4e7a92143fe449a4654d5df6f484
-    - name: Kla'ed - Fighter - Shield_Frame_5
+      spriteId: 69867538ea5b04c47b1eb5363686874a
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -383,8 +383,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 18f834487bf45984e94771a9e29e3e90
-    - name: Kla'ed - Fighter - Shield_Frame_6
+      spriteId: fbe5f068516050b49b1e828a58442491
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -392,8 +392,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 1df52f2344e992741a8d4f1b6d571b8d
-    - name: Kla'ed - Fighter - Shield_Frame_7
+      spriteId: 82509f22eff99c84396f36b83d42c35d
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -401,8 +401,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 9a6a9299d8749c54fad61cac8751eabd
-    - name: Kla'ed - Fighter - Shield_Frame_8
+      spriteId: d0de1e2643127ac468b952543fef1d13
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -410,8 +410,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 6fde6acd0cbba1943aaccfa2a1bf7f1e
-    - name: Kla'ed - Fighter - Shield_Frame_9
+      spriteId: 18efeb6cfce39e448b2a69daa7a9f550
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -419,10 +419,22 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: b9d4e80fbb8c8024dada7bd45a961f18
+      spriteId: bc0793f06eaa05b47baafeecc3700eec
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

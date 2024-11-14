@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fade1ca158d735c4288f5354d0443927
+guid: 30108fc778a13604b8a2f7f55150dc2e
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Asteroid - Flame_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.234375, y: -0.9117647}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 34
-    spriteID: 9dbff7ef8d3b5994db62ce313c65f279
+    spriteID: b8e61a93911d1c646b08110438d07db2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Asteroid - Flame_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.2586207, y: -0.9117647}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 46
       width: 58
       height: 34
-    spriteID: 5f9676d45aa08ce44b06a090296da35d
+    spriteID: eb601989d9ea04c4ca38ff9be0de64d8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 46}
-  - name: Asteroid - Flame_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.2777778, y: -0.9117647}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 46
       width: 54
       height: 34
-    spriteID: 9d948def0689d9b44b8119731de14ea7
+    spriteID: bcf4af5620ca57f4bb7445b844379b23
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,7 +190,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Asteroid - Flame_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -198,8 +198,8 @@ ScriptedImporter:
         y: 31
         width: 64
         height: 34
-      spriteId: 9dbff7ef8d3b5994db62ce313c65f279
-    - name: Asteroid - Flame_Frame_1
+      spriteId: b8e61a93911d1c646b08110438d07db2
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -207,8 +207,8 @@ ScriptedImporter:
         y: 31
         width: 58
         height: 34
-      spriteId: 5f9676d45aa08ce44b06a090296da35d
-    - name: Asteroid - Flame_Frame_2
+      spriteId: eb601989d9ea04c4ca38ff9be0de64d8
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -216,10 +216,22 @@ ScriptedImporter:
         y: 31
         width: 54
         height: 34
-      spriteId: 9d948def0689d9b44b8119731de14ea7
+      spriteId: bcf4af5620ca57f4bb7445b844379b23
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 43cec254a8255f64fa16f7eda3b5ad12
+guid: c8bcf414523586b40810ce98a7bd0b97
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615615218172490
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 22
       height: 15
-    spriteID: 0e790d5dab43d56438811ab8b6ed8a29
+    spriteID: 47afc171f11c32f48b2f211051f52bb4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -158,23 +158,11 @@ ScriptedImporter:
         y: 9
         width: 22
         height: 15
-      spriteId: 0e790d5dab43d56438811ab8b6ed8a29
+      spriteId: 47afc171f11c32f48b2f211051f52bb4
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

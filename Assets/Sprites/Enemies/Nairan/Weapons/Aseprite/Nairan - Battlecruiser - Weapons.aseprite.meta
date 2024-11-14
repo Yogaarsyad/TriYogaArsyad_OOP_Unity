@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c91e5c4137ca77f408247bc836cfea64
+guid: 180405cb68f4c3d499bee9c7881d9638
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nairan - Battlecruiser - Weapons_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: 3eee16f8b345ff949949efdb671761ed
+    spriteID: 3bcc9497b31c75b41831b0a1fd6d6175
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nairan - Battlecruiser - Weapons_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: 17e4e5bb1d91b984ca21b3fa9ea7e0ab
+    spriteID: e34b976d862803540b8009d6a25b99f6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 140}
-  - name: Nairan - Battlecruiser - Weapons_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: 186ef82e1ecd9e546bf63a20f2361b7f
+    spriteID: c765d74563f7e5e4b948c2c430b4f5d8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 276}
-  - name: Nairan - Battlecruiser - Weapons_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: 5341839f6dc94d549abc263fb5b17be9
+    spriteID: b8ab23c5bdc7ff74d837738709074a29
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 4}
-  - name: Nairan - Battlecruiser - Weapons_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: 1d13021ade4d9064d97e21ea759fba72
+    spriteID: c9c3938eebfb6ef4c9fb8a5421624445
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 140}
-  - name: Nairan - Battlecruiser - Weapons_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: 7746c214b8f80e04bab3d83fdf3231c8
+    spriteID: 94f6d6872349adb4c91425623ecade58
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 276}
-  - name: Nairan - Battlecruiser - Weapons_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: 3e495b1d5e04eef438bad05852223973
+    spriteID: 00df9df04bc88924dbaf1ef27453cf6b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 276, y: 4}
-  - name: Nairan - Battlecruiser - Weapons_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: 5938023ec1a26cf4986b49c0d0a1cc43
+    spriteID: e5f688560e2a8e24baa54f93a368f0c7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 276, y: 140}
-  - name: Nairan - Battlecruiser - Weapons_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: aa56c07bfb3f2a545a3be930387d6755
+    spriteID: bee843de5430ce14fa3c63861b012c02
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -310,7 +310,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nairan - Battlecruiser - Weapons_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -318,8 +318,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 3eee16f8b345ff949949efdb671761ed
-    - name: Nairan - Battlecruiser - Weapons_Frame_8
+      spriteId: 3bcc9497b31c75b41831b0a1fd6d6175
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -327,8 +327,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 17e4e5bb1d91b984ca21b3fa9ea7e0ab
-    - name: Nairan - Battlecruiser - Weapons_Frame_1
+      spriteId: e34b976d862803540b8009d6a25b99f6
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -336,8 +336,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 186ef82e1ecd9e546bf63a20f2361b7f
-    - name: Nairan - Battlecruiser - Weapons_Frame_2
+      spriteId: c765d74563f7e5e4b948c2c430b4f5d8
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -345,8 +345,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 5341839f6dc94d549abc263fb5b17be9
-    - name: Nairan - Battlecruiser - Weapons_Frame_3
+      spriteId: b8ab23c5bdc7ff74d837738709074a29
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -354,8 +354,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 1d13021ade4d9064d97e21ea759fba72
-    - name: Nairan - Battlecruiser - Weapons_Frame_4
+      spriteId: c9c3938eebfb6ef4c9fb8a5421624445
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -363,8 +363,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 7746c214b8f80e04bab3d83fdf3231c8
-    - name: Nairan - Battlecruiser - Weapons_Frame_5
+      spriteId: 94f6d6872349adb4c91425623ecade58
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -372,8 +372,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 3e495b1d5e04eef438bad05852223973
-    - name: Nairan - Battlecruiser - Weapons_Frame_6
+      spriteId: 00df9df04bc88924dbaf1ef27453cf6b
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -381,8 +381,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 5938023ec1a26cf4986b49c0d0a1cc43
-    - name: Nairan - Battlecruiser - Weapons_Frame_7
+      spriteId: e5f688560e2a8e24baa54f93a368f0c7
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -390,10 +390,22 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: aa56c07bfb3f2a545a3be930387d6755
+      spriteId: bee843de5430ce14fa3c63861b012c02
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

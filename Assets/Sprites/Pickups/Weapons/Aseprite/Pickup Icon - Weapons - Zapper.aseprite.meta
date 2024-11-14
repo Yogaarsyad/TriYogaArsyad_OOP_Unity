@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 3afcb648724143845ac96b3ab54dda4e
+guid: 50515fd9cc59c8747b65c49ea4aa5202
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615776805686414
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Pickup Icon - Weapons - Zapper_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 26
       height: 32
-    spriteID: fd78dc8a6c8752948bf25746a01ed0a8
+    spriteID: b4e1f0d4c3fcbb24bb1b0870b26ad653
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Pickup Icon - Weapons - Zapper_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 44
       width: 26
       height: 32
-    spriteID: d00c6a69801d24e49885de9b632c5958
+    spriteID: 0401389dc05ded44ca20403271fce302
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 44}
-  - name: Pickup Icon - Weapons - Zapper_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 84
       width: 26
       height: 32
-    spriteID: 23facf3b501495a4bbe33e32538094af
+    spriteID: 2ef37e7c6ab69324b983beb6856a4270
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 84}
-  - name: Pickup Icon - Weapons - Zapper_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 124
       width: 26
       height: 32
-    spriteID: 871d243126fb05c42956e87cf70cd4d3
+    spriteID: 60a70b6bcd49b5d43b22f7327cdeefa5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 124}
-  - name: Pickup Icon - Weapons - Zapper_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 164
       width: 26
       height: 32
-    spriteID: 7c2522314b788bf459b839583296d6f5
+    spriteID: 8484ed0274e76914da411636ed59a14c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 164}
-  - name: Pickup Icon - Weapons - Zapper_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 204
       width: 26
       height: 32
-    spriteID: 66f552afdbb126348b62593d1e59f7ee
+    spriteID: 67bf41c33374f1f42b24d4794288e7fa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 204}
-  - name: Pickup Icon - Weapons - Zapper_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 4
       width: 26
       height: 32
-    spriteID: 3d1c6bc9410d6ae4e9da3fe80f7ecf7f
+    spriteID: 1f7516f3673bbc94696989110c65b6fb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 38, y: 4}
-  - name: Pickup Icon - Weapons - Zapper_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 44
       width: 26
       height: 32
-    spriteID: 95e990c0a5aa546409561492b886dc63
+    spriteID: 75cd4b13df0cfbe48b2727e7b8044a1e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 38, y: 44}
-  - name: Pickup Icon - Weapons - Zapper_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 84
       width: 26
       height: 32
-    spriteID: e2f99bd686b938b4c851985b6c46be51
+    spriteID: 75c1cf4988f5802429b9bdb96286ea65
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 38, y: 84}
-  - name: Pickup Icon - Weapons - Zapper_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 124
       width: 26
       height: 32
-    spriteID: 23386fd0292445b4c8d3ef526c352c0f
+    spriteID: e153c80895a3dc04ca88c58eab21f3b7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 38, y: 124}
-  - name: Pickup Icon - Weapons - Zapper_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 164
       width: 26
       height: 32
-    spriteID: 7c47b7e37d16d564a803f5230100ae03
+    spriteID: 75daeb11bf9fd094f92c555f01c017c7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 38, y: 164}
-  - name: Pickup Icon - Weapons - Zapper_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 204
       width: 26
       height: 32
-    spriteID: bc1714bc09e9fe24388379d357e513a8
+    spriteID: c6a0a484e89848e4d8831fef20add36e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -361,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 38, y: 204}
-  - name: Pickup Icon - Weapons - Zapper_Frame_12
+  - name: Frame_12
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 4
       width: 26
       height: 32
-    spriteID: f2880b161b9d7d8479e1b338de52ac2d
+    spriteID: 4a669d0bb1c449645bc15c88127e418c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -381,7 +381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 72, y: 4}
-  - name: Pickup Icon - Weapons - Zapper_Frame_13
+  - name: Frame_13
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 44
       width: 26
       height: 32
-    spriteID: b39c1461780facd4eb77c589abd1b0cc
+    spriteID: 1a8f33356a8418c469781206977a7a28
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -401,7 +401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 72, y: 44}
-  - name: Pickup Icon - Weapons - Zapper_Frame_14
+  - name: Frame_14
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 84
       width: 26
       height: 32
-    spriteID: a34bacf83cc805b4888671dbb0cf4d4c
+    spriteID: ef0ee44203e48174c99047634443c068
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -430,7 +430,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Pickup Icon - Weapons - Zapper_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -438,8 +438,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: fd78dc8a6c8752948bf25746a01ed0a8
-    - name: Pickup Icon - Weapons - Zapper_Frame_1
+      spriteId: b4e1f0d4c3fcbb24bb1b0870b26ad653
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -447,8 +447,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: d00c6a69801d24e49885de9b632c5958
-    - name: Pickup Icon - Weapons - Zapper_Frame_2
+      spriteId: 0401389dc05ded44ca20403271fce302
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -456,8 +456,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: 23facf3b501495a4bbe33e32538094af
-    - name: Pickup Icon - Weapons - Zapper_Frame_3
+      spriteId: 2ef37e7c6ab69324b983beb6856a4270
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -465,8 +465,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: 871d243126fb05c42956e87cf70cd4d3
-    - name: Pickup Icon - Weapons - Zapper_Frame_4
+      spriteId: 60a70b6bcd49b5d43b22f7327cdeefa5
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -474,8 +474,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: 7c2522314b788bf459b839583296d6f5
-    - name: Pickup Icon - Weapons - Zapper_Frame_5
+      spriteId: 8484ed0274e76914da411636ed59a14c
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -483,8 +483,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: 66f552afdbb126348b62593d1e59f7ee
-    - name: Pickup Icon - Weapons - Zapper_Frame_6
+      spriteId: 67bf41c33374f1f42b24d4794288e7fa
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -492,8 +492,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: 3d1c6bc9410d6ae4e9da3fe80f7ecf7f
-    - name: Pickup Icon - Weapons - Zapper_Frame_7
+      spriteId: 1f7516f3673bbc94696989110c65b6fb
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -501,8 +501,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: 95e990c0a5aa546409561492b886dc63
-    - name: Pickup Icon - Weapons - Zapper_Frame_8
+      spriteId: 75cd4b13df0cfbe48b2727e7b8044a1e
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -510,8 +510,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: e2f99bd686b938b4c851985b6c46be51
-    - name: Pickup Icon - Weapons - Zapper_Frame_9
+      spriteId: 75c1cf4988f5802429b9bdb96286ea65
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -519,8 +519,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: 23386fd0292445b4c8d3ef526c352c0f
-    - name: Pickup Icon - Weapons - Zapper_Frame_10
+      spriteId: e153c80895a3dc04ca88c58eab21f3b7
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -528,8 +528,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: 7c47b7e37d16d564a803f5230100ae03
-    - name: Pickup Icon - Weapons - Zapper_Frame_11
+      spriteId: 75daeb11bf9fd094f92c555f01c017c7
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -537,8 +537,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: bc1714bc09e9fe24388379d357e513a8
-    - name: Pickup Icon - Weapons - Zapper_Frame_12
+      spriteId: c6a0a484e89848e4d8831fef20add36e
+    - name: Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -546,8 +546,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: f2880b161b9d7d8479e1b338de52ac2d
-    - name: Pickup Icon - Weapons - Zapper_Frame_13
+      spriteId: 4a669d0bb1c449645bc15c88127e418c
+    - name: Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -555,8 +555,8 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: b39c1461780facd4eb77c589abd1b0cc
-    - name: Pickup Icon - Weapons - Zapper_Frame_14
+      spriteId: 1a8f33356a8418c469781206977a7a28
+    - name: Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -564,23 +564,11 @@ ScriptedImporter:
         y: 0
         width: 26
         height: 32
-      spriteId: a34bacf83cc805b4888671dbb0cf4d4c
+      spriteId: ef0ee44203e48174c99047634443c068
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 08a88015107568449b0a6b28f0e72fd4
+guid: ed1e8081d2c64d14b8dc97fa2bb9b615
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Asteroid 01 - Explode_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.47826084, y: -0.6923077}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 46
       height: 39
-    spriteID: 0277dc29fc8e7424b91470f2deb438b0
+    spriteID: 94f4487d0288e494895e9b4ca67ce3f6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 190, y: 4}
-  - name: Asteroid 01 - Explode_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.50769234, y: -0.21666668}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 87
       width: 65
       height: 60
-    spriteID: 6376a4bd81c2a864fb8efca171446fb6
+    spriteID: 7d3077be4aec7a54d9c36f20bbe08b4f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 104, y: 87}
-  - name: Asteroid 01 - Explode_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: -0.10666667}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 78
       height: 75
-    spriteID: afa06cc74bff5494bb42afe978c890f7
+    spriteID: dfa94980aa6053a4a8044557f738e811
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 104, y: 4}
-  - name: Asteroid 01 - Explode_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.49438202, y: -0.023255816}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 105
       width: 89
       height: 86
-    spriteID: 382d3f1137ea8894abce6ce54acc034f
+    spriteID: 492c0f8d438cda54bab5ef6373a0afc4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 105}
-  - name: Asteroid 01 - Explode_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.49999997, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 4
       width: 92
       height: 93
-    spriteID: a0b1069d3f709b74c83e98eca9803d92
+    spriteID: 0a4cce40bb0ad0746bc2abc0030b77cd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Asteroid 01 - Explode_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.49999994, y: -0.93939394}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 199
       width: 38
       height: 33
-    spriteID: 31b58123b1a76d34c8c8407416b48480
+    spriteID: ebd3630df127a6c4db5038ce371fb5e2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 199}
-  - name: Asteroid 01 - Explode_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.49999994, y: -0.93939394}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 199
       width: 38
       height: 33
-    spriteID: 8aa21aa230977414a98121d0bbfd072e
+    spriteID: bcd4783ea299d1a4590e8e95e96f38ef
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -270,7 +270,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Asteroid 01 - Explode_Frame_2
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -278,8 +278,8 @@ ScriptedImporter:
         y: 27
         width: 46
         height: 39
-      spriteId: 0277dc29fc8e7424b91470f2deb438b0
-    - name: Asteroid 01 - Explode_Frame_3
+      spriteId: 94f4487d0288e494895e9b4ca67ce3f6
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -287,8 +287,8 @@ ScriptedImporter:
         y: 13
         width: 65
         height: 60
-      spriteId: 6376a4bd81c2a864fb8efca171446fb6
-    - name: Asteroid 01 - Explode_Frame_4
+      spriteId: 7d3077be4aec7a54d9c36f20bbe08b4f
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -296,8 +296,8 @@ ScriptedImporter:
         y: 8
         width: 78
         height: 75
-      spriteId: afa06cc74bff5494bb42afe978c890f7
-    - name: Asteroid 01 - Explode_Frame_5
+      spriteId: dfa94980aa6053a4a8044557f738e811
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -305,8 +305,8 @@ ScriptedImporter:
         y: 2
         width: 89
         height: 86
-      spriteId: 382d3f1137ea8894abce6ce54acc034f
-    - name: Asteroid 01 - Explode_Frame_6
+      spriteId: 492c0f8d438cda54bab5ef6373a0afc4
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -314,8 +314,8 @@ ScriptedImporter:
         y: 0
         width: 92
         height: 93
-      spriteId: a0b1069d3f709b74c83e98eca9803d92
-    - name: Asteroid 01 - Explode_Frame_0
+      spriteId: 0a4cce40bb0ad0746bc2abc0030b77cd
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -323,8 +323,8 @@ ScriptedImporter:
         y: 31
         width: 38
         height: 33
-      spriteId: 31b58123b1a76d34c8c8407416b48480
-    - name: Asteroid 01 - Explode_Frame_1
+      spriteId: ebd3630df127a6c4db5038ce371fb5e2
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -332,10 +332,22 @@ ScriptedImporter:
         y: 31
         width: 38
         height: 33
-      spriteId: 8aa21aa230977414a98121d0bbfd072e
+      spriteId: bcd4783ea299d1a4590e8e95e96f38ef
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bb1a9d881b19b754284db8239bc62b34
+guid: 4a4fc324b59afd847a1a13f499e127e6
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nairan - Torpedo Ship - Engine_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 5a0324e4a518e3146bc3fd8c5635f01b
+    spriteID: e8d4f7fe52598f143a5767abfc01604e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nairan - Torpedo Ship - Engine_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 22bdd68c55434c947a6283f4d53b1fdf
+    spriteID: b16927c0e8dbc3042a8e553583ba3f40
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Nairan - Torpedo Ship - Engine_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 2852a395bb2155b44b40f0966e4aa776
+    spriteID: 315535d706c2826419543ea52ac5df3e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 148}
-  - name: Nairan - Torpedo Ship - Engine_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 8e0e9b59d064be246a45d48bdec188d9
+    spriteID: 38c2a53f81cc00f4bbc005a0400aa8c0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 4}
-  - name: Nairan - Torpedo Ship - Engine_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: ead54e8dc05482842b1b3a4bedb0e562
+    spriteID: 90158b3bce8659c46925c75229f9efa9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 76}
-  - name: Nairan - Torpedo Ship - Engine_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 92f73a70d59596840b6c4192263fe822
+    spriteID: a935ddd6c3824bd42ac6957a99125d1d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 148}
-  - name: Nairan - Torpedo Ship - Engine_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 452f79df907b0e147886de4f0a223de4
+    spriteID: 1146b9bb44d760e459c39953085d913b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 148, y: 4}
-  - name: Nairan - Torpedo Ship - Engine_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: c911c61691b16744faa39ea120f6b421
+    spriteID: 3e7fffbda1427284c92203bad205214d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -290,7 +290,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nairan - Torpedo Ship - Engine_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -298,8 +298,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 5a0324e4a518e3146bc3fd8c5635f01b
-    - name: Nairan - Torpedo Ship - Engine_Frame_1
+      spriteId: e8d4f7fe52598f143a5767abfc01604e
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -307,8 +307,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 22bdd68c55434c947a6283f4d53b1fdf
-    - name: Nairan - Torpedo Ship - Engine_Frame_2
+      spriteId: b16927c0e8dbc3042a8e553583ba3f40
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -316,8 +316,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 2852a395bb2155b44b40f0966e4aa776
-    - name: Nairan - Torpedo Ship - Engine_Frame_3
+      spriteId: 315535d706c2826419543ea52ac5df3e
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -325,8 +325,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 8e0e9b59d064be246a45d48bdec188d9
-    - name: Nairan - Torpedo Ship - Engine_Frame_4
+      spriteId: 38c2a53f81cc00f4bbc005a0400aa8c0
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -334,8 +334,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: ead54e8dc05482842b1b3a4bedb0e562
-    - name: Nairan - Torpedo Ship - Engine_Frame_5
+      spriteId: 90158b3bce8659c46925c75229f9efa9
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -343,8 +343,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 92f73a70d59596840b6c4192263fe822
-    - name: Nairan - Torpedo Ship - Engine_Frame_6
+      spriteId: a935ddd6c3824bd42ac6957a99125d1d
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -352,8 +352,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 452f79df907b0e147886de4f0a223de4
-    - name: Nairan - Torpedo Ship - Engine_Frame_7
+      spriteId: 1146b9bb44d760e459c39953085d913b
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -361,10 +361,22 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: c911c61691b16744faa39ea120f6b421
+      spriteId: 3e7fffbda1427284c92203bad205214d
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

@@ -2,43 +2,60 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    // Player Singleton.
-    public static Player Instance;
+    // This for getting the instace of Player Singleton
+    public static Player Instance { get; private set; }
 
-    // Reference untuk PlayerMovement dan Animator.
-    public PlayerMovement playerMovement;
-    private Animator animator;
+    // Getting the PlayerMovement methods
+    PlayerMovement playerMovement;
+    // Animator
+    Animator animator;
 
-    // Fungsi Awake untuk inisialisasi Singleton.
+
+    // Key for Singleton
     void Awake()
     {
-        // Menjaga hanya satu instance Player..
-        if (Instance == null)
+        if (Instance != null && Instance != this)
         {
-            Instance = this;
+            Destroy(this);
+            return;
         }
-        else
-        {
-            Destroy(gameObject);
-        }
+
+        Instance = this;
+
+        DontDestroyOnLoad(gameObject);
     }
 
+    // Getting Component
     void Start()
     {
-        // Mengambil komponen PlayerMovement dan Animator.
+        // Get PlayerMovement components
         playerMovement = GetComponent<PlayerMovement>();
-        animator = GameObject.Find("EngineEffect").GetComponent<Animator>();
+
+        // Get Animator components
+        animator = GameObject.Find("EngineEffects").GetComponent<Animator>();
     }
 
+    // Using FixedUpdate to Move because of physics
     void FixedUpdate()
     {
-        // Memanggil Move pada PlayerMovement untuk bergerak.
         playerMovement.Move();
     }
 
+    // LateUpdate for animation related
     void LateUpdate()
     {
-        // Mengatur parameter IsMoving pada Animator sesuai status pergerakan Player.
+        playerMovement.MoveBound();
         animator.SetBool("IsMoving", playerMovement.IsMoving());
+    }
+
+    private WeaponPickup currentWeaponPickup;
+
+    public void SwitchWeapon(Weapon newWeapon, WeaponPickup newWeaponPickup)
+    {
+        if (currentWeaponPickup != null)
+        {
+            currentWeaponPickup.PickupHandler(true);  // Make the previous weapon pickup visible again
+        }
+        currentWeaponPickup = newWeaponPickup;
     }
 }

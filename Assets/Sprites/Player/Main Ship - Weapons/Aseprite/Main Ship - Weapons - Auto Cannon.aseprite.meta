@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d58819ae51a945845b749cc34bd2c3ea
+guid: 276709cc39c08f247b6c955a8e6aeed3
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615201873935656
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Main Ship - Weapons - Auto Cannon_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.94117653}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 39
       width: 24
       height: 17
-    spriteID: ece02488a433fbb4dbfcc7a7e4de9101
+    spriteID: 2705a7ead6a9031408b5296e2b93b15f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 71, y: 39}
-  - name: Main Ship - Weapons - Auto Cannon_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.6666667}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 39
       width: 24
       height: 24
-    spriteID: bc2abec55f53de040b16cbdbeba2d793
+    spriteID: 84be3e3825eba3a4aaf1fcaad112c359
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 39}
-  - name: Main Ship - Weapons - Auto Cannon_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.61538464}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 24
       height: 26
-    spriteID: e3d2e23f6c3f84f41945657f5e8e8f4b
+    spriteID: 1b7c91ed08c6d8140872523f78811200
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 75, y: 4}
-  - name: Main Ship - Weapons - Auto Cannon_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.53846157, y: -0.5925926}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 26
       height: 27
-    spriteID: c2ace3dad95fade4f9999140605d97d2
+    spriteID: 4f167e56cba901d40b8744ff6c35fa77
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 41, y: 4}
-  - name: Main Ship - Weapons - Auto Cannon_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5172414, y: -0.5925926}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 4
       width: 29
       height: 27
-    spriteID: 20f65afd54810b948b867ed39fdad36e
+    spriteID: c06d48d98c5227d4395ebfb94eb59e59
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Main Ship - Weapons - Auto Cannon_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.44444445, y: -0.76190484}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 39
       width: 27
       height: 21
-    spriteID: f5f15a60f05db564fbbfe6845c9b3cdb
+    spriteID: 2c8d54102e213f741899bbd7fee0d691
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 36, y: 39}
-  - name: Main Ship - Weapons - Auto Cannon_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: -0.94117653}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 71
       width: 24
       height: 17
-    spriteID: 153fdb9daf38a66469167a3ec6a5dd4a
+    spriteID: 69858dfb31e01374cb7ac9ea569817a8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -270,7 +270,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Main Ship - Weapons - Auto Cannon_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -278,8 +278,8 @@ ScriptedImporter:
         y: 16
         width: 24
         height: 17
-      spriteId: ece02488a433fbb4dbfcc7a7e4de9101
-    - name: Main Ship - Weapons - Auto Cannon_Frame_1
+      spriteId: 2705a7ead6a9031408b5296e2b93b15f
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -287,8 +287,8 @@ ScriptedImporter:
         y: 16
         width: 24
         height: 24
-      spriteId: bc2abec55f53de040b16cbdbeba2d793
-    - name: Main Ship - Weapons - Auto Cannon_Frame_2
+      spriteId: 84be3e3825eba3a4aaf1fcaad112c359
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -296,8 +296,8 @@ ScriptedImporter:
         y: 16
         width: 24
         height: 26
-      spriteId: e3d2e23f6c3f84f41945657f5e8e8f4b
-    - name: Main Ship - Weapons - Auto Cannon_Frame_3
+      spriteId: 1b7c91ed08c6d8140872523f78811200
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -305,8 +305,8 @@ ScriptedImporter:
         y: 16
         width: 26
         height: 27
-      spriteId: c2ace3dad95fade4f9999140605d97d2
-    - name: Main Ship - Weapons - Auto Cannon_Frame_4
+      spriteId: 4f167e56cba901d40b8744ff6c35fa77
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -314,8 +314,8 @@ ScriptedImporter:
         y: 16
         width: 29
         height: 27
-      spriteId: 20f65afd54810b948b867ed39fdad36e
-    - name: Main Ship - Weapons - Auto Cannon_Frame_5
+      spriteId: c06d48d98c5227d4395ebfb94eb59e59
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -323,8 +323,8 @@ ScriptedImporter:
         y: 16
         width: 27
         height: 21
-      spriteId: f5f15a60f05db564fbbfe6845c9b3cdb
-    - name: Main Ship - Weapons - Auto Cannon_Frame_6
+      spriteId: 2c8d54102e213f741899bbd7fee0d691
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -332,11 +332,11 @@ ScriptedImporter:
         y: 16
         width: 24
         height: 17
-      spriteId: 153fdb9daf38a66469167a3ec6a5dd4a
+      spriteId: 69858dfb31e01374cb7ac9ea569817a8
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048
@@ -348,19 +348,7 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  generatePhysicsShape: 1
+  generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 48, y: 48}

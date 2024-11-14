@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e99f3bfd3482d3f4c9f91a175556a325
+guid: b47f6b78a8d7b7c48a2dde752ab19080
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615753194860042
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Kla'ed - Torpedo_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 11
       height: 32
-    spriteID: 2551a9c2b4cbe744d9211279e857dff9
+    spriteID: 8f376c638d7057d4085e4193267c1cd4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Kla'ed - Torpedo_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 4
       width: 11
       height: 32
-    spriteID: 005eb70a3010bdc4e8d8548a0701a96c
+    spriteID: f203356889eb9e940b9b968c5e7a5013
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 23, y: 4}
-  - name: Kla'ed - Torpedo_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 11
       height: 32
-    spriteID: 9e1958531cd53c84686710f5ecc99ea0
+    spriteID: f5edd14900eda4c4384cf50c132a0b11
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,7 +190,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Kla'ed - Torpedo_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -198,8 +198,8 @@ ScriptedImporter:
         y: 0
         width: 11
         height: 32
-      spriteId: 2551a9c2b4cbe744d9211279e857dff9
-    - name: Kla'ed - Torpedo_Frame_1
+      spriteId: 8f376c638d7057d4085e4193267c1cd4
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -207,8 +207,8 @@ ScriptedImporter:
         y: 0
         width: 11
         height: 32
-      spriteId: 005eb70a3010bdc4e8d8548a0701a96c
-    - name: Kla'ed - Torpedo_Frame_2
+      spriteId: f203356889eb9e940b9b968c5e7a5013
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -216,23 +216,11 @@ ScriptedImporter:
         y: 0
         width: 11
         height: 32
-      spriteId: 9e1958531cd53c84686710f5ecc99ea0
+      spriteId: f5edd14900eda4c4384cf50c132a0b11
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

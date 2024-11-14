@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 8b56eb822f799b24e86bb5770e44d416
+guid: 1ab23a138113db74097ec1a92b2159d6
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Kla'ed - Battlecruiser - Engine_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -3.25}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 163
       width: 70
       height: 8
-    spriteID: 4e4e58cc610107e429d3df62ff293a32
+    spriteID: a5c60ffa05eb2c540a2e001a0d6b7b53
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 163}
-  - name: Kla'ed - Battlecruiser - Engine_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -2.777778}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 112
       width: 70
       height: 9
-    spriteID: 457cf345be9fd8b4896b02e9bf91eca6
+    spriteID: fd03533f094672147824a244ba2dc00a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 112}
-  - name: Kla'ed - Battlecruiser - Engine_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -2.4}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 70
       height: 10
-    spriteID: 33631370d0a8cd44da570d56603d57a8
+    spriteID: 33d863918e8b0e0448f6e8af5c2cabde
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Kla'ed - Battlecruiser - Engine_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -2.5}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 22
       width: 70
       height: 10
-    spriteID: 58c1a9611b6810e40bff534b728fbbc6
+    spriteID: e6097833452062240a9fd0d727fe240a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 22}
-  - name: Kla'ed - Battlecruiser - Engine_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: -3.25}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 179
       width: 70
       height: 8
-    spriteID: e7847fb1c61864249b36060a9ac21897
+    spriteID: 33bbb54edb1d6cb4090e45675e262411
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 179}
-  - name: Kla'ed - Battlecruiser - Engine_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: -2.777778}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 129
       width: 70
       height: 9
-    spriteID: eb312f2fe23fd7d4bab7a113764d5d24
+    spriteID: a84bdd7d2eba05e4287a04d33efdf0b7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 129}
-  - name: Kla'ed - Battlecruiser - Engine_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: -2.4}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 40
       width: 70
       height: 10
-    spriteID: 8cfbbd3b03126bd49b36735cf592b71a
+    spriteID: a9d7c0c309962f14180cdf77d4622941
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 40}
-  - name: Kla'ed - Battlecruiser - Engine_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: -2.5}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 58
       width: 70
       height: 10
-    spriteID: 8f1bf5147af401543a6f15df2bb9c8e4
+    spriteID: 1df25c0c378dfb44eb141b919bbce4f4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 58}
-  - name: Kla'ed - Battlecruiser - Engine_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: -3.25}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 195
       width: 70
       height: 8
-    spriteID: 2df6309701b62c44780658f1ce5113c5
+    spriteID: ef2a0470c924ccc40a21673372e2e52d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 195}
-  - name: Kla'ed - Battlecruiser - Engine_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: -2.777778}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 146
       width: 70
       height: 9
-    spriteID: 6f439bc256d705949a348a8d5540fe5c
+    spriteID: 09e741ae119a8ad40a641c3ce4a6ec20
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 146}
-  - name: Kla'ed - Battlecruiser - Engine_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: -2.4}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 76
       width: 70
       height: 10
-    spriteID: 53f8f6da699cd7849bb7b17504714761
+    spriteID: d538c4ecd8524ba40941152e4a752448
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Kla'ed - Battlecruiser - Engine_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.5, y: -2.5}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 94
       width: 70
       height: 10
-    spriteID: 9144360209db21d4185cebcb72dfb4f7
+    spriteID: c9740038d13d8f645bd3465c61177e4e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -370,7 +370,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Kla'ed - Battlecruiser - Engine_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -378,8 +378,8 @@ ScriptedImporter:
         y: 26
         width: 70
         height: 8
-      spriteId: 4e4e58cc610107e429d3df62ff293a32
-    - name: Kla'ed - Battlecruiser - Engine_Frame_1
+      spriteId: a5c60ffa05eb2c540a2e001a0d6b7b53
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -387,8 +387,8 @@ ScriptedImporter:
         y: 25
         width: 70
         height: 9
-      spriteId: 457cf345be9fd8b4896b02e9bf91eca6
-    - name: Kla'ed - Battlecruiser - Engine_Frame_2
+      spriteId: fd03533f094672147824a244ba2dc00a
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -396,8 +396,8 @@ ScriptedImporter:
         y: 24
         width: 70
         height: 10
-      spriteId: 33631370d0a8cd44da570d56603d57a8
-    - name: Kla'ed - Battlecruiser - Engine_Frame_3
+      spriteId: 33d863918e8b0e0448f6e8af5c2cabde
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -405,8 +405,8 @@ ScriptedImporter:
         y: 25
         width: 70
         height: 10
-      spriteId: 58c1a9611b6810e40bff534b728fbbc6
-    - name: Kla'ed - Battlecruiser - Engine_Frame_4
+      spriteId: e6097833452062240a9fd0d727fe240a
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -414,8 +414,8 @@ ScriptedImporter:
         y: 26
         width: 70
         height: 8
-      spriteId: e7847fb1c61864249b36060a9ac21897
-    - name: Kla'ed - Battlecruiser - Engine_Frame_5
+      spriteId: 33bbb54edb1d6cb4090e45675e262411
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -423,8 +423,8 @@ ScriptedImporter:
         y: 25
         width: 70
         height: 9
-      spriteId: eb312f2fe23fd7d4bab7a113764d5d24
-    - name: Kla'ed - Battlecruiser - Engine_Frame_6
+      spriteId: a84bdd7d2eba05e4287a04d33efdf0b7
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -432,8 +432,8 @@ ScriptedImporter:
         y: 24
         width: 70
         height: 10
-      spriteId: 8cfbbd3b03126bd49b36735cf592b71a
-    - name: Kla'ed - Battlecruiser - Engine_Frame_7
+      spriteId: a9d7c0c309962f14180cdf77d4622941
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -441,8 +441,8 @@ ScriptedImporter:
         y: 25
         width: 70
         height: 10
-      spriteId: 8f1bf5147af401543a6f15df2bb9c8e4
-    - name: Kla'ed - Battlecruiser - Engine_Frame_8
+      spriteId: 1df25c0c378dfb44eb141b919bbce4f4
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -450,8 +450,8 @@ ScriptedImporter:
         y: 26
         width: 70
         height: 8
-      spriteId: 2df6309701b62c44780658f1ce5113c5
-    - name: Kla'ed - Battlecruiser - Engine_Frame_9
+      spriteId: ef2a0470c924ccc40a21673372e2e52d
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -459,8 +459,8 @@ ScriptedImporter:
         y: 25
         width: 70
         height: 9
-      spriteId: 6f439bc256d705949a348a8d5540fe5c
-    - name: Kla'ed - Battlecruiser - Engine_Frame_10
+      spriteId: 09e741ae119a8ad40a641c3ce4a6ec20
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -468,8 +468,8 @@ ScriptedImporter:
         y: 24
         width: 70
         height: 10
-      spriteId: 53f8f6da699cd7849bb7b17504714761
-    - name: Kla'ed - Battlecruiser - Engine_Frame_11
+      spriteId: d538c4ecd8524ba40941152e4a752448
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -477,10 +477,22 @@ ScriptedImporter:
         y: 25
         width: 70
         height: 10
-      spriteId: 9144360209db21d4185cebcb72dfb4f7
+      spriteId: c9740038d13d8f645bd3465c61177e4e
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

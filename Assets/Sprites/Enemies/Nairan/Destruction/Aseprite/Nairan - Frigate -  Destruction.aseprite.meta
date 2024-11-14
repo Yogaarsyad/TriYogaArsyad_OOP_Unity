@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 208f37ee793914249b5f689c645f36ef
+guid: 1a19b4d2addc9264f8876ce3a2976b78
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nairan - Frigate -  Destruction_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: d1604f3068e83c64c87a8807b575fef2
+    spriteID: fb92727d82f943d43bec7499a035e765
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nairan - Frigate -  Destruction_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 95b228a03a4ce4242bbcaccf6818aaaa
+    spriteID: 7b48510d9cbf00b45a459305b869b5ff
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Nairan - Frigate -  Destruction_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: d7e57ad9768adab4481dbea7b03fef4c
+    spriteID: 667e9885ec7bb7f419f2251e3217e9ef
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 148}
-  - name: Nairan - Frigate -  Destruction_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 220
       width: 64
       height: 64
-    spriteID: ed5752fedb151ef40947bad3079f9dec
+    spriteID: abedc14343928074da1f17e7d2a6041d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 220}
-  - name: Nairan - Frigate -  Destruction_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 292
       width: 64
       height: 64
-    spriteID: da8c38de214cfaa47a437eca5e140f52
+    spriteID: cf4abdb3b8aa11f47996664e9f1d9447
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 292}
-  - name: Nairan - Frigate -  Destruction_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 364
       width: 64
       height: 64
-    spriteID: c107e9c20d415e442b15223f762a808c
+    spriteID: d6688ea74705b4349ad4a656b5440f90
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 364}
-  - name: Nairan - Frigate -  Destruction_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 436
       width: 64
       height: 64
-    spriteID: 789526441ec80e24790db6161874bc36
+    spriteID: 78d259b241f47b442b98ef09bad693ba
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 436}
-  - name: Nairan - Frigate -  Destruction_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 6edf81096b63f294e84d0f119edecb61
+    spriteID: 2ab1c11ba0b852c488415915932c2375
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 4}
-  - name: Nairan - Frigate -  Destruction_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 9a963ab64ea6a084fac0d7c3481a2316
+    spriteID: 746e6d096b8a74343bed3f570e85daaa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 76}
-  - name: Nairan - Frigate -  Destruction_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 1926dca8c670fec49a3d9233818638c5
+    spriteID: a2c3dc639848d334da6d8cf6e77b5b1f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 148}
-  - name: Nairan - Frigate -  Destruction_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 220
       width: 64
       height: 64
-    spriteID: ba186173a92531f45aa5ae97b39b299b
+    spriteID: c6e2c08234fc28c4a9b584489afcd665
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 220}
-  - name: Nairan - Frigate -  Destruction_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 292
       width: 64
       height: 64
-    spriteID: ea9f80605f3a6bb4dbe9beda13182cfc
+    spriteID: 3492038d22afa6742a91c98e56f45422
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -361,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 292}
-  - name: Nairan - Frigate -  Destruction_Frame_12
+  - name: Frame_12
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 364
       width: 64
       height: 64
-    spriteID: d130962ca04b6c244aad039c3ac9cbe5
+    spriteID: a0c562d5b18b3d149ae0ae629c49926e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -381,7 +381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 364}
-  - name: Nairan - Frigate -  Destruction_Frame_13
+  - name: Frame_13
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 436
       width: 64
       height: 64
-    spriteID: f0855e663dacf5744b304c7ebc26061c
+    spriteID: 3f6e2f4f51821a843ac5a888ed95c11d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -401,7 +401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 436}
-  - name: Nairan - Frigate -  Destruction_Frame_14
+  - name: Frame_14
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 2d8049adba7194746808712900a73d67
+    spriteID: 9cb6202301a7d0d4a98d5c96b251558b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,7 +421,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 148, y: 4}
-  - name: Nairan - Frigate -  Destruction_Frame_15
+  - name: Frame_15
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -432,7 +432,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 2dd9228a06cba50488bfb37d17479bec
+    spriteID: cd11e3aa1998b2e4f91d5208d40dc8de
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -450,7 +450,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nairan - Frigate -  Destruction_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -458,8 +458,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: d1604f3068e83c64c87a8807b575fef2
-    - name: Nairan - Frigate -  Destruction_Frame_1
+      spriteId: fb92727d82f943d43bec7499a035e765
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -467,8 +467,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 95b228a03a4ce4242bbcaccf6818aaaa
-    - name: Nairan - Frigate -  Destruction_Frame_2
+      spriteId: 7b48510d9cbf00b45a459305b869b5ff
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -476,8 +476,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: d7e57ad9768adab4481dbea7b03fef4c
-    - name: Nairan - Frigate -  Destruction_Frame_3
+      spriteId: 667e9885ec7bb7f419f2251e3217e9ef
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -485,8 +485,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: ed5752fedb151ef40947bad3079f9dec
-    - name: Nairan - Frigate -  Destruction_Frame_4
+      spriteId: abedc14343928074da1f17e7d2a6041d
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -494,8 +494,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: da8c38de214cfaa47a437eca5e140f52
-    - name: Nairan - Frigate -  Destruction_Frame_5
+      spriteId: cf4abdb3b8aa11f47996664e9f1d9447
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -503,8 +503,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: c107e9c20d415e442b15223f762a808c
-    - name: Nairan - Frigate -  Destruction_Frame_6
+      spriteId: d6688ea74705b4349ad4a656b5440f90
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -512,8 +512,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 789526441ec80e24790db6161874bc36
-    - name: Nairan - Frigate -  Destruction_Frame_7
+      spriteId: 78d259b241f47b442b98ef09bad693ba
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -521,8 +521,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 6edf81096b63f294e84d0f119edecb61
-    - name: Nairan - Frigate -  Destruction_Frame_8
+      spriteId: 2ab1c11ba0b852c488415915932c2375
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -530,8 +530,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 9a963ab64ea6a084fac0d7c3481a2316
-    - name: Nairan - Frigate -  Destruction_Frame_9
+      spriteId: 746e6d096b8a74343bed3f570e85daaa
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -539,8 +539,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 1926dca8c670fec49a3d9233818638c5
-    - name: Nairan - Frigate -  Destruction_Frame_10
+      spriteId: a2c3dc639848d334da6d8cf6e77b5b1f
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -548,8 +548,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: ba186173a92531f45aa5ae97b39b299b
-    - name: Nairan - Frigate -  Destruction_Frame_11
+      spriteId: c6e2c08234fc28c4a9b584489afcd665
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -557,8 +557,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: ea9f80605f3a6bb4dbe9beda13182cfc
-    - name: Nairan - Frigate -  Destruction_Frame_12
+      spriteId: 3492038d22afa6742a91c98e56f45422
+    - name: Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -566,8 +566,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: d130962ca04b6c244aad039c3ac9cbe5
-    - name: Nairan - Frigate -  Destruction_Frame_13
+      spriteId: a0c562d5b18b3d149ae0ae629c49926e
+    - name: Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -575,8 +575,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: f0855e663dacf5744b304c7ebc26061c
-    - name: Nairan - Frigate -  Destruction_Frame_14
+      spriteId: 3f6e2f4f51821a843ac5a888ed95c11d
+    - name: Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -584,8 +584,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 2d8049adba7194746808712900a73d67
-    - name: Nairan - Frigate -  Destruction_Frame_15
+      spriteId: 9cb6202301a7d0d4a98d5c96b251558b
+    - name: Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -593,10 +593,22 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 2dd9228a06cba50488bfb37d17479bec
+      spriteId: cd11e3aa1998b2e4f91d5208d40dc8de
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

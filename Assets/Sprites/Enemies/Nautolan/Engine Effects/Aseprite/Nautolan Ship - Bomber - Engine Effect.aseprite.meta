@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 09e55b2139afa8f44ab90e4bc1298621
+guid: 55086b99c4f00be4a9b191bf2d8f8fa1
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nautolan Ship - Bomber - Engine Effect_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: f9d8668aef6fa9d4684f78f97ec70739
+    spriteID: db857a9653e1be244883228225b950fd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nautolan Ship - Bomber - Engine Effect_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 378de6f9e21278c45ac2e599ced63b18
+    spriteID: 892a8cc522893c246bcd30306326cbc5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Nautolan Ship - Bomber - Engine Effect_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: d535663d04e5f8b4a8bb1849ba7a577f
+    spriteID: 67b35757f87cce14ea108b45c991d4a7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 148}
-  - name: Nautolan Ship - Bomber - Engine Effect_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: ebb78e6e7f2655a47805693c7c859b93
+    spriteID: 623b707173fc7b84e9d784c476395801
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 4}
-  - name: Nautolan Ship - Bomber - Engine Effect_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 01208f398745d1a45a03cf0880fb347c
+    spriteID: 1531e9f6cd9efa4408eb47832fce61a5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 76}
-  - name: Nautolan Ship - Bomber - Engine Effect_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: eaf15566856520b4eaaac0a20fe2e8d5
+    spriteID: 4f0fc64f3d122d1419662163fb80dbfc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 148}
-  - name: Nautolan Ship - Bomber - Engine Effect_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 47800f75f883ea04bb92e810948c54ea
+    spriteID: 2f10876d0952377408cef4b0f546343b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 148, y: 4}
-  - name: Nautolan Ship - Bomber - Engine Effect_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: c6834c8a59490e44db6cf59aee2d1114
+    spriteID: cb516ffaae048774c92362da16b6f7b2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -290,7 +290,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nautolan Ship - Bomber - Engine Effect_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -298,8 +298,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: f9d8668aef6fa9d4684f78f97ec70739
-    - name: Nautolan Ship - Bomber - Engine Effect_Frame_1
+      spriteId: db857a9653e1be244883228225b950fd
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -307,8 +307,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 378de6f9e21278c45ac2e599ced63b18
-    - name: Nautolan Ship - Bomber - Engine Effect_Frame_2
+      spriteId: 892a8cc522893c246bcd30306326cbc5
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -316,8 +316,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: d535663d04e5f8b4a8bb1849ba7a577f
-    - name: Nautolan Ship - Bomber - Engine Effect_Frame_3
+      spriteId: 67b35757f87cce14ea108b45c991d4a7
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -325,8 +325,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: ebb78e6e7f2655a47805693c7c859b93
-    - name: Nautolan Ship - Bomber - Engine Effect_Frame_4
+      spriteId: 623b707173fc7b84e9d784c476395801
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -334,8 +334,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 01208f398745d1a45a03cf0880fb347c
-    - name: Nautolan Ship - Bomber - Engine Effect_Frame_5
+      spriteId: 1531e9f6cd9efa4408eb47832fce61a5
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -343,8 +343,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: eaf15566856520b4eaaac0a20fe2e8d5
-    - name: Nautolan Ship - Bomber - Engine Effect_Frame_6
+      spriteId: 4f0fc64f3d122d1419662163fb80dbfc
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -352,8 +352,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 47800f75f883ea04bb92e810948c54ea
-    - name: Nautolan Ship - Bomber - Engine Effect_Frame_7
+      spriteId: 2f10876d0952377408cef4b0f546343b
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -361,10 +361,22 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: c6834c8a59490e44db6cf59aee2d1114
+      spriteId: cb516ffaae048774c92362da16b6f7b2
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

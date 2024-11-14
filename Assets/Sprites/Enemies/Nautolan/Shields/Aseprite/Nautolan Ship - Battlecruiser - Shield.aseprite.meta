@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 733628c116c6011469c7883ce65acbad
+guid: f2b01616f4af07540bf153337f47a044
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nautolan Ship - Battlecruiser - Shield_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: be16f96461ef9d345bbd972ecb46a94b
+    spriteID: fe6d97135161a8945b0431eacc5114c2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nautolan Ship - Battlecruiser - Shield_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: e38ac859b88599542ad28b0dbdf9cf00
+    spriteID: af00007a4dc94bd4db2c4994ac8a581f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 140}
-  - name: Nautolan Ship - Battlecruiser - Shield_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: 97134e36a0acab843a8cbdb224d5ed7e
+    spriteID: 8668b26e2e84a944db2a02c40fa5d74c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 276}
-  - name: Nautolan Ship - Battlecruiser - Shield_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 412
       width: 128
       height: 128
-    spriteID: 2289cf4d3cc54d24a88c5927a105c012
+    spriteID: fabc72b73c99f4941b74d848acf784d8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 412}
-  - name: Nautolan Ship - Battlecruiser - Shield_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 548
       width: 128
       height: 128
-    spriteID: 58d2c6b7637972b409fe0e62b06b4604
+    spriteID: 1364c32b273091c43afe73e29a5d8365
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 548}
-  - name: Nautolan Ship - Battlecruiser - Shield_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 684
       width: 128
       height: 128
-    spriteID: 4f87bc8bfd8ee6547a12f9af7c1d6b14
+    spriteID: 16b44ad0dd58be342bc189572dac6d9c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 684}
-  - name: Nautolan Ship - Battlecruiser - Shield_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 820
       width: 128
       height: 128
-    spriteID: c53851280c79c3d4fa55aa9bb81318d3
+    spriteID: c42e75e44e1261a428fd970da48dd77f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 820}
-  - name: Nautolan Ship - Battlecruiser - Shield_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: 6323ac7d103c8184bb3019ea9dc82927
+    spriteID: 22b35c33a3d006646b59424991461b0e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 4}
-  - name: Nautolan Ship - Battlecruiser - Shield_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: f9fdd21d7c8941243a2e5f3154da414d
+    spriteID: 42969f88a2961b4408ff83ef5e60d315
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 140}
-  - name: Nautolan Ship - Battlecruiser - Shield_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: 97e9cbbdb67accb48a39cdfd06708759
+    spriteID: 5668f5242ea0d0449ba6bc45fcd25615
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 276}
-  - name: Nautolan Ship - Battlecruiser - Shield_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 412
       width: 128
       height: 128
-    spriteID: 20f9f8357245a7744aa4db26f15bc6de
+    spriteID: b72260f9c7b9e0746b049ffb34c15aa9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -350,7 +350,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nautolan Ship - Battlecruiser - Shield_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -358,8 +358,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: be16f96461ef9d345bbd972ecb46a94b
-    - name: Nautolan Ship - Battlecruiser - Shield_Frame_8
+      spriteId: fe6d97135161a8945b0431eacc5114c2
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -367,8 +367,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: e38ac859b88599542ad28b0dbdf9cf00
-    - name: Nautolan Ship - Battlecruiser - Shield_Frame_9
+      spriteId: af00007a4dc94bd4db2c4994ac8a581f
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -376,8 +376,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 97134e36a0acab843a8cbdb224d5ed7e
-    - name: Nautolan Ship - Battlecruiser - Shield_Frame_10
+      spriteId: 8668b26e2e84a944db2a02c40fa5d74c
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -385,8 +385,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 2289cf4d3cc54d24a88c5927a105c012
-    - name: Nautolan Ship - Battlecruiser - Shield_Frame_1
+      spriteId: fabc72b73c99f4941b74d848acf784d8
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -394,8 +394,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 58d2c6b7637972b409fe0e62b06b4604
-    - name: Nautolan Ship - Battlecruiser - Shield_Frame_2
+      spriteId: 1364c32b273091c43afe73e29a5d8365
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -403,8 +403,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 4f87bc8bfd8ee6547a12f9af7c1d6b14
-    - name: Nautolan Ship - Battlecruiser - Shield_Frame_3
+      spriteId: 16b44ad0dd58be342bc189572dac6d9c
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -412,8 +412,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: c53851280c79c3d4fa55aa9bb81318d3
-    - name: Nautolan Ship - Battlecruiser - Shield_Frame_4
+      spriteId: c42e75e44e1261a428fd970da48dd77f
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -421,8 +421,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 6323ac7d103c8184bb3019ea9dc82927
-    - name: Nautolan Ship - Battlecruiser - Shield_Frame_5
+      spriteId: 22b35c33a3d006646b59424991461b0e
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -430,8 +430,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: f9fdd21d7c8941243a2e5f3154da414d
-    - name: Nautolan Ship - Battlecruiser - Shield_Frame_6
+      spriteId: 42969f88a2961b4408ff83ef5e60d315
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -439,8 +439,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 97e9cbbdb67accb48a39cdfd06708759
-    - name: Nautolan Ship - Battlecruiser - Shield_Frame_7
+      spriteId: 5668f5242ea0d0449ba6bc45fcd25615
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -448,10 +448,22 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 20f9f8357245a7744aa4db26f15bc6de
+      spriteId: b72260f9c7b9e0746b049ffb34c15aa9
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

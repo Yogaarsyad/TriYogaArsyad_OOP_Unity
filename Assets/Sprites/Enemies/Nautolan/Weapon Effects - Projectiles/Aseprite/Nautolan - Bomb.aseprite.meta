@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: af04470bcac3f58429cd9a140592b42d
+guid: 8522a0286eb104a4ea43ee7b12e3b8d3
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615753194834946
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nautolan - Bomb_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 16
       height: 16
-    spriteID: 7cba3eab60cb409439fe19fd0fa164f8
+    spriteID: 221d7681f9436314e90e8c34ed44d480
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nautolan - Bomb_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 28
       width: 16
       height: 16
-    spriteID: 6f66d255da6854d44978659dc7d4f8c2
+    spriteID: ae8874b9e1133fe42a21ac2652af39f8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 28}
-  - name: Nautolan - Bomb_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 52
       width: 16
       height: 16
-    spriteID: 1aaf5b90b812b1d4baf6a4cd13f92884
+    spriteID: 3e893b3d1eace784c8afd81e5238eb15
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 52}
-  - name: Nautolan - Bomb_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 76
       width: 16
       height: 16
-    spriteID: 25beb4dd8d4f90540869eb5e2146f387
+    spriteID: 05eef8ff80c297a45ab497c61f73b491
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Nautolan - Bomb_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 100
       width: 16
       height: 16
-    spriteID: e5f7bb1547705fd409b847a9f6076b64
+    spriteID: 344be2c0f2edbc441a36915a6f33a7a5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 100}
-  - name: Nautolan - Bomb_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 16
       height: 16
-    spriteID: 8ffcabe6f192fb648aac94a6b44ac824
+    spriteID: aa24aa42e84914c4cb7ebc42c8cc89db
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 28, y: 4}
-  - name: Nautolan - Bomb_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 28
       width: 16
       height: 16
-    spriteID: 5a23579e6ada53a4c8fe52d3977932a8
+    spriteID: 4a363e7c1ce133a40b03a293b34623a9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 28, y: 28}
-  - name: Nautolan - Bomb_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 52
       width: 16
       height: 16
-    spriteID: ea65a3a4a77f93d4bbeac7650a3c28e2
+    spriteID: efc8e39f4178e6c4393bf0ef1a2095ca
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 28, y: 52}
-  - name: Nautolan - Bomb_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 76
       width: 16
       height: 16
-    spriteID: 0fc168ca3edc43441975d078b020da8c
+    spriteID: 64fbc69867cac41488cf6314b69b24c5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 28, y: 76}
-  - name: Nautolan - Bomb_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 100
       width: 16
       height: 16
-    spriteID: d6ddbe755a5bae44fba1266965f0b2b6
+    spriteID: 7c3796f20e1ec054e89afc55a5379554
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 28, y: 100}
-  - name: Nautolan - Bomb_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 4
       width: 16
       height: 16
-    spriteID: a4cc4bedea3721d48915521369e34189
+    spriteID: 8cebbbaec41ea1146a14cf94976c552b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 52, y: 4}
-  - name: Nautolan - Bomb_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 28
       width: 16
       height: 16
-    spriteID: 83a9bbf22be5c3a498441e07a042712d
+    spriteID: ed110da39bd85844894e2bea87c6ab07
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -361,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 52, y: 28}
-  - name: Nautolan - Bomb_Frame_12
+  - name: Frame_12
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 52
       width: 16
       height: 16
-    spriteID: 860679db1c8731647b7bfffa6b6fd499
+    spriteID: 3092017a27d35b04da93ed45918122e5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -381,7 +381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 52, y: 52}
-  - name: Nautolan - Bomb_Frame_13
+  - name: Frame_13
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 76
       width: 16
       height: 16
-    spriteID: 91b2a4183dafa484e9ca5641d8be2523
+    spriteID: 86c6fdde4ec14674ebea06c894d0239b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -401,7 +401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 52, y: 76}
-  - name: Nautolan - Bomb_Frame_14
+  - name: Frame_14
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 100
       width: 16
       height: 16
-    spriteID: 6ac040730007e4b4897ed2d515714b64
+    spriteID: 45dcd7c746b209948935b8393cb7a77b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,7 +421,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 52, y: 100}
-  - name: Nautolan - Bomb_Frame_15
+  - name: Frame_15
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -432,7 +432,7 @@ ScriptedImporter:
       y: 4
       width: 16
       height: 16
-    spriteID: 66e1d1c7f2a4e6a4c8295c92e33f5e6a
+    spriteID: b5c6bfa8d682465498692dba97a91435
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -450,7 +450,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nautolan - Bomb_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -458,8 +458,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 7cba3eab60cb409439fe19fd0fa164f8
-    - name: Nautolan - Bomb_Frame_1
+      spriteId: 221d7681f9436314e90e8c34ed44d480
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -467,8 +467,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 6f66d255da6854d44978659dc7d4f8c2
-    - name: Nautolan - Bomb_Frame_2
+      spriteId: ae8874b9e1133fe42a21ac2652af39f8
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -476,8 +476,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 1aaf5b90b812b1d4baf6a4cd13f92884
-    - name: Nautolan - Bomb_Frame_3
+      spriteId: 3e893b3d1eace784c8afd81e5238eb15
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -485,8 +485,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 25beb4dd8d4f90540869eb5e2146f387
-    - name: Nautolan - Bomb_Frame_4
+      spriteId: 05eef8ff80c297a45ab497c61f73b491
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -494,8 +494,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: e5f7bb1547705fd409b847a9f6076b64
-    - name: Nautolan - Bomb_Frame_5
+      spriteId: 344be2c0f2edbc441a36915a6f33a7a5
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -503,8 +503,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 8ffcabe6f192fb648aac94a6b44ac824
-    - name: Nautolan - Bomb_Frame_6
+      spriteId: aa24aa42e84914c4cb7ebc42c8cc89db
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -512,8 +512,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 5a23579e6ada53a4c8fe52d3977932a8
-    - name: Nautolan - Bomb_Frame_7
+      spriteId: 4a363e7c1ce133a40b03a293b34623a9
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -521,8 +521,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: ea65a3a4a77f93d4bbeac7650a3c28e2
-    - name: Nautolan - Bomb_Frame_8
+      spriteId: efc8e39f4178e6c4393bf0ef1a2095ca
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -530,8 +530,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 0fc168ca3edc43441975d078b020da8c
-    - name: Nautolan - Bomb_Frame_9
+      spriteId: 64fbc69867cac41488cf6314b69b24c5
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -539,8 +539,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: d6ddbe755a5bae44fba1266965f0b2b6
-    - name: Nautolan - Bomb_Frame_10
+      spriteId: 7c3796f20e1ec054e89afc55a5379554
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -548,8 +548,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: a4cc4bedea3721d48915521369e34189
-    - name: Nautolan - Bomb_Frame_11
+      spriteId: 8cebbbaec41ea1146a14cf94976c552b
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -557,8 +557,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 83a9bbf22be5c3a498441e07a042712d
-    - name: Nautolan - Bomb_Frame_12
+      spriteId: ed110da39bd85844894e2bea87c6ab07
+    - name: Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -566,8 +566,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 860679db1c8731647b7bfffa6b6fd499
-    - name: Nautolan - Bomb_Frame_13
+      spriteId: 3092017a27d35b04da93ed45918122e5
+    - name: Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -575,8 +575,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 91b2a4183dafa484e9ca5641d8be2523
-    - name: Nautolan - Bomb_Frame_14
+      spriteId: 86c6fdde4ec14674ebea06c894d0239b
+    - name: Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -584,8 +584,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 6ac040730007e4b4897ed2d515714b64
-    - name: Nautolan - Bomb_Frame_15
+      spriteId: 45dcd7c746b209948935b8393cb7a77b
+    - name: Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -593,23 +593,11 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 16
-      spriteId: 66e1d1c7f2a4e6a4c8295c92e33f5e6a
+      spriteId: b5c6bfa8d682465498692dba97a91435
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

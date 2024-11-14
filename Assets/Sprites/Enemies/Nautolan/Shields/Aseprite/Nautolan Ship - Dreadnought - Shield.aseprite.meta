@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6fd37b1e6f98d104bbaf0225b7bb99fe
+guid: 239995985c386254eacc4f1f5715e0c4
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: e3ef971dbe07e7145af58bd5070fd785
+    spriteID: 608ef2a1d1e82064b8fcfcf153bff766
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: ddd858a0a76083548a397280f3ed2a68
+    spriteID: 3c64381f08ea6a84485f91e503bdb166
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 140}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: e8c042a9344975a499defd00c09774fc
+    spriteID: 8ac601a42f4e8b64084b70bfdf738eba
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 276}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_18
+  - name: Frame_18
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 412
       width: 128
       height: 128
-    spriteID: fac251f2ba0fe4e43a868eccccece1dc
+    spriteID: feaf60fcb5fdbc244956c0c5e23dca48
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 412}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 548
       width: 128
       height: 128
-    spriteID: 9cc75cdc0de3012469acb88bf6719e6c
+    spriteID: a3d4acbaed1b0904dbf1e168ca72440e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 548}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 684
       width: 128
       height: 128
-    spriteID: ec4c46c9a80b77244ab19cc261b3a85c
+    spriteID: 007657f1e10f26c4ea0d0427169afd11
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 684}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 820
       width: 128
       height: 128
-    spriteID: c5b6d18cf53dbe844b10e7e6aed74186
+    spriteID: f5138d986705bce43b7b40a4fb0fb877
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 820}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: 3e4aecdf71ded4940815ca352b81b3a8
+    spriteID: 984ba5cbf210b354ea91db2f6d870241
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 4}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: 024353c2ed1957942ae333bd30e5756b
+    spriteID: 1381fc103301f534bb201a042fc722fc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 140}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: e77e6564214948149b6122a36bf5c8fe
+    spriteID: edf01410390edec47aedec2d10922308
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 276}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 412
       width: 128
       height: 128
-    spriteID: 1038381302343414aa3aa06d8b2a61fe
+    spriteID: 3909a4b552ad1524982aa0f5aa3f670f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 412}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 548
       width: 128
       height: 128
-    spriteID: 644a8d90c9ffcd4428046d2acc441215
+    spriteID: 0a513c05963ec1646ad7c3106d5b53b7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -361,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 548}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 684
       width: 128
       height: 128
-    spriteID: 892f65e971e9d034e8e966eb6f8baf6d
+    spriteID: 01d9565e3cc9f7847827ffa820a31a89
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -381,7 +381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 684}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_12
+  - name: Frame_12
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 820
       width: 128
       height: 128
-    spriteID: 05e5d00bc0cef5341b01a08b0ebc7cf4
+    spriteID: 4e87a9f37b259a540937334938010ab2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -401,7 +401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 820}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_13
+  - name: Frame_13
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: 7e430190106079d4bbd65263205c1da2
+    spriteID: 73bfce0981bfc364aa8f6bdf0ab2f3de
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,7 +421,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 276, y: 4}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_14
+  - name: Frame_14
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -432,7 +432,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: 9031a57c3de4c374caddc3dea099ceff
+    spriteID: 947e094f91dd925408ded4674ec048d6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -441,7 +441,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 276, y: 140}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_15
+  - name: Frame_15
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -452,7 +452,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: cf4e7d010009b8f45835205a1a43eb51
+    spriteID: c60523dddc1977a4bbf6e98f58a2b263
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -461,7 +461,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 276, y: 276}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_16
+  - name: Frame_16
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -472,7 +472,7 @@ ScriptedImporter:
       y: 412
       width: 128
       height: 128
-    spriteID: 0150dae8b13f84445a6be1586b13d5bb
+    spriteID: da924657ee7cb4b4081316bcbfee4c3f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -481,7 +481,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 276, y: 412}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_17
+  - name: Frame_17
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -492,7 +492,7 @@ ScriptedImporter:
       y: 548
       width: 128
       height: 128
-    spriteID: 54f24cc08402c05438594adaae90976c
+    spriteID: a7e7d59685ddd924db7266020bc05971
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -501,7 +501,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 276, y: 548}
-  - name: Nautolan Ship - Dreadnought - Shield_Frame_19
+  - name: Frame_19
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -512,7 +512,7 @@ ScriptedImporter:
       y: 684
       width: 128
       height: 128
-    spriteID: 2b2d48d263346b24784fc79fb05a348f
+    spriteID: d19cf46b826b78a44b3602458531cba6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -530,7 +530,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -538,8 +538,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: e3ef971dbe07e7145af58bd5070fd785
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_8
+      spriteId: 608ef2a1d1e82064b8fcfcf153bff766
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -547,8 +547,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: ddd858a0a76083548a397280f3ed2a68
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_10
+      spriteId: 3c64381f08ea6a84485f91e503bdb166
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -556,8 +556,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: e8c042a9344975a499defd00c09774fc
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_18
+      spriteId: 8ac601a42f4e8b64084b70bfdf738eba
+    - name: Frame_18
       frameIndex: 18
       additiveSortOrder: 0
       cellRect:
@@ -565,8 +565,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: fac251f2ba0fe4e43a868eccccece1dc
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_1
+      spriteId: feaf60fcb5fdbc244956c0c5e23dca48
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -574,8 +574,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 9cc75cdc0de3012469acb88bf6719e6c
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_2
+      spriteId: a3d4acbaed1b0904dbf1e168ca72440e
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -583,8 +583,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: ec4c46c9a80b77244ab19cc261b3a85c
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_3
+      spriteId: 007657f1e10f26c4ea0d0427169afd11
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -592,8 +592,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: c5b6d18cf53dbe844b10e7e6aed74186
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_4
+      spriteId: f5138d986705bce43b7b40a4fb0fb877
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -601,8 +601,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 3e4aecdf71ded4940815ca352b81b3a8
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_5
+      spriteId: 984ba5cbf210b354ea91db2f6d870241
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -610,8 +610,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 024353c2ed1957942ae333bd30e5756b
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_6
+      spriteId: 1381fc103301f534bb201a042fc722fc
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -619,8 +619,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: e77e6564214948149b6122a36bf5c8fe
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_7
+      spriteId: edf01410390edec47aedec2d10922308
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -628,8 +628,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 1038381302343414aa3aa06d8b2a61fe
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_9
+      spriteId: 3909a4b552ad1524982aa0f5aa3f670f
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -637,8 +637,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 644a8d90c9ffcd4428046d2acc441215
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_11
+      spriteId: 0a513c05963ec1646ad7c3106d5b53b7
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -646,8 +646,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 892f65e971e9d034e8e966eb6f8baf6d
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_12
+      spriteId: 01d9565e3cc9f7847827ffa820a31a89
+    - name: Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -655,8 +655,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 05e5d00bc0cef5341b01a08b0ebc7cf4
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_13
+      spriteId: 4e87a9f37b259a540937334938010ab2
+    - name: Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -664,8 +664,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 7e430190106079d4bbd65263205c1da2
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_14
+      spriteId: 73bfce0981bfc364aa8f6bdf0ab2f3de
+    - name: Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -673,8 +673,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 9031a57c3de4c374caddc3dea099ceff
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_15
+      spriteId: 947e094f91dd925408ded4674ec048d6
+    - name: Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -682,8 +682,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: cf4e7d010009b8f45835205a1a43eb51
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_16
+      spriteId: c60523dddc1977a4bbf6e98f58a2b263
+    - name: Frame_16
       frameIndex: 16
       additiveSortOrder: 0
       cellRect:
@@ -691,8 +691,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 0150dae8b13f84445a6be1586b13d5bb
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_17
+      spriteId: da924657ee7cb4b4081316bcbfee4c3f
+    - name: Frame_17
       frameIndex: 17
       additiveSortOrder: 0
       cellRect:
@@ -700,8 +700,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 54f24cc08402c05438594adaae90976c
-    - name: Nautolan Ship - Dreadnought - Shield_Frame_19
+      spriteId: a7e7d59685ddd924db7266020bc05971
+    - name: Frame_19
       frameIndex: 19
       additiveSortOrder: 0
       cellRect:
@@ -709,10 +709,22 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 2b2d48d263346b24784fc79fb05a348f
+      spriteId: d19cf46b826b78a44b3602458531cba6
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

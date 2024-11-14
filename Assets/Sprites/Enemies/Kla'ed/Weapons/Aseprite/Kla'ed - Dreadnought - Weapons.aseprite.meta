@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7a0fb9526f99c7c4fb6cf2f3e9a7c37b
+guid: ee735cdb0e485ce46b0ad043dec6995c
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Kla'ed - Dreadnought - Weapons_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 100
-    spriteID: e0016cbe01413094787207ed14b5b0b7
+    spriteID: 4380edc050b3f2840883eeef19850930
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 112
       width: 72
       height: 100
-    spriteID: bff9370293a31bf46bdfab32b8504329
+    spriteID: 38a1380a3d8e6d742a9343d9abf7a389
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 112}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 220
       width: 72
       height: 100
-    spriteID: 27a1bab702c22bd479140a85fc8ad55a
+    spriteID: d884db21e179fe342b49a1fe4ba2e3d8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 220}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 328
       width: 72
       height: 100
-    spriteID: 78b9cce54ff476d44a134bf90f758061
+    spriteID: 55e037416adefa24384b5d3d703c13e9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 328}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 436
       width: 72
       height: 100
-    spriteID: cf097d075a540c9488c157677818aeb4
+    spriteID: 21cdf35a31fc40745a12926fb6997be0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 436}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 544
       width: 72
       height: 100
-    spriteID: 4b7ccc1e6575be041bd07d32ab423c09
+    spriteID: da72a627914dadc459603913ddacda9d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 544}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 652
       width: 72
       height: 100
-    spriteID: 9c25f61244c71484f9ff450b0d829c82
+    spriteID: 6bc2a2b818c74ad4db1d0f614a3209f4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 652}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 760
       width: 72
       height: 100
-    spriteID: 9dd5c3843986f084b8e56c35481a44b6
+    spriteID: e830efc3d2af5a149bb91a9e9a35793f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 760}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 868
       width: 72
       height: 100
-    spriteID: 21a9f7ecc01a740478cdad3bd3c9d3ef
+    spriteID: d5cad0cafe539d040ad7ec4b1e1868e5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 868}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 100
-    spriteID: e673605f7b694a04bb0443d6dc4ebab7
+    spriteID: 3a1a54c2838196c4ea5355da652b5356
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 4}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 112
       width: 72
       height: 100
-    spriteID: b33489e21be83154dbc1607e9f62e2ed
+    spriteID: 9bb9ba5b0a0f2c14ca913043ec5686a0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 112}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 220
       width: 72
       height: 100
-    spriteID: eb26d113b3d22d84f9814fb99678baef
+    spriteID: b77d2a4b79513ac40b47e9660462263c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -361,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 220}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_12
+  - name: Frame_12
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 328
       width: 72
       height: 100
-    spriteID: f9fdf13404e98434d8e51626a9fbbebb
+    spriteID: 1e01e92bdcff66f4a9698c749680acb6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -381,7 +381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 328}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_13
+  - name: Frame_13
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 436
       width: 72
       height: 100
-    spriteID: 16378e993a676c04ebecb62924bf0ad6
+    spriteID: 441f0b56147bc9a4793d24dbbe57c79e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -401,7 +401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 436}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_14
+  - name: Frame_14
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 544
       width: 72
       height: 100
-    spriteID: e3b23ac9e6ba69845b657c4e16da935a
+    spriteID: 4756f5bf5909e0a4ead1edb2dcf38315
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,7 +421,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 544}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_15
+  - name: Frame_15
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -432,7 +432,7 @@ ScriptedImporter:
       y: 652
       width: 72
       height: 100
-    spriteID: 855b4b01ecd5602439a6523d32bf9ede
+    spriteID: 3d92c0e1c08a8c141b2db98838ffa809
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -441,7 +441,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 652}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_16
+  - name: Frame_16
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -452,7 +452,7 @@ ScriptedImporter:
       y: 760
       width: 72
       height: 100
-    spriteID: e20f86bb34dbbf74a8cd80b77c758e26
+    spriteID: 008da6ca1553a5248896f27a2889e0a5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -461,7 +461,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 760}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_17
+  - name: Frame_17
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -472,7 +472,7 @@ ScriptedImporter:
       y: 868
       width: 72
       height: 100
-    spriteID: 47ef5b18f4cc897409ee7b1fe7f186e8
+    spriteID: 5680db6f7f04bc741a1992663c7ec036
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -481,7 +481,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 868}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_18
+  - name: Frame_18
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -492,7 +492,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 100
-    spriteID: 0bfee67449ea0444c9332bbe452b8eac
+    spriteID: 590fe1a76b727d14583025ff09d6c3d7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -501,7 +501,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 4}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_19
+  - name: Frame_19
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -512,7 +512,7 @@ ScriptedImporter:
       y: 112
       width: 72
       height: 100
-    spriteID: 85653d8ba0d8ef34db4dabfefc02748a
+    spriteID: e40b3fc954901594ebb3a2bd8ca594a9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -521,7 +521,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 112}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_20
+  - name: Frame_20
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -532,7 +532,7 @@ ScriptedImporter:
       y: 220
       width: 72
       height: 100
-    spriteID: 98d0725fcdec7de4a8765e20ebc77a1a
+    spriteID: a6f49e6ece4fd8848960df7b9ddd54e5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -541,7 +541,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 220}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_21
+  - name: Frame_21
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -552,7 +552,7 @@ ScriptedImporter:
       y: 328
       width: 72
       height: 100
-    spriteID: 198027c53b61a244ab63b86979cbfcaf
+    spriteID: 417075e80992996449ab8308138c75a7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -561,7 +561,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 328}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_22
+  - name: Frame_22
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -572,7 +572,7 @@ ScriptedImporter:
       y: 436
       width: 72
       height: 100
-    spriteID: c73e1b5ffdda3ef449012738483ac1b7
+    spriteID: 5da4f53f71a1951479bb60270ee7e8f0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -581,7 +581,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 436}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_23
+  - name: Frame_23
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -592,7 +592,7 @@ ScriptedImporter:
       y: 544
       width: 72
       height: 100
-    spriteID: ba1e999e266a0cc47b5824912454c055
+    spriteID: 66fa59844bc5ffd469238f8e9da80905
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -601,7 +601,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 544}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_24
+  - name: Frame_24
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -612,7 +612,7 @@ ScriptedImporter:
       y: 652
       width: 72
       height: 100
-    spriteID: ea502089e585f3f45a177fcd6c3aa60f
+    spriteID: 4af352d4639c62e44a2bc94c0944472f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -621,7 +621,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 652}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_25
+  - name: Frame_25
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -632,7 +632,7 @@ ScriptedImporter:
       y: 760
       width: 72
       height: 100
-    spriteID: b10faae1e76acf842836642e723a6484
+    spriteID: 98bd6e93696bc9e4da21d2a6c80455e5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -641,7 +641,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 760}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_26
+  - name: Frame_26
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -652,7 +652,7 @@ ScriptedImporter:
       y: 868
       width: 72
       height: 100
-    spriteID: aa2be6266fa82e7469dac43d364ca634
+    spriteID: a2d0caaf3de3af143a3018f12b2fdc1e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -661,7 +661,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 868}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_27
+  - name: Frame_27
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -672,7 +672,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 100
-    spriteID: ed9c4876890a50646a9a24b1b6d5912d
+    spriteID: 192b189777b208d4e9dffd1dfeff7ed1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -681,7 +681,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 4}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_28
+  - name: Frame_28
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -692,7 +692,7 @@ ScriptedImporter:
       y: 112
       width: 72
       height: 100
-    spriteID: 98c7fa8bf9fa0834e832cd4a8cab8475
+    spriteID: 60eeffd82b3bf334b883ac378ecaa127
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -701,7 +701,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 112}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_29
+  - name: Frame_29
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -712,7 +712,7 @@ ScriptedImporter:
       y: 220
       width: 72
       height: 100
-    spriteID: 80fab0088218cc74f9db7804ccea3096
+    spriteID: 0ba0e6ac8a94d74469fd675baf32cdb1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -721,7 +721,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 220}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_30
+  - name: Frame_30
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -732,7 +732,7 @@ ScriptedImporter:
       y: 328
       width: 72
       height: 100
-    spriteID: 80c108af922390b4e9c61674e7e3aca8
+    spriteID: 33fb209f22d6e6041b2391ae8a52357c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -741,7 +741,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 328}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_31
+  - name: Frame_31
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -752,7 +752,7 @@ ScriptedImporter:
       y: 436
       width: 72
       height: 100
-    spriteID: ad9818a8254d2bb48b5e05191adbc173
+    spriteID: d02efb3f08675ed4f8bc342e9b18001b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -761,7 +761,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 436}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_32
+  - name: Frame_32
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -772,7 +772,7 @@ ScriptedImporter:
       y: 544
       width: 72
       height: 100
-    spriteID: 7518f46ecde89644a91ba4b18e75ab65
+    spriteID: 58a258051f475a94c9a17b5d47251561
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -781,7 +781,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 544}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_33
+  - name: Frame_33
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -792,7 +792,7 @@ ScriptedImporter:
       y: 652
       width: 72
       height: 100
-    spriteID: 350782b9ad8b5e2439c5fe39987bdca6
+    spriteID: 0f6f8c9c0f406d44f8bee780201a2df7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -801,7 +801,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 652}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_34
+  - name: Frame_34
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -812,7 +812,7 @@ ScriptedImporter:
       y: 760
       width: 72
       height: 100
-    spriteID: aff3fa745aed7bf48b6890f6965f41ec
+    spriteID: 92d89b0c2c2a174418d33345d916298c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -821,7 +821,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 760}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_35
+  - name: Frame_35
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -832,7 +832,7 @@ ScriptedImporter:
       y: 868
       width: 72
       height: 100
-    spriteID: 130c1f01f4b67db4d88aec2647c65ce8
+    spriteID: 2d6893a59f8249b4db100b96819808cb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -841,7 +841,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 868}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_36
+  - name: Frame_36
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -852,7 +852,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 100
-    spriteID: 5315df5abedea894790c8e81068bc536
+    spriteID: b6f4dff43c4c1744db713d950bdf31c9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -861,7 +861,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 4}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_37
+  - name: Frame_37
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -872,7 +872,7 @@ ScriptedImporter:
       y: 112
       width: 72
       height: 100
-    spriteID: 66340755c24a5f74695af6e484a3b230
+    spriteID: fd2235031e3e8fd4ea357320e5b15b28
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -881,7 +881,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 112}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_38
+  - name: Frame_38
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -892,7 +892,7 @@ ScriptedImporter:
       y: 220
       width: 72
       height: 100
-    spriteID: 1633d19f563e8b64cab612f60bbb0178
+    spriteID: ebeca76d2a1108747b3142d428fd7e78
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -901,7 +901,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 220}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_39
+  - name: Frame_39
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -912,7 +912,7 @@ ScriptedImporter:
       y: 328
       width: 72
       height: 100
-    spriteID: e477f19fff58e9240b0770ba378d986b
+    spriteID: 4c8920912ca288b409a7aee58d2cf320
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -921,7 +921,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 328}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_40
+  - name: Frame_40
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -932,7 +932,7 @@ ScriptedImporter:
       y: 436
       width: 72
       height: 100
-    spriteID: 32cd65637e4e40e46bcfd2e7791d813b
+    spriteID: 4db75cc6bbb59584a9ffc093253ea0a0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -941,7 +941,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 436}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_41
+  - name: Frame_41
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -952,7 +952,7 @@ ScriptedImporter:
       y: 544
       width: 72
       height: 100
-    spriteID: 39ee51ae973bb1048b6826fc93476c3a
+    spriteID: 6f2a5f56f0e52204bac139d931d7ad83
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -961,7 +961,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 544}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_42
+  - name: Frame_42
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -972,7 +972,7 @@ ScriptedImporter:
       y: 652
       width: 72
       height: 100
-    spriteID: 627e5c6afca2078479d8e3ea58d3846d
+    spriteID: 48e22ec8876db604aa55d92bac088dc8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -981,7 +981,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 652}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_43
+  - name: Frame_43
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -992,7 +992,7 @@ ScriptedImporter:
       y: 760
       width: 72
       height: 100
-    spriteID: 00e6de848974c2844abab8fae8bb6417
+    spriteID: 6745190b112585b4fa0c8500a15aa537
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1001,7 +1001,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 760}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_44
+  - name: Frame_44
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1012,7 +1012,7 @@ ScriptedImporter:
       y: 868
       width: 72
       height: 100
-    spriteID: c29b22dd52dc27a4a8516114bfc3745f
+    spriteID: 0ad01d71e62596b47b9c909639efbef0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1021,7 +1021,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 868}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_45
+  - name: Frame_45
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1032,7 +1032,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 100
-    spriteID: 0c2e650bf7747af49ba3a67c4b906904
+    spriteID: 57c693d3481464d4b8cdc9f20eb754e1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1041,7 +1041,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 4}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_46
+  - name: Frame_46
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1052,7 +1052,7 @@ ScriptedImporter:
       y: 112
       width: 72
       height: 100
-    spriteID: b3ec945fb118374439cf44dd579f4fb2
+    spriteID: 524212723f025ef41adc58217d9358d1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1061,7 +1061,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 112}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_47
+  - name: Frame_47
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1072,7 +1072,7 @@ ScriptedImporter:
       y: 220
       width: 72
       height: 100
-    spriteID: 28df852bc4a4d044db2eef0c2ee6db95
+    spriteID: 4d1a59aacc0e89a4aaca48fbb9c544cc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1081,7 +1081,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 220}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_48
+  - name: Frame_48
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1092,7 +1092,7 @@ ScriptedImporter:
       y: 328
       width: 72
       height: 100
-    spriteID: 40899552b44c01c459c4a6f54614292e
+    spriteID: 7b7d08547edbceb45947c6e23f0a2375
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1101,7 +1101,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 328}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_49
+  - name: Frame_49
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1112,7 +1112,7 @@ ScriptedImporter:
       y: 436
       width: 72
       height: 100
-    spriteID: ddc3bb8089ffb4643860a1da49055060
+    spriteID: dcb48fcb79d820748a6256bc7092f8aa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1121,7 +1121,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 436}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_50
+  - name: Frame_50
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1132,7 +1132,7 @@ ScriptedImporter:
       y: 544
       width: 72
       height: 100
-    spriteID: 337321f5330dc1d49a2d3b905f313e73
+    spriteID: c559ed8e9b30b1545815846cee66b946
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1141,7 +1141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 544}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_51
+  - name: Frame_51
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1152,7 +1152,7 @@ ScriptedImporter:
       y: 652
       width: 72
       height: 100
-    spriteID: 9d13eb454e0078744abf7ed4c82ee143
+    spriteID: 602229b35762fb942bd992ead6e6b46a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1161,7 +1161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 652}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_52
+  - name: Frame_52
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1172,7 +1172,7 @@ ScriptedImporter:
       y: 760
       width: 72
       height: 100
-    spriteID: cfde3a72594ceea44b37e7fadc9b0e12
+    spriteID: 63798c86ce47f554186c8e55908824c4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1181,7 +1181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 760}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_53
+  - name: Frame_53
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1192,7 +1192,7 @@ ScriptedImporter:
       y: 868
       width: 72
       height: 100
-    spriteID: 28082a90ab83b5b44b739f05da2e93ce
+    spriteID: 3a9643db952a4914d9f85f351a8dc3aa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1201,7 +1201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 868}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_54
+  - name: Frame_54
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1212,7 +1212,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 100
-    spriteID: c0243ad691fee6d44a94783f600b1eb9
+    spriteID: 716cfbc40f3716349bdb38206eecd7a9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1221,7 +1221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 484, y: 4}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_55
+  - name: Frame_55
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1232,7 +1232,7 @@ ScriptedImporter:
       y: 112
       width: 72
       height: 100
-    spriteID: 3a7f1ce9321e4604b86e1ebed1f241c4
+    spriteID: f78c9d400f888c14b85c3c0a1a7aadea
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1241,7 +1241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 484, y: 112}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_56
+  - name: Frame_56
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1252,7 +1252,7 @@ ScriptedImporter:
       y: 220
       width: 72
       height: 100
-    spriteID: 0cc38766a0fa80447a47881c68e77aea
+    spriteID: b9759eb206d7fb940b54bbcaf1e059df
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1261,7 +1261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 484, y: 220}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_57
+  - name: Frame_57
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1272,7 +1272,7 @@ ScriptedImporter:
       y: 328
       width: 72
       height: 100
-    spriteID: d653d289371203844a9955533574f6b9
+    spriteID: 78bb3c16385c74d48b2a2523677b6934
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1281,7 +1281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 484, y: 328}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_58
+  - name: Frame_58
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1292,7 +1292,7 @@ ScriptedImporter:
       y: 436
       width: 72
       height: 100
-    spriteID: 7d11c4b7fa532424689bfc8942426bea
+    spriteID: 937262ba3c269244cbd8b3c30aadbb2a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1301,7 +1301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 484, y: 436}
-  - name: Kla'ed - Dreadnought - Weapons_Frame_59
+  - name: Frame_59
     originalName: 
     pivot: {x: 0.5, y: -0.14999999}
     alignment: 9
@@ -1312,7 +1312,7 @@ ScriptedImporter:
       y: 544
       width: 72
       height: 100
-    spriteID: ae618a1c323b415408c76fc588e77ae8
+    spriteID: c2592d4810e3bf343bf17e16f53b2e64
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1330,7 +1330,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Kla'ed - Dreadnought - Weapons_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -1338,8 +1338,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: e0016cbe01413094787207ed14b5b0b7
-    - name: Kla'ed - Dreadnought - Weapons_Frame_1
+      spriteId: 4380edc050b3f2840883eeef19850930
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -1347,8 +1347,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: bff9370293a31bf46bdfab32b8504329
-    - name: Kla'ed - Dreadnought - Weapons_Frame_2
+      spriteId: 38a1380a3d8e6d742a9343d9abf7a389
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -1356,8 +1356,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 27a1bab702c22bd479140a85fc8ad55a
-    - name: Kla'ed - Dreadnought - Weapons_Frame_3
+      spriteId: d884db21e179fe342b49a1fe4ba2e3d8
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -1365,8 +1365,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 78b9cce54ff476d44a134bf90f758061
-    - name: Kla'ed - Dreadnought - Weapons_Frame_4
+      spriteId: 55e037416adefa24384b5d3d703c13e9
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -1374,8 +1374,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: cf097d075a540c9488c157677818aeb4
-    - name: Kla'ed - Dreadnought - Weapons_Frame_5
+      spriteId: 21cdf35a31fc40745a12926fb6997be0
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -1383,8 +1383,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 4b7ccc1e6575be041bd07d32ab423c09
-    - name: Kla'ed - Dreadnought - Weapons_Frame_6
+      spriteId: da72a627914dadc459603913ddacda9d
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -1392,8 +1392,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 9c25f61244c71484f9ff450b0d829c82
-    - name: Kla'ed - Dreadnought - Weapons_Frame_7
+      spriteId: 6bc2a2b818c74ad4db1d0f614a3209f4
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -1401,8 +1401,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 9dd5c3843986f084b8e56c35481a44b6
-    - name: Kla'ed - Dreadnought - Weapons_Frame_8
+      spriteId: e830efc3d2af5a149bb91a9e9a35793f
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -1410,8 +1410,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 21a9f7ecc01a740478cdad3bd3c9d3ef
-    - name: Kla'ed - Dreadnought - Weapons_Frame_9
+      spriteId: d5cad0cafe539d040ad7ec4b1e1868e5
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -1419,8 +1419,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: e673605f7b694a04bb0443d6dc4ebab7
-    - name: Kla'ed - Dreadnought - Weapons_Frame_10
+      spriteId: 3a1a54c2838196c4ea5355da652b5356
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -1428,8 +1428,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: b33489e21be83154dbc1607e9f62e2ed
-    - name: Kla'ed - Dreadnought - Weapons_Frame_11
+      spriteId: 9bb9ba5b0a0f2c14ca913043ec5686a0
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -1437,8 +1437,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: eb26d113b3d22d84f9814fb99678baef
-    - name: Kla'ed - Dreadnought - Weapons_Frame_12
+      spriteId: b77d2a4b79513ac40b47e9660462263c
+    - name: Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -1446,8 +1446,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: f9fdf13404e98434d8e51626a9fbbebb
-    - name: Kla'ed - Dreadnought - Weapons_Frame_13
+      spriteId: 1e01e92bdcff66f4a9698c749680acb6
+    - name: Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -1455,8 +1455,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 16378e993a676c04ebecb62924bf0ad6
-    - name: Kla'ed - Dreadnought - Weapons_Frame_14
+      spriteId: 441f0b56147bc9a4793d24dbbe57c79e
+    - name: Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -1464,8 +1464,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: e3b23ac9e6ba69845b657c4e16da935a
-    - name: Kla'ed - Dreadnought - Weapons_Frame_15
+      spriteId: 4756f5bf5909e0a4ead1edb2dcf38315
+    - name: Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -1473,8 +1473,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 855b4b01ecd5602439a6523d32bf9ede
-    - name: Kla'ed - Dreadnought - Weapons_Frame_16
+      spriteId: 3d92c0e1c08a8c141b2db98838ffa809
+    - name: Frame_16
       frameIndex: 16
       additiveSortOrder: 0
       cellRect:
@@ -1482,8 +1482,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: e20f86bb34dbbf74a8cd80b77c758e26
-    - name: Kla'ed - Dreadnought - Weapons_Frame_17
+      spriteId: 008da6ca1553a5248896f27a2889e0a5
+    - name: Frame_17
       frameIndex: 17
       additiveSortOrder: 0
       cellRect:
@@ -1491,8 +1491,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 47ef5b18f4cc897409ee7b1fe7f186e8
-    - name: Kla'ed - Dreadnought - Weapons_Frame_18
+      spriteId: 5680db6f7f04bc741a1992663c7ec036
+    - name: Frame_18
       frameIndex: 18
       additiveSortOrder: 0
       cellRect:
@@ -1500,8 +1500,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 0bfee67449ea0444c9332bbe452b8eac
-    - name: Kla'ed - Dreadnought - Weapons_Frame_19
+      spriteId: 590fe1a76b727d14583025ff09d6c3d7
+    - name: Frame_19
       frameIndex: 19
       additiveSortOrder: 0
       cellRect:
@@ -1509,8 +1509,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 85653d8ba0d8ef34db4dabfefc02748a
-    - name: Kla'ed - Dreadnought - Weapons_Frame_20
+      spriteId: e40b3fc954901594ebb3a2bd8ca594a9
+    - name: Frame_20
       frameIndex: 20
       additiveSortOrder: 0
       cellRect:
@@ -1518,8 +1518,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 98d0725fcdec7de4a8765e20ebc77a1a
-    - name: Kla'ed - Dreadnought - Weapons_Frame_21
+      spriteId: a6f49e6ece4fd8848960df7b9ddd54e5
+    - name: Frame_21
       frameIndex: 21
       additiveSortOrder: 0
       cellRect:
@@ -1527,8 +1527,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 198027c53b61a244ab63b86979cbfcaf
-    - name: Kla'ed - Dreadnought - Weapons_Frame_22
+      spriteId: 417075e80992996449ab8308138c75a7
+    - name: Frame_22
       frameIndex: 22
       additiveSortOrder: 0
       cellRect:
@@ -1536,8 +1536,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: c73e1b5ffdda3ef449012738483ac1b7
-    - name: Kla'ed - Dreadnought - Weapons_Frame_23
+      spriteId: 5da4f53f71a1951479bb60270ee7e8f0
+    - name: Frame_23
       frameIndex: 23
       additiveSortOrder: 0
       cellRect:
@@ -1545,8 +1545,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: ba1e999e266a0cc47b5824912454c055
-    - name: Kla'ed - Dreadnought - Weapons_Frame_24
+      spriteId: 66fa59844bc5ffd469238f8e9da80905
+    - name: Frame_24
       frameIndex: 24
       additiveSortOrder: 0
       cellRect:
@@ -1554,8 +1554,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: ea502089e585f3f45a177fcd6c3aa60f
-    - name: Kla'ed - Dreadnought - Weapons_Frame_25
+      spriteId: 4af352d4639c62e44a2bc94c0944472f
+    - name: Frame_25
       frameIndex: 25
       additiveSortOrder: 0
       cellRect:
@@ -1563,8 +1563,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: b10faae1e76acf842836642e723a6484
-    - name: Kla'ed - Dreadnought - Weapons_Frame_26
+      spriteId: 98bd6e93696bc9e4da21d2a6c80455e5
+    - name: Frame_26
       frameIndex: 26
       additiveSortOrder: 0
       cellRect:
@@ -1572,8 +1572,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: aa2be6266fa82e7469dac43d364ca634
-    - name: Kla'ed - Dreadnought - Weapons_Frame_27
+      spriteId: a2d0caaf3de3af143a3018f12b2fdc1e
+    - name: Frame_27
       frameIndex: 27
       additiveSortOrder: 0
       cellRect:
@@ -1581,8 +1581,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: ed9c4876890a50646a9a24b1b6d5912d
-    - name: Kla'ed - Dreadnought - Weapons_Frame_28
+      spriteId: 192b189777b208d4e9dffd1dfeff7ed1
+    - name: Frame_28
       frameIndex: 28
       additiveSortOrder: 0
       cellRect:
@@ -1590,8 +1590,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 98c7fa8bf9fa0834e832cd4a8cab8475
-    - name: Kla'ed - Dreadnought - Weapons_Frame_29
+      spriteId: 60eeffd82b3bf334b883ac378ecaa127
+    - name: Frame_29
       frameIndex: 29
       additiveSortOrder: 0
       cellRect:
@@ -1599,8 +1599,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 80fab0088218cc74f9db7804ccea3096
-    - name: Kla'ed - Dreadnought - Weapons_Frame_30
+      spriteId: 0ba0e6ac8a94d74469fd675baf32cdb1
+    - name: Frame_30
       frameIndex: 30
       additiveSortOrder: 0
       cellRect:
@@ -1608,8 +1608,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 80c108af922390b4e9c61674e7e3aca8
-    - name: Kla'ed - Dreadnought - Weapons_Frame_31
+      spriteId: 33fb209f22d6e6041b2391ae8a52357c
+    - name: Frame_31
       frameIndex: 31
       additiveSortOrder: 0
       cellRect:
@@ -1617,8 +1617,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: ad9818a8254d2bb48b5e05191adbc173
-    - name: Kla'ed - Dreadnought - Weapons_Frame_32
+      spriteId: d02efb3f08675ed4f8bc342e9b18001b
+    - name: Frame_32
       frameIndex: 32
       additiveSortOrder: 0
       cellRect:
@@ -1626,8 +1626,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 7518f46ecde89644a91ba4b18e75ab65
-    - name: Kla'ed - Dreadnought - Weapons_Frame_33
+      spriteId: 58a258051f475a94c9a17b5d47251561
+    - name: Frame_33
       frameIndex: 33
       additiveSortOrder: 0
       cellRect:
@@ -1635,8 +1635,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 350782b9ad8b5e2439c5fe39987bdca6
-    - name: Kla'ed - Dreadnought - Weapons_Frame_34
+      spriteId: 0f6f8c9c0f406d44f8bee780201a2df7
+    - name: Frame_34
       frameIndex: 34
       additiveSortOrder: 0
       cellRect:
@@ -1644,8 +1644,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: aff3fa745aed7bf48b6890f6965f41ec
-    - name: Kla'ed - Dreadnought - Weapons_Frame_35
+      spriteId: 92d89b0c2c2a174418d33345d916298c
+    - name: Frame_35
       frameIndex: 35
       additiveSortOrder: 0
       cellRect:
@@ -1653,8 +1653,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 130c1f01f4b67db4d88aec2647c65ce8
-    - name: Kla'ed - Dreadnought - Weapons_Frame_36
+      spriteId: 2d6893a59f8249b4db100b96819808cb
+    - name: Frame_36
       frameIndex: 36
       additiveSortOrder: 0
       cellRect:
@@ -1662,8 +1662,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 5315df5abedea894790c8e81068bc536
-    - name: Kla'ed - Dreadnought - Weapons_Frame_37
+      spriteId: b6f4dff43c4c1744db713d950bdf31c9
+    - name: Frame_37
       frameIndex: 37
       additiveSortOrder: 0
       cellRect:
@@ -1671,8 +1671,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 66340755c24a5f74695af6e484a3b230
-    - name: Kla'ed - Dreadnought - Weapons_Frame_38
+      spriteId: fd2235031e3e8fd4ea357320e5b15b28
+    - name: Frame_38
       frameIndex: 38
       additiveSortOrder: 0
       cellRect:
@@ -1680,8 +1680,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 1633d19f563e8b64cab612f60bbb0178
-    - name: Kla'ed - Dreadnought - Weapons_Frame_39
+      spriteId: ebeca76d2a1108747b3142d428fd7e78
+    - name: Frame_39
       frameIndex: 39
       additiveSortOrder: 0
       cellRect:
@@ -1689,8 +1689,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: e477f19fff58e9240b0770ba378d986b
-    - name: Kla'ed - Dreadnought - Weapons_Frame_40
+      spriteId: 4c8920912ca288b409a7aee58d2cf320
+    - name: Frame_40
       frameIndex: 40
       additiveSortOrder: 0
       cellRect:
@@ -1698,8 +1698,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 32cd65637e4e40e46bcfd2e7791d813b
-    - name: Kla'ed - Dreadnought - Weapons_Frame_41
+      spriteId: 4db75cc6bbb59584a9ffc093253ea0a0
+    - name: Frame_41
       frameIndex: 41
       additiveSortOrder: 0
       cellRect:
@@ -1707,8 +1707,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 39ee51ae973bb1048b6826fc93476c3a
-    - name: Kla'ed - Dreadnought - Weapons_Frame_42
+      spriteId: 6f2a5f56f0e52204bac139d931d7ad83
+    - name: Frame_42
       frameIndex: 42
       additiveSortOrder: 0
       cellRect:
@@ -1716,8 +1716,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 627e5c6afca2078479d8e3ea58d3846d
-    - name: Kla'ed - Dreadnought - Weapons_Frame_43
+      spriteId: 48e22ec8876db604aa55d92bac088dc8
+    - name: Frame_43
       frameIndex: 43
       additiveSortOrder: 0
       cellRect:
@@ -1725,8 +1725,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 00e6de848974c2844abab8fae8bb6417
-    - name: Kla'ed - Dreadnought - Weapons_Frame_44
+      spriteId: 6745190b112585b4fa0c8500a15aa537
+    - name: Frame_44
       frameIndex: 44
       additiveSortOrder: 0
       cellRect:
@@ -1734,8 +1734,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: c29b22dd52dc27a4a8516114bfc3745f
-    - name: Kla'ed - Dreadnought - Weapons_Frame_45
+      spriteId: 0ad01d71e62596b47b9c909639efbef0
+    - name: Frame_45
       frameIndex: 45
       additiveSortOrder: 0
       cellRect:
@@ -1743,8 +1743,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 0c2e650bf7747af49ba3a67c4b906904
-    - name: Kla'ed - Dreadnought - Weapons_Frame_46
+      spriteId: 57c693d3481464d4b8cdc9f20eb754e1
+    - name: Frame_46
       frameIndex: 46
       additiveSortOrder: 0
       cellRect:
@@ -1752,8 +1752,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: b3ec945fb118374439cf44dd579f4fb2
-    - name: Kla'ed - Dreadnought - Weapons_Frame_47
+      spriteId: 524212723f025ef41adc58217d9358d1
+    - name: Frame_47
       frameIndex: 47
       additiveSortOrder: 0
       cellRect:
@@ -1761,8 +1761,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 28df852bc4a4d044db2eef0c2ee6db95
-    - name: Kla'ed - Dreadnought - Weapons_Frame_48
+      spriteId: 4d1a59aacc0e89a4aaca48fbb9c544cc
+    - name: Frame_48
       frameIndex: 48
       additiveSortOrder: 0
       cellRect:
@@ -1770,8 +1770,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 40899552b44c01c459c4a6f54614292e
-    - name: Kla'ed - Dreadnought - Weapons_Frame_49
+      spriteId: 7b7d08547edbceb45947c6e23f0a2375
+    - name: Frame_49
       frameIndex: 49
       additiveSortOrder: 0
       cellRect:
@@ -1779,8 +1779,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: ddc3bb8089ffb4643860a1da49055060
-    - name: Kla'ed - Dreadnought - Weapons_Frame_50
+      spriteId: dcb48fcb79d820748a6256bc7092f8aa
+    - name: Frame_50
       frameIndex: 50
       additiveSortOrder: 0
       cellRect:
@@ -1788,8 +1788,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 337321f5330dc1d49a2d3b905f313e73
-    - name: Kla'ed - Dreadnought - Weapons_Frame_51
+      spriteId: c559ed8e9b30b1545815846cee66b946
+    - name: Frame_51
       frameIndex: 51
       additiveSortOrder: 0
       cellRect:
@@ -1797,8 +1797,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 9d13eb454e0078744abf7ed4c82ee143
-    - name: Kla'ed - Dreadnought - Weapons_Frame_52
+      spriteId: 602229b35762fb942bd992ead6e6b46a
+    - name: Frame_52
       frameIndex: 52
       additiveSortOrder: 0
       cellRect:
@@ -1806,8 +1806,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: cfde3a72594ceea44b37e7fadc9b0e12
-    - name: Kla'ed - Dreadnought - Weapons_Frame_53
+      spriteId: 63798c86ce47f554186c8e55908824c4
+    - name: Frame_53
       frameIndex: 53
       additiveSortOrder: 0
       cellRect:
@@ -1815,8 +1815,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 28082a90ab83b5b44b739f05da2e93ce
-    - name: Kla'ed - Dreadnought - Weapons_Frame_54
+      spriteId: 3a9643db952a4914d9f85f351a8dc3aa
+    - name: Frame_54
       frameIndex: 54
       additiveSortOrder: 0
       cellRect:
@@ -1824,8 +1824,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: c0243ad691fee6d44a94783f600b1eb9
-    - name: Kla'ed - Dreadnought - Weapons_Frame_55
+      spriteId: 716cfbc40f3716349bdb38206eecd7a9
+    - name: Frame_55
       frameIndex: 55
       additiveSortOrder: 0
       cellRect:
@@ -1833,8 +1833,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 3a7f1ce9321e4604b86e1ebed1f241c4
-    - name: Kla'ed - Dreadnought - Weapons_Frame_56
+      spriteId: f78c9d400f888c14b85c3c0a1a7aadea
+    - name: Frame_56
       frameIndex: 56
       additiveSortOrder: 0
       cellRect:
@@ -1842,8 +1842,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 0cc38766a0fa80447a47881c68e77aea
-    - name: Kla'ed - Dreadnought - Weapons_Frame_57
+      spriteId: b9759eb206d7fb940b54bbcaf1e059df
+    - name: Frame_57
       frameIndex: 57
       additiveSortOrder: 0
       cellRect:
@@ -1851,8 +1851,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: d653d289371203844a9955533574f6b9
-    - name: Kla'ed - Dreadnought - Weapons_Frame_58
+      spriteId: 78bb3c16385c74d48b2a2523677b6934
+    - name: Frame_58
       frameIndex: 58
       additiveSortOrder: 0
       cellRect:
@@ -1860,8 +1860,8 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: 7d11c4b7fa532424689bfc8942426bea
-    - name: Kla'ed - Dreadnought - Weapons_Frame_59
+      spriteId: 937262ba3c269244cbd8b3c30aadbb2a
+    - name: Frame_59
       frameIndex: 59
       additiveSortOrder: 0
       cellRect:
@@ -1869,10 +1869,22 @@ ScriptedImporter:
         y: 15
         width: 72
         height: 100
-      spriteId: ae618a1c323b415408c76fc588e77ae8
+      spriteId: c2592d4810e3bf343bf17e16f53b2e64
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

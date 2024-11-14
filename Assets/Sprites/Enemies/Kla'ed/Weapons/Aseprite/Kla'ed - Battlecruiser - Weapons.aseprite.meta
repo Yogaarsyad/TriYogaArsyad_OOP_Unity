@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 913e4d4426fd560498671ffe9077719d
+guid: 47f4d97cefec9f8458abe09b445f4310
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 88
-    spriteID: 03ba97f1a0c6dbb45b844184576238c2
+    spriteID: a40e35485791e1c489251eb0da4e4afb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 100
       width: 72
       height: 88
-    spriteID: 4654a3368ba5eec45b9d27bb5782c494
+    spriteID: 80ab65c246d9ff04aa94dbe5c44300a9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 100}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 196
       width: 72
       height: 88
-    spriteID: de5f54ea516e06d4ea9b4e4abd559cae
+    spriteID: 950e9935c7c3b954ebe3ccc79ca2c25b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 196}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 292
       width: 72
       height: 88
-    spriteID: dedbc195a39bf7542860972f89519957
+    spriteID: 44ba5c340b485b14f9dd56b83f22b804
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 292}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 388
       width: 72
       height: 88
-    spriteID: 93d32529ed1f4744f8ff0680c42e10d8
+    spriteID: b9655d789805d2f4cbe709e2b6d7a267
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 388}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 88
-    spriteID: 32c7d5598e720394bb7cc8ea3820e91f
+    spriteID: 88f126e1404c03041a273f17f1509de4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 4}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 100
       width: 72
       height: 88
-    spriteID: 5b6ae81f549b78049aa0c769a8a1876a
+    spriteID: 49b7db7927bec8041a2d483bfcc8f11b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 100}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 196
       width: 72
       height: 88
-    spriteID: fe310ee98a5ae0f4f9919edd1e906554
+    spriteID: 48225238a4595df4787052fb24dab4a8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 196}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 292
       width: 72
       height: 88
-    spriteID: 6f3265a7dbcd9ef4f84861d7fb56d31c
+    spriteID: bbd74412ba67d9e40b3ebf2384378654
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 292}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 388
       width: 72
       height: 88
-    spriteID: fda4a04b6b18cf94ca4467c04415e52c
+    spriteID: c0c5fa9ef14ce1f4594abe81198ee8d8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 84, y: 388}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 88
-    spriteID: 81007d0aa08d34d4ea3ecf0c4fae9c67
+    spriteID: fa3a30f290aee8648a82e2bcae06b5eb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 4}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 100
       width: 72
       height: 88
-    spriteID: b9cc267a2298b594e8211a17d32e43a4
+    spriteID: befe9dfdde2be394a880a0bd1cd7272d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -361,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 100}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_12
+  - name: Frame_12
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 196
       width: 72
       height: 88
-    spriteID: 7fdee000fd71dec4bab23f94134a6ff8
+    spriteID: 3c35cf38ff9e2f646878231f48dcf253
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -381,7 +381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 196}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_13
+  - name: Frame_13
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 292
       width: 72
       height: 88
-    spriteID: 53bb6bacd5d978e45a1e2e1d5c507661
+    spriteID: 2fd20b15fdc378745a0b9b09c81cc030
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -401,7 +401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 292}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_14
+  - name: Frame_14
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 388
       width: 72
       height: 88
-    spriteID: 362399ead3ef7b449b22b89f2c359e38
+    spriteID: 875079fa12641834baf259c0ad454df2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,7 +421,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 164, y: 388}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_15
+  - name: Frame_15
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -432,7 +432,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 88
-    spriteID: 894b4aa54afbf29428e6dd3030d0bedb
+    spriteID: 52a10c72113f5744e81b088656cf95e8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -441,7 +441,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 4}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_16
+  - name: Frame_16
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -452,7 +452,7 @@ ScriptedImporter:
       y: 100
       width: 72
       height: 88
-    spriteID: b209fb90f46fd0f47b1699b8ad4cb4f4
+    spriteID: 451833edd1e1c31418fb4c772a3f86c2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -461,7 +461,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 100}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_17
+  - name: Frame_17
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -472,7 +472,7 @@ ScriptedImporter:
       y: 196
       width: 72
       height: 88
-    spriteID: f32bb63efc7569447a4f11747c2028a6
+    spriteID: 905a15004d5bc0f4fb41a7275ff00d0d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -481,7 +481,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 196}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_18
+  - name: Frame_18
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -492,7 +492,7 @@ ScriptedImporter:
       y: 292
       width: 72
       height: 88
-    spriteID: 1fb6ccb3bbc0ef64c8df76ef9280a831
+    spriteID: f8a7953f12a72374b8db7ee73588009c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -501,7 +501,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 292}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_19
+  - name: Frame_19
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -512,7 +512,7 @@ ScriptedImporter:
       y: 388
       width: 72
       height: 88
-    spriteID: 8ad19eb64cc89f0479d96530f1812364
+    spriteID: 430e9870dac35f24588bb6963bb146ce
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -521,7 +521,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 244, y: 388}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_20
+  - name: Frame_20
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -532,7 +532,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 88
-    spriteID: 51241f1ef6da83840ba2d61d85a59707
+    spriteID: ae1a8cba0ae478c4989ec8eb17483e1a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -541,7 +541,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 4}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_21
+  - name: Frame_21
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -552,7 +552,7 @@ ScriptedImporter:
       y: 100
       width: 72
       height: 88
-    spriteID: 40e9eee682083ce40a60126bb152c1c7
+    spriteID: ffe2f92ed8778094e87af488ea613c2a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -561,7 +561,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 100}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_22
+  - name: Frame_22
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -572,7 +572,7 @@ ScriptedImporter:
       y: 196
       width: 72
       height: 88
-    spriteID: 81d07943ab37b8b45ac8e391f0cdf08a
+    spriteID: a4eb6d078481cec47bb24de8706d53fd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -581,7 +581,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 196}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_23
+  - name: Frame_23
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -592,7 +592,7 @@ ScriptedImporter:
       y: 292
       width: 72
       height: 88
-    spriteID: f1da0ea739d172845850cbaab9637dac
+    spriteID: 430bf7308342aae4ab565b8c10139d92
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -601,7 +601,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 292}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_24
+  - name: Frame_24
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -612,7 +612,7 @@ ScriptedImporter:
       y: 388
       width: 72
       height: 88
-    spriteID: b4b2cfea9784838408e7d9eef54207c7
+    spriteID: f775cb5e0e14e934f8288680bc4daa68
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -621,7 +621,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 324, y: 388}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_25
+  - name: Frame_25
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -632,7 +632,7 @@ ScriptedImporter:
       y: 4
       width: 72
       height: 88
-    spriteID: 90996eaa36579ab408ee40284c99bbda
+    spriteID: 654613897a344ba46815f8a116042de8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -641,7 +641,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 4}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_26
+  - name: Frame_26
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -652,7 +652,7 @@ ScriptedImporter:
       y: 100
       width: 72
       height: 88
-    spriteID: ea49a4b360b8083419d1cad246cbd6b6
+    spriteID: ec0ff0f0b30f4234aadcab630d9de092
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -661,7 +661,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 100}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_27
+  - name: Frame_27
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -672,7 +672,7 @@ ScriptedImporter:
       y: 196
       width: 72
       height: 88
-    spriteID: e6af44d637a2b72458900622e68ba0e7
+    spriteID: 2b4ffd3cd69eb7740b6cf57e7840a3bb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -681,7 +681,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 196}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_28
+  - name: Frame_28
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -692,7 +692,7 @@ ScriptedImporter:
       y: 292
       width: 72
       height: 88
-    spriteID: 6639cfd3a09a9f144b6888c41384e253
+    spriteID: a0c2a0714da42bc4eafe1fc06e2afd74
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -701,7 +701,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 404, y: 292}
-  - name: Kla'ed - Battlecruiser - Weapons_Frame_29
+  - name: Frame_29
     originalName: 
     pivot: {x: 0.5, y: -0.3068182}
     alignment: 9
@@ -712,7 +712,7 @@ ScriptedImporter:
       y: 388
       width: 72
       height: 88
-    spriteID: 98ee675f5801ffd4cbd52ad8b0f6ca55
+    spriteID: 460a52366f247be4eada46b78fc6ac57
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -730,7 +730,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -738,8 +738,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 03ba97f1a0c6dbb45b844184576238c2
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_1
+      spriteId: a40e35485791e1c489251eb0da4e4afb
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -747,8 +747,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 4654a3368ba5eec45b9d27bb5782c494
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_2
+      spriteId: 80ab65c246d9ff04aa94dbe5c44300a9
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -756,8 +756,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: de5f54ea516e06d4ea9b4e4abd559cae
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_3
+      spriteId: 950e9935c7c3b954ebe3ccc79ca2c25b
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -765,8 +765,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: dedbc195a39bf7542860972f89519957
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_4
+      spriteId: 44ba5c340b485b14f9dd56b83f22b804
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -774,8 +774,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 93d32529ed1f4744f8ff0680c42e10d8
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_5
+      spriteId: b9655d789805d2f4cbe709e2b6d7a267
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -783,8 +783,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 32c7d5598e720394bb7cc8ea3820e91f
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_6
+      spriteId: 88f126e1404c03041a273f17f1509de4
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -792,8 +792,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 5b6ae81f549b78049aa0c769a8a1876a
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_7
+      spriteId: 49b7db7927bec8041a2d483bfcc8f11b
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -801,8 +801,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: fe310ee98a5ae0f4f9919edd1e906554
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_8
+      spriteId: 48225238a4595df4787052fb24dab4a8
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -810,8 +810,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 6f3265a7dbcd9ef4f84861d7fb56d31c
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_9
+      spriteId: bbd74412ba67d9e40b3ebf2384378654
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -819,8 +819,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: fda4a04b6b18cf94ca4467c04415e52c
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_10
+      spriteId: c0c5fa9ef14ce1f4594abe81198ee8d8
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -828,8 +828,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 81007d0aa08d34d4ea3ecf0c4fae9c67
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_11
+      spriteId: fa3a30f290aee8648a82e2bcae06b5eb
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -837,8 +837,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: b9cc267a2298b594e8211a17d32e43a4
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_12
+      spriteId: befe9dfdde2be394a880a0bd1cd7272d
+    - name: Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -846,8 +846,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 7fdee000fd71dec4bab23f94134a6ff8
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_13
+      spriteId: 3c35cf38ff9e2f646878231f48dcf253
+    - name: Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -855,8 +855,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 53bb6bacd5d978e45a1e2e1d5c507661
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_14
+      spriteId: 2fd20b15fdc378745a0b9b09c81cc030
+    - name: Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -864,8 +864,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 362399ead3ef7b449b22b89f2c359e38
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_15
+      spriteId: 875079fa12641834baf259c0ad454df2
+    - name: Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -873,8 +873,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 894b4aa54afbf29428e6dd3030d0bedb
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_16
+      spriteId: 52a10c72113f5744e81b088656cf95e8
+    - name: Frame_16
       frameIndex: 16
       additiveSortOrder: 0
       cellRect:
@@ -882,8 +882,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: b209fb90f46fd0f47b1699b8ad4cb4f4
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_17
+      spriteId: 451833edd1e1c31418fb4c772a3f86c2
+    - name: Frame_17
       frameIndex: 17
       additiveSortOrder: 0
       cellRect:
@@ -891,8 +891,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: f32bb63efc7569447a4f11747c2028a6
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_18
+      spriteId: 905a15004d5bc0f4fb41a7275ff00d0d
+    - name: Frame_18
       frameIndex: 18
       additiveSortOrder: 0
       cellRect:
@@ -900,8 +900,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 1fb6ccb3bbc0ef64c8df76ef9280a831
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_19
+      spriteId: f8a7953f12a72374b8db7ee73588009c
+    - name: Frame_19
       frameIndex: 19
       additiveSortOrder: 0
       cellRect:
@@ -909,8 +909,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 8ad19eb64cc89f0479d96530f1812364
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_20
+      spriteId: 430e9870dac35f24588bb6963bb146ce
+    - name: Frame_20
       frameIndex: 20
       additiveSortOrder: 0
       cellRect:
@@ -918,8 +918,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 51241f1ef6da83840ba2d61d85a59707
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_21
+      spriteId: ae1a8cba0ae478c4989ec8eb17483e1a
+    - name: Frame_21
       frameIndex: 21
       additiveSortOrder: 0
       cellRect:
@@ -927,8 +927,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 40e9eee682083ce40a60126bb152c1c7
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_22
+      spriteId: ffe2f92ed8778094e87af488ea613c2a
+    - name: Frame_22
       frameIndex: 22
       additiveSortOrder: 0
       cellRect:
@@ -936,8 +936,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 81d07943ab37b8b45ac8e391f0cdf08a
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_23
+      spriteId: a4eb6d078481cec47bb24de8706d53fd
+    - name: Frame_23
       frameIndex: 23
       additiveSortOrder: 0
       cellRect:
@@ -945,8 +945,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: f1da0ea739d172845850cbaab9637dac
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_24
+      spriteId: 430bf7308342aae4ab565b8c10139d92
+    - name: Frame_24
       frameIndex: 24
       additiveSortOrder: 0
       cellRect:
@@ -954,8 +954,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: b4b2cfea9784838408e7d9eef54207c7
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_25
+      spriteId: f775cb5e0e14e934f8288680bc4daa68
+    - name: Frame_25
       frameIndex: 25
       additiveSortOrder: 0
       cellRect:
@@ -963,8 +963,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 90996eaa36579ab408ee40284c99bbda
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_26
+      spriteId: 654613897a344ba46815f8a116042de8
+    - name: Frame_26
       frameIndex: 26
       additiveSortOrder: 0
       cellRect:
@@ -972,8 +972,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: ea49a4b360b8083419d1cad246cbd6b6
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_27
+      spriteId: ec0ff0f0b30f4234aadcab630d9de092
+    - name: Frame_27
       frameIndex: 27
       additiveSortOrder: 0
       cellRect:
@@ -981,8 +981,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: e6af44d637a2b72458900622e68ba0e7
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_28
+      spriteId: 2b4ffd3cd69eb7740b6cf57e7840a3bb
+    - name: Frame_28
       frameIndex: 28
       additiveSortOrder: 0
       cellRect:
@@ -990,8 +990,8 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 6639cfd3a09a9f144b6888c41384e253
-    - name: Kla'ed - Battlecruiser - Weapons_Frame_29
+      spriteId: a0c2a0714da42bc4eafe1fc06e2afd74
+    - name: Frame_29
       frameIndex: 29
       additiveSortOrder: 0
       cellRect:
@@ -999,10 +999,22 @@ ScriptedImporter:
         y: 27
         width: 72
         height: 88
-      spriteId: 98ee675f5801ffd4cbd52ad8b0f6ca55
+      spriteId: 460a52366f247be4eada46b78fc6ac57
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

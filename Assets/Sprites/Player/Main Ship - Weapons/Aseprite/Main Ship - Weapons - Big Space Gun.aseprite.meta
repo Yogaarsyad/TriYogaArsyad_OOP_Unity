@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c721cffbba1d7d544a0b093d04989007
+guid: e9e3a82cd65c5144e85fd1248a0fcf28
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615201873935656
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Main Ship - Weapons - Big Space Gun_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -1}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 20
-    spriteID: e626e2bd9f77ed640a25826e25b616e6
+    spriteID: 9455cd21bbb29734488a2d775b7cbc35
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Main Ship - Weapons - Big Space Gun_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -1}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 32
       width: 18
       height: 20
-    spriteID: 50f12de68e973264e94d842266ab7fa7
+    spriteID: addf60acf5982ad41858671623b1df1d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 32}
-  - name: Main Ship - Weapons - Big Space Gun_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -1}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 60
       width: 18
       height: 20
-    spriteID: b06e6a9b978c82f4ebda12cbca8c6693
+    spriteID: 2f9ea145e6dde524b95bbe01fb822ac8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 60}
-  - name: Main Ship - Weapons - Big Space Gun_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -1}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 88
       width: 18
       height: 20
-    spriteID: 6b0ae329e259ae442b1561c578c8a812
+    spriteID: 0cbba873b77c21c42a0ac76f552a2120
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 88}
-  - name: Main Ship - Weapons - Big Space Gun_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: -1}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 20
-    spriteID: ca050ed879bf3434596b84bdb5c87c42
+    spriteID: d8110164d39243f4395dada18b645895
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 4}
-  - name: Main Ship - Weapons - Big Space Gun_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: -1}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 32
       width: 18
       height: 20
-    spriteID: 0cf7382a3f52e1e4a900c03709604694
+    spriteID: 2d57fe000dea82547a09c92953ae537c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 32}
-  - name: Main Ship - Weapons - Big Space Gun_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: -1}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 60
       width: 18
       height: 20
-    spriteID: 9b01253054debd64ba8999dc451eae45
+    spriteID: 8f6d57e29bed81c4faedefcf15211f5c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 60}
-  - name: Main Ship - Weapons - Big Space Gun_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.4705882, y: -0.7}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 88
       width: 17
       height: 20
-    spriteID: db3721b0850a15743afb056cd4b6cf27
+    spriteID: c7d7fe4836403bd44bd7741e29334dfd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 56, y: 88}
-  - name: Main Ship - Weapons - Big Space Gun_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: -0.7}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 88
       width: 18
       height: 20
-    spriteID: 52e26d18fe5cdbe41955e01e0e52980f
+    spriteID: 9ef0f24a37d7d72448becd45c85166b4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 88}
-  - name: Main Ship - Weapons - Big Space Gun_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: -0.8000001}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 20
-    spriteID: 6c76fcdaf0159a94ea42f27bc2ea8f1d
+    spriteID: afd17723a4d54f14dbe7d2cb53f470c7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 56, y: 4}
-  - name: Main Ship - Weapons - Big Space Gun_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: -0.90000004}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 32
       width: 18
       height: 20
-    spriteID: c862bfba1c8582146a9eb9f3544f3a7a
+    spriteID: e162e22a57975774f81777ffa8901c4f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 56, y: 32}
-  - name: Main Ship - Weapons - Big Space Gun_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.5, y: -1}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 60
       width: 18
       height: 20
-    spriteID: b3feda624ebe29844b04fb554c556e59
+    spriteID: 3bcec944e4667d94aa69881fc5364c37
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -370,7 +370,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Main Ship - Weapons - Big Space Gun_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -378,8 +378,8 @@ ScriptedImporter:
         y: 20
         width: 18
         height: 20
-      spriteId: e626e2bd9f77ed640a25826e25b616e6
-    - name: Main Ship - Weapons - Big Space Gun_Frame_1
+      spriteId: 9455cd21bbb29734488a2d775b7cbc35
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -387,8 +387,8 @@ ScriptedImporter:
         y: 20
         width: 18
         height: 20
-      spriteId: 50f12de68e973264e94d842266ab7fa7
-    - name: Main Ship - Weapons - Big Space Gun_Frame_2
+      spriteId: addf60acf5982ad41858671623b1df1d
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -396,8 +396,8 @@ ScriptedImporter:
         y: 20
         width: 18
         height: 20
-      spriteId: b06e6a9b978c82f4ebda12cbca8c6693
-    - name: Main Ship - Weapons - Big Space Gun_Frame_3
+      spriteId: 2f9ea145e6dde524b95bbe01fb822ac8
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -405,8 +405,8 @@ ScriptedImporter:
         y: 20
         width: 18
         height: 20
-      spriteId: 6b0ae329e259ae442b1561c578c8a812
-    - name: Main Ship - Weapons - Big Space Gun_Frame_4
+      spriteId: 0cbba873b77c21c42a0ac76f552a2120
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -414,8 +414,8 @@ ScriptedImporter:
         y: 20
         width: 18
         height: 20
-      spriteId: ca050ed879bf3434596b84bdb5c87c42
-    - name: Main Ship - Weapons - Big Space Gun_Frame_5
+      spriteId: d8110164d39243f4395dada18b645895
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -423,8 +423,8 @@ ScriptedImporter:
         y: 20
         width: 18
         height: 20
-      spriteId: 0cf7382a3f52e1e4a900c03709604694
-    - name: Main Ship - Weapons - Big Space Gun_Frame_6
+      spriteId: 2d57fe000dea82547a09c92953ae537c
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -432,8 +432,8 @@ ScriptedImporter:
         y: 20
         width: 18
         height: 20
-      spriteId: 9b01253054debd64ba8999dc451eae45
-    - name: Main Ship - Weapons - Big Space Gun_Frame_7
+      spriteId: 8f6d57e29bed81c4faedefcf15211f5c
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -441,8 +441,8 @@ ScriptedImporter:
         y: 14
         width: 17
         height: 20
-      spriteId: db3721b0850a15743afb056cd4b6cf27
-    - name: Main Ship - Weapons - Big Space Gun_Frame_8
+      spriteId: c7d7fe4836403bd44bd7741e29334dfd
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -450,8 +450,8 @@ ScriptedImporter:
         y: 14
         width: 18
         height: 20
-      spriteId: 52e26d18fe5cdbe41955e01e0e52980f
-    - name: Main Ship - Weapons - Big Space Gun_Frame_9
+      spriteId: 9ef0f24a37d7d72448becd45c85166b4
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -459,8 +459,8 @@ ScriptedImporter:
         y: 16
         width: 18
         height: 20
-      spriteId: 6c76fcdaf0159a94ea42f27bc2ea8f1d
-    - name: Main Ship - Weapons - Big Space Gun_Frame_10
+      spriteId: afd17723a4d54f14dbe7d2cb53f470c7
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -468,8 +468,8 @@ ScriptedImporter:
         y: 18
         width: 18
         height: 20
-      spriteId: c862bfba1c8582146a9eb9f3544f3a7a
-    - name: Main Ship - Weapons - Big Space Gun_Frame_11
+      spriteId: e162e22a57975774f81777ffa8901c4f
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -477,11 +477,11 @@ ScriptedImporter:
         y: 20
         width: 18
         height: 20
-      spriteId: b3feda624ebe29844b04fb554c556e59
+      spriteId: 3bcec944e4667d94aa69881fc5364c37
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048
@@ -493,19 +493,7 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  generatePhysicsShape: 1
+  generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 48, y: 48}

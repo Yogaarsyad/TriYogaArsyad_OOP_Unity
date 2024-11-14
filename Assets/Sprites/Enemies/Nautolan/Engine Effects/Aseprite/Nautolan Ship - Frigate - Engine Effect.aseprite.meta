@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d1bce93476b8b004982ac2a440d9e4ad
+guid: a37297dbb60c14646b6beb7c9cba6ae0
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nautolan Ship - Frigate - Engine Effect_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 96
       height: 64
-    spriteID: 3127f49dfe1b8b642ad4e238c8e9b7f2
+    spriteID: 956b19a7e34b98145adae9efb6140538
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nautolan Ship - Frigate - Engine Effect_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 76
       width: 96
       height: 64
-    spriteID: 781ae1148b19ed2439638a9db868d7c1
+    spriteID: 2b4bc8f16a53bd4428de31188f35378f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Nautolan Ship - Frigate - Engine Effect_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 148
       width: 96
       height: 64
-    spriteID: ff85db39c8191164b92ad6314d58a305
+    spriteID: dfd84a439c9258a459a8b9f1673ea744
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 148}
-  - name: Nautolan Ship - Frigate - Engine Effect_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 220
       width: 96
       height: 64
-    spriteID: 0561b18b9fac10a4aa79ae877e7af69d
+    spriteID: 11936f893bcc9f9489bc04ef0fa421db
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 220}
-  - name: Nautolan Ship - Frigate - Engine Effect_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 292
       width: 96
       height: 64
-    spriteID: 39bb301e512f5d04791b8c3ef9ac1abe
+    spriteID: d1a67b7f3dadf1a4fbadb126fab6623d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 292}
-  - name: Nautolan Ship - Frigate - Engine Effect_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 364
       width: 96
       height: 64
-    spriteID: b07eafdfce0d9a841a84bb60063cae08
+    spriteID: 8c6b6a7c5e854ec4e8b17d8e00a4e9c2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 364}
-  - name: Nautolan Ship - Frigate - Engine Effect_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 436
       width: 96
       height: 64
-    spriteID: 84832e567a3e65b4d9561b7236fa9e39
+    spriteID: b0aac0dd1368b4247a621702a282e6cc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 436}
-  - name: Nautolan Ship - Frigate - Engine Effect_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 96
       height: 64
-    spriteID: 9304bbfce6fcc1c42bc918cdb5ccbb7b
+    spriteID: fcf962fb3f50be14f92b2285e62721b6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -290,7 +290,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nautolan Ship - Frigate - Engine Effect_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -298,8 +298,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 64
-      spriteId: 3127f49dfe1b8b642ad4e238c8e9b7f2
-    - name: Nautolan Ship - Frigate - Engine Effect_Frame_1
+      spriteId: 956b19a7e34b98145adae9efb6140538
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -307,8 +307,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 64
-      spriteId: 781ae1148b19ed2439638a9db868d7c1
-    - name: Nautolan Ship - Frigate - Engine Effect_Frame_2
+      spriteId: 2b4bc8f16a53bd4428de31188f35378f
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -316,8 +316,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 64
-      spriteId: ff85db39c8191164b92ad6314d58a305
-    - name: Nautolan Ship - Frigate - Engine Effect_Frame_3
+      spriteId: dfd84a439c9258a459a8b9f1673ea744
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -325,8 +325,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 64
-      spriteId: 0561b18b9fac10a4aa79ae877e7af69d
-    - name: Nautolan Ship - Frigate - Engine Effect_Frame_4
+      spriteId: 11936f893bcc9f9489bc04ef0fa421db
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -334,8 +334,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 64
-      spriteId: 39bb301e512f5d04791b8c3ef9ac1abe
-    - name: Nautolan Ship - Frigate - Engine Effect_Frame_5
+      spriteId: d1a67b7f3dadf1a4fbadb126fab6623d
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -343,8 +343,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 64
-      spriteId: b07eafdfce0d9a841a84bb60063cae08
-    - name: Nautolan Ship - Frigate - Engine Effect_Frame_6
+      spriteId: 8c6b6a7c5e854ec4e8b17d8e00a4e9c2
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -352,8 +352,8 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 64
-      spriteId: 84832e567a3e65b4d9561b7236fa9e39
-    - name: Nautolan Ship - Frigate - Engine Effect_Frame_7
+      spriteId: b0aac0dd1368b4247a621702a282e6cc
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -361,10 +361,22 @@ ScriptedImporter:
         y: 0
         width: 96
         height: 64
-      spriteId: 9304bbfce6fcc1c42bc918cdb5ccbb7b
+      spriteId: fcf962fb3f50be14f92b2285e62721b6
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 24d371e620a884b4681a20ac2990e61a
+guid: 448f2a58cddd2d1468ccffb22a8e231f
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nautolan Ship - Torpedo Ship - Shield_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 1a1e2365d35e12b47afdb52d6e1760c2
+    spriteID: 9e8416b110f78014bb2e95cadb5cc066
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nautolan Ship - Torpedo Ship - Shield_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: c9a1982a6df679242bc1686d233bd745
+    spriteID: c50b70305eebc4d4ca7d35cb87f27847
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Nautolan Ship - Torpedo Ship - Shield_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: da669e4cc9689904b97a730839ce5ff4
+    spriteID: 85d437d49c528b6438d507f9d0fefdee
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 148}
-  - name: Nautolan Ship - Torpedo Ship - Shield_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 0a3b87a21312aa6448193c040fd81856
+    spriteID: 23f85efb0bf423f448583d788e75fbf8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 4}
-  - name: Nautolan Ship - Torpedo Ship - Shield_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: bf64c16ad4e13cf42a766765d8bd1bdf
+    spriteID: aa94f709acaa504419a0d8616a69521f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 76}
-  - name: Nautolan Ship - Torpedo Ship - Shield_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 245ab522e00d7cd4aa6d7bc86dc1c9e6
+    spriteID: 25e78c2520387e341ab2f6bd6408f275
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 148}
-  - name: Nautolan Ship - Torpedo Ship - Shield_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: e8558a510e020e2439c0db8a8bc737a0
+    spriteID: dc5b86150d3a1694695a1084fc6b6985
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 148, y: 4}
-  - name: Nautolan Ship - Torpedo Ship - Shield_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: c44adf348e13cb44d949afff18981c09
+    spriteID: 3d7fa6e8a516c0b4fbb61a317d76f957
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -290,7 +290,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nautolan Ship - Torpedo Ship - Shield_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -298,8 +298,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 1a1e2365d35e12b47afdb52d6e1760c2
-    - name: Nautolan Ship - Torpedo Ship - Shield_Frame_1
+      spriteId: 9e8416b110f78014bb2e95cadb5cc066
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -307,8 +307,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: c9a1982a6df679242bc1686d233bd745
-    - name: Nautolan Ship - Torpedo Ship - Shield_Frame_2
+      spriteId: c50b70305eebc4d4ca7d35cb87f27847
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -316,8 +316,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: da669e4cc9689904b97a730839ce5ff4
-    - name: Nautolan Ship - Torpedo Ship - Shield_Frame_3
+      spriteId: 85d437d49c528b6438d507f9d0fefdee
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -325,8 +325,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 0a3b87a21312aa6448193c040fd81856
-    - name: Nautolan Ship - Torpedo Ship - Shield_Frame_4
+      spriteId: 23f85efb0bf423f448583d788e75fbf8
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -334,8 +334,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: bf64c16ad4e13cf42a766765d8bd1bdf
-    - name: Nautolan Ship - Torpedo Ship - Shield_Frame_5
+      spriteId: aa94f709acaa504419a0d8616a69521f
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -343,8 +343,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 245ab522e00d7cd4aa6d7bc86dc1c9e6
-    - name: Nautolan Ship - Torpedo Ship - Shield_Frame_6
+      spriteId: 25e78c2520387e341ab2f6bd6408f275
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -352,8 +352,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: e8558a510e020e2439c0db8a8bc737a0
-    - name: Nautolan Ship - Torpedo Ship - Shield_Frame_7
+      spriteId: dc5b86150d3a1694695a1084fc6b6985
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -361,10 +361,22 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: c44adf348e13cb44d949afff18981c09
+      spriteId: 3d7fa6e8a516c0b4fbb61a317d76f957
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

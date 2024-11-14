@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cddf1a65f57fdf54daad03a7702263e9
+guid: 80d17a64589a87040a3796c13d46c51d
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615615942507701
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Main Ship - Engines - Supercharged Engine - Powering_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.18181819}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 24
       width: 22
       height: 11
-    spriteID: fe2d7562e7801a54eaa6f316ae2b8eec
+    spriteID: 61e67d3eaab3d04449785334621cbe3f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 24}
-  - name: Main Ship - Engines - Supercharged Engine - Powering_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.3}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 43
       width: 22
       height: 10
-    spriteID: d6d3f35792fb27246923c0792e9df611
+    spriteID: f708856ca77ef034ab74c9f13fc5d67a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 43}
-  - name: Main Ship - Engines - Supercharged Engine - Powering_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.625}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 22
       height: 8
-    spriteID: 4fb2f63147b702f499e785115a4dd609
+    spriteID: 3d038c057573d61479b608492e92676b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 34, y: 4}
-  - name: Main Ship - Engines - Supercharged Engine - Powering_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.083333336}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 22
       height: 12
-    spriteID: 9ba2850b4903b6542b72272dd4457f8c
+    spriteID: 6fc180eb89ea32144bac125c3b7f6fc5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -210,7 +210,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Main Ship - Engines - Supercharged Engine - Powering_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -218,8 +218,8 @@ ScriptedImporter:
         y: 2
         width: 22
         height: 11
-      spriteId: fe2d7562e7801a54eaa6f316ae2b8eec
-    - name: Main Ship - Engines - Supercharged Engine - Powering_Frame_1
+      spriteId: 61e67d3eaab3d04449785334621cbe3f
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -227,8 +227,8 @@ ScriptedImporter:
         y: 3
         width: 22
         height: 10
-      spriteId: d6d3f35792fb27246923c0792e9df611
-    - name: Main Ship - Engines - Supercharged Engine - Powering_Frame_2
+      spriteId: f708856ca77ef034ab74c9f13fc5d67a
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -236,8 +236,8 @@ ScriptedImporter:
         y: 5
         width: 22
         height: 8
-      spriteId: 4fb2f63147b702f499e785115a4dd609
-    - name: Main Ship - Engines - Supercharged Engine - Powering_Frame_3
+      spriteId: 3d038c057573d61479b608492e92676b
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -245,23 +245,11 @@ ScriptedImporter:
         y: 1
         width: 22
         height: 12
-      spriteId: 9ba2850b4903b6542b72272dd4457f8c
+      spriteId: 6fc180eb89ea32144bac125c3b7f6fc5
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

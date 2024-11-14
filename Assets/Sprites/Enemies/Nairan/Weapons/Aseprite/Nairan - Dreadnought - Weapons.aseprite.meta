@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5733322c732138e4a9adc44a3021739c
+guid: 3cba5046fb550554087d314b74f27f7a
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nairan - Dreadnought - Weapons_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 68
       height: 98
-    spriteID: ec8abcafdb22e5d458bcc32e7dc7996c
+    spriteID: b6a2a10dc24b17b4c8b65bc811771012
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nairan - Dreadnought - Weapons_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 110
       width: 68
       height: 98
-    spriteID: f4cef50cc96ff634582cd6fe2f02ec80
+    spriteID: 4469ea7a431ecba4fbff3049268e8fae
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 110}
-  - name: Nairan - Dreadnought - Weapons_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 216
       width: 68
       height: 98
-    spriteID: 27be53728f839bb47958da2a97e7da20
+    spriteID: 6afe65eac07ac6349b0d74dab9c40765
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 216}
-  - name: Nairan - Dreadnought - Weapons_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 322
       width: 68
       height: 98
-    spriteID: f01bc58b02c87a0418500e1e9c14743c
+    spriteID: 0ddb1113c3a8e5443b52d0fe2dc3b059
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 322}
-  - name: Nairan - Dreadnought - Weapons_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 428
       width: 68
       height: 98
-    spriteID: 46f45b0760367114d8c5cdb84285d061
+    spriteID: efbb62c8649a6fd41ad631c3a495602a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 428}
-  - name: Nairan - Dreadnought - Weapons_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 534
       width: 68
       height: 98
-    spriteID: f3e8ff2d25d7cdb4cba891fa096f9874
+    spriteID: 7cfe71373fb72af4ba2eca37185f11f4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 534}
-  - name: Nairan - Dreadnought - Weapons_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 640
       width: 68
       height: 98
-    spriteID: 50236e7ef3e15f5459c84d1982990547
+    spriteID: 94672a0853246744bbef59f379c45491
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 640}
-  - name: Nairan - Dreadnought - Weapons_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 746
       width: 68
       height: 98
-    spriteID: 91191b8db89e3fb4c9be6f0002db1a84
+    spriteID: e9b2a1d85adf6c44c90b46cd2e2ecc59
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 746}
-  - name: Nairan - Dreadnought - Weapons_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 852
       width: 68
       height: 98
-    spriteID: 108e876f037f02646b39c127eae89100
+    spriteID: 3eb1e3b020826ce41ab649261ded9b7e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 852}
-  - name: Nairan - Dreadnought - Weapons_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 4
       width: 68
       height: 98
-    spriteID: 56e5dff5b4e646a4587637077c91b253
+    spriteID: 10b1c918a63b37843884aa2207897020
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 80, y: 4}
-  - name: Nairan - Dreadnought - Weapons_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 110
       width: 68
       height: 98
-    spriteID: bc4380f0cf49950489641a8ae73448f4
+    spriteID: 077b67d241823cc4f92392a8816646ff
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 80, y: 110}
-  - name: Nairan - Dreadnought - Weapons_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 216
       width: 68
       height: 98
-    spriteID: fe4d422ac857b854f962ccf75d34d5a5
+    spriteID: d433010a47344b64bb7ba3e35aff0db2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -361,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 80, y: 216}
-  - name: Nairan - Dreadnought - Weapons_Frame_12
+  - name: Frame_12
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 322
       width: 68
       height: 98
-    spriteID: b269a8b83bc612340815e0b12bdb2c50
+    spriteID: c981880c0dd816a42bac2e5a5b58f568
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -381,7 +381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 80, y: 322}
-  - name: Nairan - Dreadnought - Weapons_Frame_13
+  - name: Frame_13
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 428
       width: 68
       height: 98
-    spriteID: ab377633d13aa69479d1c43be32bc822
+    spriteID: cc5fe07c661188d47bb5985b116d28b1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -401,7 +401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 80, y: 428}
-  - name: Nairan - Dreadnought - Weapons_Frame_14
+  - name: Frame_14
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 534
       width: 68
       height: 98
-    spriteID: bdf623a04c17e444ca8c48af8834568c
+    spriteID: 46f3c9f24a52c3f48b7245fe662c3b66
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,7 +421,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 80, y: 534}
-  - name: Nairan - Dreadnought - Weapons_Frame_15
+  - name: Frame_15
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -432,7 +432,7 @@ ScriptedImporter:
       y: 640
       width: 68
       height: 98
-    spriteID: 4d9ff452b3eaf4d439e79596e380a31a
+    spriteID: c6ce0ed6cea3d6640985d6943b7668ed
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -441,7 +441,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 80, y: 640}
-  - name: Nairan - Dreadnought - Weapons_Frame_16
+  - name: Frame_16
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -452,7 +452,7 @@ ScriptedImporter:
       y: 746
       width: 68
       height: 98
-    spriteID: 9afe072139af22645a544870a565a55e
+    spriteID: f9d2bb3be5ab7e743989ce44d6e21a45
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -461,7 +461,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 80, y: 746}
-  - name: Nairan - Dreadnought - Weapons_Frame_17
+  - name: Frame_17
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -472,7 +472,7 @@ ScriptedImporter:
       y: 852
       width: 68
       height: 98
-    spriteID: 346a4e9609b8c8141bb976b037b4df35
+    spriteID: 886c008268c1f9d4d84ee6c9ad813ef7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -481,7 +481,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 80, y: 852}
-  - name: Nairan - Dreadnought - Weapons_Frame_18
+  - name: Frame_18
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -492,7 +492,7 @@ ScriptedImporter:
       y: 4
       width: 68
       height: 98
-    spriteID: 3ba10bdc75248d44c844beb8b6da9679
+    spriteID: 395b81191bffb504e867a124167223c1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -501,7 +501,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 156, y: 4}
-  - name: Nairan - Dreadnought - Weapons_Frame_19
+  - name: Frame_19
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -512,7 +512,7 @@ ScriptedImporter:
       y: 110
       width: 68
       height: 98
-    spriteID: 067d42208bae72c4e9e48920feb32b07
+    spriteID: 4312f3bf1e264374a9816ff437ab7f13
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -521,7 +521,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 156, y: 110}
-  - name: Nairan - Dreadnought - Weapons_Frame_20
+  - name: Frame_20
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -532,7 +532,7 @@ ScriptedImporter:
       y: 216
       width: 68
       height: 98
-    spriteID: 2b4b01570fa718d4a9237054012de9a3
+    spriteID: ea7ddab07adcdd24991a87d568b8d452
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -541,7 +541,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 156, y: 216}
-  - name: Nairan - Dreadnought - Weapons_Frame_21
+  - name: Frame_21
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -552,7 +552,7 @@ ScriptedImporter:
       y: 322
       width: 68
       height: 98
-    spriteID: 31bba30c0fdc8d143a3801df1c5e2f21
+    spriteID: 877d68137d4fd8a499ca4efbbeba4ccb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -561,7 +561,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 156, y: 322}
-  - name: Nairan - Dreadnought - Weapons_Frame_22
+  - name: Frame_22
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -572,7 +572,7 @@ ScriptedImporter:
       y: 428
       width: 68
       height: 98
-    spriteID: 8e06036ef7a26404f9c8d3a4806642cc
+    spriteID: d3ee6e7f5d7751d428cd5a5bca33de14
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -581,7 +581,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 156, y: 428}
-  - name: Nairan - Dreadnought - Weapons_Frame_23
+  - name: Frame_23
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -592,7 +592,7 @@ ScriptedImporter:
       y: 534
       width: 68
       height: 98
-    spriteID: ba3314b2b9274e641bd32653cd1a8880
+    spriteID: 1d25863b869d8e44e9cbb5a590f61a64
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -601,7 +601,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 156, y: 534}
-  - name: Nairan - Dreadnought - Weapons_Frame_24
+  - name: Frame_24
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -612,7 +612,7 @@ ScriptedImporter:
       y: 640
       width: 68
       height: 98
-    spriteID: 3bf353e7cbaf351408a29241666c927e
+    spriteID: e421ecfe89b98c140b178ad5e34db959
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -621,7 +621,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 156, y: 640}
-  - name: Nairan - Dreadnought - Weapons_Frame_25
+  - name: Frame_25
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -632,7 +632,7 @@ ScriptedImporter:
       y: 746
       width: 68
       height: 98
-    spriteID: 4adf91954e9bbed4c8260ea9e9ba696d
+    spriteID: 125e8982f344d164d92d99464c164c1f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -641,7 +641,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 156, y: 746}
-  - name: Nairan - Dreadnought - Weapons_Frame_26
+  - name: Frame_26
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -652,7 +652,7 @@ ScriptedImporter:
       y: 852
       width: 68
       height: 98
-    spriteID: 2763c163a65bb6d42b16dfc9171aeaf5
+    spriteID: 5c93360d93c4b794c8d85c35035bcecf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -661,7 +661,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 156, y: 852}
-  - name: Nairan - Dreadnought - Weapons_Frame_27
+  - name: Frame_27
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -672,7 +672,7 @@ ScriptedImporter:
       y: 4
       width: 68
       height: 98
-    spriteID: 58d2ce7f7d60e984b88bb2bf98ffe7d5
+    spriteID: 391cb994f60cf6e47838328cafd31208
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -681,7 +681,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 232, y: 4}
-  - name: Nairan - Dreadnought - Weapons_Frame_28
+  - name: Frame_28
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -692,7 +692,7 @@ ScriptedImporter:
       y: 110
       width: 68
       height: 98
-    spriteID: 0b5c2981780054d47a525b89aebaf9fe
+    spriteID: 759097f96455c2d48818cb24f9c07e25
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -701,7 +701,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 232, y: 110}
-  - name: Nairan - Dreadnought - Weapons_Frame_29
+  - name: Frame_29
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -712,7 +712,7 @@ ScriptedImporter:
       y: 216
       width: 68
       height: 98
-    spriteID: 4cceb1d236a3c984da6651cb767baa23
+    spriteID: b25e7abc7914b7f49bd509736ce78850
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -721,7 +721,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 232, y: 216}
-  - name: Nairan - Dreadnought - Weapons_Frame_30
+  - name: Frame_30
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -732,7 +732,7 @@ ScriptedImporter:
       y: 322
       width: 68
       height: 98
-    spriteID: 7ce4ff8236645734b97b5752f74bd476
+    spriteID: afb7c1917f5143142b924cd1c14681ea
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -741,7 +741,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 232, y: 322}
-  - name: Nairan - Dreadnought - Weapons_Frame_31
+  - name: Frame_31
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -752,7 +752,7 @@ ScriptedImporter:
       y: 428
       width: 68
       height: 98
-    spriteID: 8748dcdca8f3b6d4a9e837e72363a15b
+    spriteID: 6f5e970fa15f9134181717565580d413
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -761,7 +761,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 232, y: 428}
-  - name: Nairan - Dreadnought - Weapons_Frame_32
+  - name: Frame_32
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -772,7 +772,7 @@ ScriptedImporter:
       y: 534
       width: 68
       height: 98
-    spriteID: 46cc6d70b229adc4a9770da89a3807fc
+    spriteID: f5c9d72a9ad66f94fbb3c484d9d25a92
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -781,7 +781,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 232, y: 534}
-  - name: Nairan - Dreadnought - Weapons_Frame_33
+  - name: Frame_33
     originalName: 
     pivot: {x: 0.5, y: -0.17346938}
     alignment: 9
@@ -792,7 +792,7 @@ ScriptedImporter:
       y: 640
       width: 68
       height: 98
-    spriteID: 69cb098168ebcf04abb978ba2c63c63d
+    spriteID: 73a2e6daaf6886044a50eb32dcf93db9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -810,7 +810,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nairan - Dreadnought - Weapons_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -818,8 +818,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: ec8abcafdb22e5d458bcc32e7dc7996c
-    - name: Nairan - Dreadnought - Weapons_Frame_1
+      spriteId: b6a2a10dc24b17b4c8b65bc811771012
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -827,8 +827,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: f4cef50cc96ff634582cd6fe2f02ec80
-    - name: Nairan - Dreadnought - Weapons_Frame_2
+      spriteId: 4469ea7a431ecba4fbff3049268e8fae
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -836,8 +836,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 27be53728f839bb47958da2a97e7da20
-    - name: Nairan - Dreadnought - Weapons_Frame_3
+      spriteId: 6afe65eac07ac6349b0d74dab9c40765
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -845,8 +845,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: f01bc58b02c87a0418500e1e9c14743c
-    - name: Nairan - Dreadnought - Weapons_Frame_4
+      spriteId: 0ddb1113c3a8e5443b52d0fe2dc3b059
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -854,8 +854,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 46f45b0760367114d8c5cdb84285d061
-    - name: Nairan - Dreadnought - Weapons_Frame_5
+      spriteId: efbb62c8649a6fd41ad631c3a495602a
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -863,8 +863,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: f3e8ff2d25d7cdb4cba891fa096f9874
-    - name: Nairan - Dreadnought - Weapons_Frame_6
+      spriteId: 7cfe71373fb72af4ba2eca37185f11f4
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -872,8 +872,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 50236e7ef3e15f5459c84d1982990547
-    - name: Nairan - Dreadnought - Weapons_Frame_7
+      spriteId: 94672a0853246744bbef59f379c45491
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -881,8 +881,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 91191b8db89e3fb4c9be6f0002db1a84
-    - name: Nairan - Dreadnought - Weapons_Frame_8
+      spriteId: e9b2a1d85adf6c44c90b46cd2e2ecc59
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -890,8 +890,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 108e876f037f02646b39c127eae89100
-    - name: Nairan - Dreadnought - Weapons_Frame_9
+      spriteId: 3eb1e3b020826ce41ab649261ded9b7e
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -899,8 +899,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 56e5dff5b4e646a4587637077c91b253
-    - name: Nairan - Dreadnought - Weapons_Frame_10
+      spriteId: 10b1c918a63b37843884aa2207897020
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -908,8 +908,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: bc4380f0cf49950489641a8ae73448f4
-    - name: Nairan - Dreadnought - Weapons_Frame_11
+      spriteId: 077b67d241823cc4f92392a8816646ff
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -917,8 +917,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: fe4d422ac857b854f962ccf75d34d5a5
-    - name: Nairan - Dreadnought - Weapons_Frame_12
+      spriteId: d433010a47344b64bb7ba3e35aff0db2
+    - name: Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -926,8 +926,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: b269a8b83bc612340815e0b12bdb2c50
-    - name: Nairan - Dreadnought - Weapons_Frame_13
+      spriteId: c981880c0dd816a42bac2e5a5b58f568
+    - name: Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -935,8 +935,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: ab377633d13aa69479d1c43be32bc822
-    - name: Nairan - Dreadnought - Weapons_Frame_14
+      spriteId: cc5fe07c661188d47bb5985b116d28b1
+    - name: Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -944,8 +944,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: bdf623a04c17e444ca8c48af8834568c
-    - name: Nairan - Dreadnought - Weapons_Frame_15
+      spriteId: 46f3c9f24a52c3f48b7245fe662c3b66
+    - name: Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -953,8 +953,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 4d9ff452b3eaf4d439e79596e380a31a
-    - name: Nairan - Dreadnought - Weapons_Frame_16
+      spriteId: c6ce0ed6cea3d6640985d6943b7668ed
+    - name: Frame_16
       frameIndex: 16
       additiveSortOrder: 0
       cellRect:
@@ -962,8 +962,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 9afe072139af22645a544870a565a55e
-    - name: Nairan - Dreadnought - Weapons_Frame_17
+      spriteId: f9d2bb3be5ab7e743989ce44d6e21a45
+    - name: Frame_17
       frameIndex: 17
       additiveSortOrder: 0
       cellRect:
@@ -971,8 +971,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 346a4e9609b8c8141bb976b037b4df35
-    - name: Nairan - Dreadnought - Weapons_Frame_18
+      spriteId: 886c008268c1f9d4d84ee6c9ad813ef7
+    - name: Frame_18
       frameIndex: 18
       additiveSortOrder: 0
       cellRect:
@@ -980,8 +980,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 3ba10bdc75248d44c844beb8b6da9679
-    - name: Nairan - Dreadnought - Weapons_Frame_19
+      spriteId: 395b81191bffb504e867a124167223c1
+    - name: Frame_19
       frameIndex: 19
       additiveSortOrder: 0
       cellRect:
@@ -989,8 +989,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 067d42208bae72c4e9e48920feb32b07
-    - name: Nairan - Dreadnought - Weapons_Frame_20
+      spriteId: 4312f3bf1e264374a9816ff437ab7f13
+    - name: Frame_20
       frameIndex: 20
       additiveSortOrder: 0
       cellRect:
@@ -998,8 +998,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 2b4b01570fa718d4a9237054012de9a3
-    - name: Nairan - Dreadnought - Weapons_Frame_21
+      spriteId: ea7ddab07adcdd24991a87d568b8d452
+    - name: Frame_21
       frameIndex: 21
       additiveSortOrder: 0
       cellRect:
@@ -1007,8 +1007,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 31bba30c0fdc8d143a3801df1c5e2f21
-    - name: Nairan - Dreadnought - Weapons_Frame_22
+      spriteId: 877d68137d4fd8a499ca4efbbeba4ccb
+    - name: Frame_22
       frameIndex: 22
       additiveSortOrder: 0
       cellRect:
@@ -1016,8 +1016,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 8e06036ef7a26404f9c8d3a4806642cc
-    - name: Nairan - Dreadnought - Weapons_Frame_23
+      spriteId: d3ee6e7f5d7751d428cd5a5bca33de14
+    - name: Frame_23
       frameIndex: 23
       additiveSortOrder: 0
       cellRect:
@@ -1025,8 +1025,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: ba3314b2b9274e641bd32653cd1a8880
-    - name: Nairan - Dreadnought - Weapons_Frame_24
+      spriteId: 1d25863b869d8e44e9cbb5a590f61a64
+    - name: Frame_24
       frameIndex: 24
       additiveSortOrder: 0
       cellRect:
@@ -1034,8 +1034,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 3bf353e7cbaf351408a29241666c927e
-    - name: Nairan - Dreadnought - Weapons_Frame_25
+      spriteId: e421ecfe89b98c140b178ad5e34db959
+    - name: Frame_25
       frameIndex: 25
       additiveSortOrder: 0
       cellRect:
@@ -1043,8 +1043,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 4adf91954e9bbed4c8260ea9e9ba696d
-    - name: Nairan - Dreadnought - Weapons_Frame_26
+      spriteId: 125e8982f344d164d92d99464c164c1f
+    - name: Frame_26
       frameIndex: 26
       additiveSortOrder: 0
       cellRect:
@@ -1052,8 +1052,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 2763c163a65bb6d42b16dfc9171aeaf5
-    - name: Nairan - Dreadnought - Weapons_Frame_27
+      spriteId: 5c93360d93c4b794c8d85c35035bcecf
+    - name: Frame_27
       frameIndex: 27
       additiveSortOrder: 0
       cellRect:
@@ -1061,8 +1061,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 58d2ce7f7d60e984b88bb2bf98ffe7d5
-    - name: Nairan - Dreadnought - Weapons_Frame_28
+      spriteId: 391cb994f60cf6e47838328cafd31208
+    - name: Frame_28
       frameIndex: 28
       additiveSortOrder: 0
       cellRect:
@@ -1070,8 +1070,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 0b5c2981780054d47a525b89aebaf9fe
-    - name: Nairan - Dreadnought - Weapons_Frame_29
+      spriteId: 759097f96455c2d48818cb24f9c07e25
+    - name: Frame_29
       frameIndex: 29
       additiveSortOrder: 0
       cellRect:
@@ -1079,8 +1079,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 4cceb1d236a3c984da6651cb767baa23
-    - name: Nairan - Dreadnought - Weapons_Frame_30
+      spriteId: b25e7abc7914b7f49bd509736ce78850
+    - name: Frame_30
       frameIndex: 30
       additiveSortOrder: 0
       cellRect:
@@ -1088,8 +1088,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 7ce4ff8236645734b97b5752f74bd476
-    - name: Nairan - Dreadnought - Weapons_Frame_31
+      spriteId: afb7c1917f5143142b924cd1c14681ea
+    - name: Frame_31
       frameIndex: 31
       additiveSortOrder: 0
       cellRect:
@@ -1097,8 +1097,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 8748dcdca8f3b6d4a9e837e72363a15b
-    - name: Nairan - Dreadnought - Weapons_Frame_32
+      spriteId: 6f5e970fa15f9134181717565580d413
+    - name: Frame_32
       frameIndex: 32
       additiveSortOrder: 0
       cellRect:
@@ -1106,8 +1106,8 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 46cc6d70b229adc4a9770da89a3807fc
-    - name: Nairan - Dreadnought - Weapons_Frame_33
+      spriteId: f5c9d72a9ad66f94fbb3c484d9d25a92
+    - name: Frame_33
       frameIndex: 33
       additiveSortOrder: 0
       cellRect:
@@ -1115,10 +1115,22 @@ ScriptedImporter:
         y: 17
         width: 68
         height: 98
-      spriteId: 69cb098168ebcf04abb978ba2c63c63d
+      spriteId: 73a2e6daaf6886044a50eb32dcf93db9
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

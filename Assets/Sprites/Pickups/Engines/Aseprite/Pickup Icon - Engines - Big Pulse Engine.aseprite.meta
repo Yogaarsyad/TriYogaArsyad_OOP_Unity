@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0c7c470b366cbeb40a5b835c19819065
+guid: 3343e365902ca45479160020e0ad0120
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 21
-    spriteID: 29d9941fe255b3f4dbd30ceb9d9cb655
+    spriteID: d15cca081f06e7a46adc96017222813a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 33
       width: 18
       height: 21
-    spriteID: 9e2b90141d8a2114d8a85e380a466a7e
+    spriteID: e7ada34eae5600244a0ac32af254848f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 33}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 62
       width: 18
       height: 21
-    spriteID: bf29b00818cafe84d882cb3cca9037bc
+    spriteID: 7605ff15922e0df4084b3bf828be637f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 62}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 91
       width: 18
       height: 21
-    spriteID: 9712cbfee78a5d2408774d0a6df63510
+    spriteID: eaef9dee266cb244993ee255fff3eb46
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 91}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 21
-    spriteID: 35b2a5cd15faac244812c0e4f8eaa1f4
+    spriteID: d22b57a0aabc29640a719c95ce8119dd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 4}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 33
       width: 18
       height: 21
-    spriteID: f474caca6f1af97469736da79aa2798f
+    spriteID: 31147e328c1fe284ab48bd91bef56519
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 33}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 62
       width: 18
       height: 21
-    spriteID: 5e47d91312bec0245b984450b31bdc5f
+    spriteID: ab6a0e5e38c0cc147a5ffdf2f2866231
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 62}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 91
       width: 18
       height: 21
-    spriteID: bb67d1525ae1fb4429fc38a48ff5c9a6
+    spriteID: 430c3504ad754a4489d604e13e6b21b9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 91}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 21
-    spriteID: b8f33bb184bf8c24a81796a45d927bf1
+    spriteID: e6673e41422b69244b7130fa57d97f36
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 56, y: 4}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 33
       width: 18
       height: 21
-    spriteID: e28b2f7d6e6683349ba466260c32bdb7
+    spriteID: 4c6b5b2f418ef2d46bfb99411b20227b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 56, y: 33}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 62
       width: 18
       height: 21
-    spriteID: 5708bc4241c58934d9513d7b39d98b00
+    spriteID: 89b7c0001349e524aa4e8117f38d5f37
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 56, y: 62}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 91
       width: 18
       height: 21
-    spriteID: 3a7976569020cd44b8ccdcd6e5bb77be
+    spriteID: 77b02b8d5b8d4f34aa579d82ec9674b9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -361,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 56, y: 91}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_12
+  - name: Frame_12
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 21
-    spriteID: b3fff855b44ba0341af846f69373a305
+    spriteID: 0e435991f4e8bfc48b56aba35ce2c3ac
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -381,7 +381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 82, y: 4}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_13
+  - name: Frame_13
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 33
       width: 18
       height: 21
-    spriteID: 8d25ad907233f8f45a2386ad5c2057fb
+    spriteID: e6fa6f628d489a44794b7c4cb6dd3b73
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -401,7 +401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 82, y: 33}
-  - name: Pickup Icon - Engines - Big Pulse Engine_Frame_14
+  - name: Frame_14
     originalName: 
     pivot: {x: 0.5, y: -0.14285715}
     alignment: 9
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 62
       width: 18
       height: 21
-    spriteID: ed63a652b62a1ef4fa56f8ca01a273cc
+    spriteID: 8a94dfde1b75016419fdd5f0fc93a29f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -430,7 +430,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -438,8 +438,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: 29d9941fe255b3f4dbd30ceb9d9cb655
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_1
+      spriteId: d15cca081f06e7a46adc96017222813a
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -447,8 +447,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: 9e2b90141d8a2114d8a85e380a466a7e
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_2
+      spriteId: e7ada34eae5600244a0ac32af254848f
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -456,8 +456,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: bf29b00818cafe84d882cb3cca9037bc
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_3
+      spriteId: 7605ff15922e0df4084b3bf828be637f
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -465,8 +465,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: 9712cbfee78a5d2408774d0a6df63510
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_4
+      spriteId: eaef9dee266cb244993ee255fff3eb46
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -474,8 +474,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: 35b2a5cd15faac244812c0e4f8eaa1f4
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_5
+      spriteId: d22b57a0aabc29640a719c95ce8119dd
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -483,8 +483,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: f474caca6f1af97469736da79aa2798f
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_6
+      spriteId: 31147e328c1fe284ab48bd91bef56519
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -492,8 +492,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: 5e47d91312bec0245b984450b31bdc5f
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_7
+      spriteId: ab6a0e5e38c0cc147a5ffdf2f2866231
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -501,8 +501,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: bb67d1525ae1fb4429fc38a48ff5c9a6
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_8
+      spriteId: 430c3504ad754a4489d604e13e6b21b9
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -510,8 +510,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: b8f33bb184bf8c24a81796a45d927bf1
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_9
+      spriteId: e6673e41422b69244b7130fa57d97f36
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -519,8 +519,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: e28b2f7d6e6683349ba466260c32bdb7
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_10
+      spriteId: 4c6b5b2f418ef2d46bfb99411b20227b
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -528,8 +528,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: 5708bc4241c58934d9513d7b39d98b00
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_11
+      spriteId: 89b7c0001349e524aa4e8117f38d5f37
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -537,8 +537,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: 3a7976569020cd44b8ccdcd6e5bb77be
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_12
+      spriteId: 77b02b8d5b8d4f34aa579d82ec9674b9
+    - name: Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -546,8 +546,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: b3fff855b44ba0341af846f69373a305
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_13
+      spriteId: 0e435991f4e8bfc48b56aba35ce2c3ac
+    - name: Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -555,8 +555,8 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: 8d25ad907233f8f45a2386ad5c2057fb
-    - name: Pickup Icon - Engines - Big Pulse Engine_Frame_14
+      spriteId: e6fa6f628d489a44794b7c4cb6dd3b73
+    - name: Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -564,10 +564,22 @@ ScriptedImporter:
         y: 3
         width: 18
         height: 21
-      spriteId: ed63a652b62a1ef4fa56f8ca01a273cc
+      spriteId: 8a94dfde1b75016419fdd5f0fc93a29f
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

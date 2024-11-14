@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4cff116e380de654ebd7b30a9ab47797
+guid: f99baabab4f8cc940b20480b7922efac
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 38
       height: 33
-    spriteID: 89edcf24de5f09c4bb63e6dc3f4bede9
+    spriteID: 417bc2918d603d042b65f7beb129297a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -158,10 +158,22 @@ ScriptedImporter:
         y: 31
         width: 38
         height: 33
-      spriteId: 89edcf24de5f09c4bb63e6dc3f4bede9
+      spriteId: 417bc2918d603d042b65f7beb129297a
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fa44c341d03e12545b9c5311bfab1599
+guid: de1d42edf71689a45ab98abea766aa3d
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nairan - Battlecruiser - Shield_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: 590ac9c92b8955e4c86f4b14db2c5204
+    spriteID: d9ae0198d2cf30f4f9ac7a2eb7142952
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nairan - Battlecruiser - Shield_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: 73b36c53aef435743a7a0d8786e76943
+    spriteID: 78c44855de5a39f47a69aed5e0b44d67
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 140}
-  - name: Nairan - Battlecruiser - Shield_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: 0ce18ccd823eadd42a4afbea81422dad
+    spriteID: 1346cfa63b2841942b16e6cb7b900b06
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 276}
-  - name: Nairan - Battlecruiser - Shield_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: 24e2b4f9fabaa764b95c0959be11f57e
+    spriteID: cb81a3a3cc05af745813f8e3f2e65063
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 4}
-  - name: Nairan - Battlecruiser - Shield_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: 8aa0d0b7b725dcc42bfcffc2f565bc5c
+    spriteID: 5bc61c284ba8b804ca7b2296e5ea0ff4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 140}
-  - name: Nairan - Battlecruiser - Shield_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: 97d83f6daa6bd92418693899cbde09a4
+    spriteID: 34541a6cccf26f24c9ee208029c4ec9c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 276}
-  - name: Nairan - Battlecruiser - Shield_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: cf001635bfac6a749af2fa6463782030
+    spriteID: f55a60f71aa581c4f85510dcf611e885
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 276, y: 4}
-  - name: Nairan - Battlecruiser - Shield_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: 4019964dbe57d1f44adb62bb1202100c
+    spriteID: d230489d86e59d84aa9dec6c767970e3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -290,7 +290,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nairan - Battlecruiser - Shield_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -298,8 +298,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 590ac9c92b8955e4c86f4b14db2c5204
-    - name: Nairan - Battlecruiser - Shield_Frame_1
+      spriteId: d9ae0198d2cf30f4f9ac7a2eb7142952
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -307,8 +307,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 73b36c53aef435743a7a0d8786e76943
-    - name: Nairan - Battlecruiser - Shield_Frame_2
+      spriteId: 78c44855de5a39f47a69aed5e0b44d67
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -316,8 +316,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 0ce18ccd823eadd42a4afbea81422dad
-    - name: Nairan - Battlecruiser - Shield_Frame_3
+      spriteId: 1346cfa63b2841942b16e6cb7b900b06
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -325,8 +325,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 24e2b4f9fabaa764b95c0959be11f57e
-    - name: Nairan - Battlecruiser - Shield_Frame_4
+      spriteId: cb81a3a3cc05af745813f8e3f2e65063
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -334,8 +334,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 8aa0d0b7b725dcc42bfcffc2f565bc5c
-    - name: Nairan - Battlecruiser - Shield_Frame_5
+      spriteId: 5bc61c284ba8b804ca7b2296e5ea0ff4
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -343,8 +343,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 97d83f6daa6bd92418693899cbde09a4
-    - name: Nairan - Battlecruiser - Shield_Frame_6
+      spriteId: 34541a6cccf26f24c9ee208029c4ec9c
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -352,8 +352,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: cf001635bfac6a749af2fa6463782030
-    - name: Nairan - Battlecruiser - Shield_Frame_7
+      spriteId: f55a60f71aa581c4f85510dcf611e885
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -361,10 +361,22 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 4019964dbe57d1f44adb62bb1202100c
+      spriteId: d230489d86e59d84aa9dec6c767970e3
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

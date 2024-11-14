@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5eae69bc2f27d2e42a2982abc4a93082
+guid: 1ed52f30557e06540952eba4a50f280b
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615615942507701
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Main Ship - Engines - Burst Engine - Powering_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.49999997, y: -0.5714286}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 10
       height: 14
-    spriteID: a0771252926df8d4788bbe95611f9535
+    spriteID: cc8759c824d7e9d48bf06b3e99e47cc6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Main Ship - Engines - Burst Engine - Powering_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.49999997, y: -0.61538464}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 26
       width: 10
       height: 13
-    spriteID: 12a31d5297890ed4abbcd6bb6a18418b
+    spriteID: b6333188e97ba76498582c65b8d525c4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 26}
-  - name: Main Ship - Engines - Burst Engine - Powering_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.49999997, y: -0.6666667}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 47
       width: 10
       height: 12
-    spriteID: cb8fdff48e9301741a3e21e63ea241d3
+    spriteID: 5658643d3a4020e46a30d3a6ab78e879
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 47}
-  - name: Main Ship - Engines - Burst Engine - Powering_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.49999997, y: -0.72727275}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 10
       height: 11
-    spriteID: 05c7515f535bf4c47b13b511659287cd
+    spriteID: f0db5bf8f226fa745ad70c313930b777
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 22, y: 4}
-  - name: Main Ship - Engines - Burst Engine - Powering_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.49999997, y: -0.8000001}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 23
       width: 10
       height: 10
-    spriteID: 09fc1f6617a3a6d4eae31eca1b4ab1a1
+    spriteID: b91fd80341b48184e9aed9500b74f890
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 22, y: 23}
-  - name: Main Ship - Engines - Burst Engine - Powering_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.49999997, y: -0.88888896}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 41
       width: 10
       height: 9
-    spriteID: 27f843e1086d57349b3881dd0d7e6621
+    spriteID: b676ec34140555f498806e0d1fbe94cd
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -250,7 +250,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Main Ship - Engines - Burst Engine - Powering_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -258,8 +258,8 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 14
-      spriteId: a0771252926df8d4788bbe95611f9535
-    - name: Main Ship - Engines - Burst Engine - Powering_Frame_1
+      spriteId: cc8759c824d7e9d48bf06b3e99e47cc6
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -267,8 +267,8 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 13
-      spriteId: 12a31d5297890ed4abbcd6bb6a18418b
-    - name: Main Ship - Engines - Burst Engine - Powering_Frame_2
+      spriteId: b6333188e97ba76498582c65b8d525c4
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -276,8 +276,8 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 12
-      spriteId: cb8fdff48e9301741a3e21e63ea241d3
-    - name: Main Ship - Engines - Burst Engine - Powering_Frame_3
+      spriteId: 5658643d3a4020e46a30d3a6ab78e879
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -285,8 +285,8 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 11
-      spriteId: 05c7515f535bf4c47b13b511659287cd
-    - name: Main Ship - Engines - Burst Engine - Powering_Frame_4
+      spriteId: f0db5bf8f226fa745ad70c313930b777
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -294,8 +294,8 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 10
-      spriteId: 09fc1f6617a3a6d4eae31eca1b4ab1a1
-    - name: Main Ship - Engines - Burst Engine - Powering_Frame_5
+      spriteId: b91fd80341b48184e9aed9500b74f890
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -303,23 +303,11 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 9
-      spriteId: 27f843e1086d57349b3881dd0d7e6621
+      spriteId: b676ec34140555f498806e0d1fbe94cd
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

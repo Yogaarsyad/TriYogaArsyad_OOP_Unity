@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e5e8cfbb85912184b9f762c508c43eb7
+guid: a4a5462e5ad062848862cc64c59eabcc
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nairan - Bomber - Engine_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.29411766}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 30
       width: 18
       height: 17
-    spriteID: 6da0e58495ab1bb43aedb6095ee58394
+    spriteID: 645ca251d20545843804471a28a3e612
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 30}
-  - name: Nairan - Bomber - Engine_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: -0.22222222}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 18
-    spriteID: 51d948d6fe59a3542ab3d5a739dd7c3d
+    spriteID: cb8d40324e1ceff4c9f7992bd8a9787e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nairan - Bomber - Engine_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: -0.375}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 80
       width: 18
       height: 16
-    spriteID: 1dc52d6e51acf754da76d5f339be2330
+    spriteID: dcd3a8aec9a052b4386fb0d19f495078
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 80}
-  - name: Nairan - Bomber - Engine_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: -0.375}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 104
       width: 18
       height: 16
-    spriteID: d31a642c2c34138479b93873c587d941
+    spriteID: f57f804ea35470449b34a5d1a133e93f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 104}
-  - name: Nairan - Bomber - Engine_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.4666667}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 52
       width: 18
       height: 15
-    spriteID: d7ca56db6813391498db903cc7901ccc
+    spriteID: e73daef6aaf8a9048a7ba36207f496f1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 52}
-  - name: Nairan - Bomber - Engine_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.375}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 16
-    spriteID: af423a123614aca47818733fb84cc8ba
+    spriteID: c65990dac79f91844a9fb7c740a1c66f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 4}
-  - name: Nairan - Bomber - Engine_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: -0.375}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 28
       width: 18
       height: 16
-    spriteID: b592ac865858fde4b8b7bf8cb6aa0402
+    spriteID: 63765e5dd2fd56446acfca763a7507af
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 28}
-  - name: Nairan - Bomber - Engine_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.29411766}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 55
       width: 18
       height: 17
-    spriteID: f4809dceeb474394ebf53bebcb17687f
+    spriteID: 6dd6ca5a0d40ba048ac315b036744bfb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -290,7 +290,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nairan - Bomber - Engine_Frame_3
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -298,8 +298,8 @@ ScriptedImporter:
         y: 5
         width: 18
         height: 17
-      spriteId: 6da0e58495ab1bb43aedb6095ee58394
-    - name: Nairan - Bomber - Engine_Frame_4
+      spriteId: 645ca251d20545843804471a28a3e612
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -307,8 +307,8 @@ ScriptedImporter:
         y: 4
         width: 18
         height: 18
-      spriteId: 51d948d6fe59a3542ab3d5a739dd7c3d
-    - name: Nairan - Bomber - Engine_Frame_6
+      spriteId: cb8d40324e1ceff4c9f7992bd8a9787e
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -316,8 +316,8 @@ ScriptedImporter:
         y: 6
         width: 18
         height: 16
-      spriteId: 1dc52d6e51acf754da76d5f339be2330
-    - name: Nairan - Bomber - Engine_Frame_7
+      spriteId: dcd3a8aec9a052b4386fb0d19f495078
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -325,8 +325,8 @@ ScriptedImporter:
         y: 6
         width: 18
         height: 16
-      spriteId: d31a642c2c34138479b93873c587d941
-    - name: Nairan - Bomber - Engine_Frame_1
+      spriteId: f57f804ea35470449b34a5d1a133e93f
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -334,8 +334,8 @@ ScriptedImporter:
         y: 7
         width: 18
         height: 15
-      spriteId: d7ca56db6813391498db903cc7901ccc
-    - name: Nairan - Bomber - Engine_Frame_2
+      spriteId: e73daef6aaf8a9048a7ba36207f496f1
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -343,8 +343,8 @@ ScriptedImporter:
         y: 6
         width: 18
         height: 16
-      spriteId: af423a123614aca47818733fb84cc8ba
-    - name: Nairan - Bomber - Engine_Frame_5
+      spriteId: c65990dac79f91844a9fb7c740a1c66f
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -352,8 +352,8 @@ ScriptedImporter:
         y: 6
         width: 18
         height: 16
-      spriteId: b592ac865858fde4b8b7bf8cb6aa0402
-    - name: Nairan - Bomber - Engine_Frame_0
+      spriteId: 63765e5dd2fd56446acfca763a7507af
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -361,10 +361,22 @@ ScriptedImporter:
         y: 5
         width: 18
         height: 17
-      spriteId: f4809dceeb474394ebf53bebcb17687f
+      spriteId: 6dd6ca5a0d40ba048ac315b036744bfb
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

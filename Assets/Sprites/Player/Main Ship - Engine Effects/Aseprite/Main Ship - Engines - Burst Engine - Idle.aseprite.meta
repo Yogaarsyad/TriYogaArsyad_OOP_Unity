@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a82480701d72e974791287284f9b918f
+guid: 718d1afc1ced82144beb413e106deec0
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615615942507701
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Main Ship - Engines - Burst Engine - Idle_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.49999997, y: -0.5714286}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 10
       height: 14
-    spriteID: 03bbbd428f6efb146a2909008bd56e0e
+    spriteID: f6953a919b9f5a04893b15a74d60a237
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Main Ship - Engines - Burst Engine - Idle_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.49999997, y: -0.5714286}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 26
       width: 10
       height: 14
-    spriteID: c3307a586cbce8b4d9d8a15957502d2c
+    spriteID: 2a8eee80219ad3f4d9948041ce34c8a3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 26}
-  - name: Main Ship - Engines - Burst Engine - Idle_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.49999997, y: -0.5714286}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 48
       width: 10
       height: 14
-    spriteID: 037c3eaad9e766841bde38074d479a12
+    spriteID: 00afd6c6a9f5d604ab2d28dd053505e8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 48}
-  - name: Main Ship - Engines - Burst Engine - Idle_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.49999997, y: -0.5714286}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 70
       width: 10
       height: 14
-    spriteID: 6f7dfa7c8180a534ca5efe64f5ca433d
+    spriteID: daae676b515cbfe46868126f9119c81b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 70}
-  - name: Main Ship - Engines - Burst Engine - Idle_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.49999997, y: -0.5714286}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 92
       width: 10
       height: 14
-    spriteID: 626a87fb81211b24e9541952a13932d9
+    spriteID: df65946e084f37b489392e44526124c3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 92}
-  - name: Main Ship - Engines - Burst Engine - Idle_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.49999997, y: -0.5714286}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 10
       height: 14
-    spriteID: 2a51225e22845574ab4d56a67ae4b8a3
+    spriteID: 1abeb22e720658149b8a38ed9f2581b3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 22, y: 4}
-  - name: Main Ship - Engines - Burst Engine - Idle_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.49999997, y: -0.5714286}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 26
       width: 10
       height: 14
-    spriteID: d2175dbb6f122c6489768f4772280fc7
+    spriteID: a0233fd176d58854480bf2a79a4bd433
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -270,7 +270,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Main Ship - Engines - Burst Engine - Idle_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -278,8 +278,8 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 14
-      spriteId: 03bbbd428f6efb146a2909008bd56e0e
-    - name: Main Ship - Engines - Burst Engine - Idle_Frame_1
+      spriteId: f6953a919b9f5a04893b15a74d60a237
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -287,8 +287,8 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 14
-      spriteId: c3307a586cbce8b4d9d8a15957502d2c
-    - name: Main Ship - Engines - Burst Engine - Idle_Frame_2
+      spriteId: 2a8eee80219ad3f4d9948041ce34c8a3
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -296,8 +296,8 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 14
-      spriteId: 037c3eaad9e766841bde38074d479a12
-    - name: Main Ship - Engines - Burst Engine - Idle_Frame_3
+      spriteId: 00afd6c6a9f5d604ab2d28dd053505e8
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -305,8 +305,8 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 14
-      spriteId: 6f7dfa7c8180a534ca5efe64f5ca433d
-    - name: Main Ship - Engines - Burst Engine - Idle_Frame_4
+      spriteId: daae676b515cbfe46868126f9119c81b
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -314,8 +314,8 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 14
-      spriteId: 626a87fb81211b24e9541952a13932d9
-    - name: Main Ship - Engines - Burst Engine - Idle_Frame_5
+      spriteId: df65946e084f37b489392e44526124c3
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -323,8 +323,8 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 14
-      spriteId: 2a51225e22845574ab4d56a67ae4b8a3
-    - name: Main Ship - Engines - Burst Engine - Idle_Frame_6
+      spriteId: 1abeb22e720658149b8a38ed9f2581b3
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -332,23 +332,11 @@ ScriptedImporter:
         y: 8
         width: 10
         height: 14
-      spriteId: d2175dbb6f122c6489768f4772280fc7
+      spriteId: a0233fd176d58854480bf2a79a4bd433
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

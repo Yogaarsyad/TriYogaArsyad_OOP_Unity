@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6fe1a2dd82582684fa32aab0bdd3f98f
+guid: dc0f825db6edd674f9b7bffd6b37b2df
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615753194850505
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Kla'ed - Ray_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.53333336, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 15
       height: 38
-    spriteID: 542675210ab3e6849b4d18f3268ab8bb
+    spriteID: daca772ebeaabc04bb54035a1398dc4d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 28, y: 4}
-  - name: Kla'ed - Ray_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.4666667, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 50
       width: 15
       height: 38
-    spriteID: e26e44950e2a8d948ae0fcac09561488
+    spriteID: f3363648b108ae74e9138bed2d959c84
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 28, y: 50}
-  - name: Kla'ed - Ray_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 16
       height: 38
-    spriteID: cddee96a4193da1478110e8c0a56db87
+    spriteID: 5d1bf508424041644a347d8572f6fd44
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Kla'ed - Ray_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 50
       width: 16
       height: 38
-    spriteID: 3a3871dd4e32e1a47b0822e365e100ce
+    spriteID: e3333e8e289b88343948ceec3daa8a23
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -210,7 +210,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Kla'ed - Ray_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -218,8 +218,8 @@ ScriptedImporter:
         y: 0
         width: 15
         height: 38
-      spriteId: 542675210ab3e6849b4d18f3268ab8bb
-    - name: Kla'ed - Ray_Frame_1
+      spriteId: daca772ebeaabc04bb54035a1398dc4d
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -227,8 +227,8 @@ ScriptedImporter:
         y: 0
         width: 15
         height: 38
-      spriteId: e26e44950e2a8d948ae0fcac09561488
-    - name: Kla'ed - Ray_Frame_2
+      spriteId: f3363648b108ae74e9138bed2d959c84
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -236,8 +236,8 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 38
-      spriteId: cddee96a4193da1478110e8c0a56db87
-    - name: Kla'ed - Ray_Frame_3
+      spriteId: 5d1bf508424041644a347d8572f6fd44
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -245,23 +245,11 @@ ScriptedImporter:
         y: 0
         width: 16
         height: 38
-      spriteId: 3a3871dd4e32e1a47b0822e365e100ce
+      spriteId: e3333e8e289b88343948ceec3daa8a23
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

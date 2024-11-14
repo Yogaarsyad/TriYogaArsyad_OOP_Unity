@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2ef4608ba8e6fa44ebb2ea2f7c4c1029
+guid: ca9e377b62be1b8478f2a59671d8e890
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615753194824945
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nairan - Bolt_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 9
       height: 9
-    spriteID: f66e2a5aee1eb37409077d9dc08fa1f9
+    spriteID: d19a30a40a5f22448b959086abb891ac
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nairan - Bolt_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 21
       width: 9
       height: 9
-    spriteID: 252c2d24a4231c54a9a850e1626e0dcc
+    spriteID: 6d241cdd82de67043814d661d542af54
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 21}
-  - name: Nairan - Bolt_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 38
       width: 9
       height: 9
-    spriteID: 3ac5bac61e8a1f14b928562016a79023
+    spriteID: 7830003a61def494a8b8f28c06bce616
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 38}
-  - name: Nairan - Bolt_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 9
       height: 9
-    spriteID: 515c57df802ba994e9933dacf726fa26
+    spriteID: 81768cf8291d9cf4eae2f175fffb1e15
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 21, y: 4}
-  - name: Nairan - Bolt_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 21
       width: 9
       height: 9
-    spriteID: 736655a7a2f21354bbce8aa0dfe2de6e
+    spriteID: 797d1d9279d51754884aed35bdd26c02
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -230,7 +230,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nairan - Bolt_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -238,8 +238,8 @@ ScriptedImporter:
         y: 0
         width: 9
         height: 9
-      spriteId: f66e2a5aee1eb37409077d9dc08fa1f9
-    - name: Nairan - Bolt_Frame_1
+      spriteId: d19a30a40a5f22448b959086abb891ac
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -247,8 +247,8 @@ ScriptedImporter:
         y: 0
         width: 9
         height: 9
-      spriteId: 252c2d24a4231c54a9a850e1626e0dcc
-    - name: Nairan - Bolt_Frame_2
+      spriteId: 6d241cdd82de67043814d661d542af54
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -256,8 +256,8 @@ ScriptedImporter:
         y: 0
         width: 9
         height: 9
-      spriteId: 3ac5bac61e8a1f14b928562016a79023
-    - name: Nairan - Bolt_Frame_3
+      spriteId: 7830003a61def494a8b8f28c06bce616
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -265,8 +265,8 @@ ScriptedImporter:
         y: 0
         width: 9
         height: 9
-      spriteId: 515c57df802ba994e9933dacf726fa26
-    - name: Nairan - Bolt_Frame_4
+      spriteId: 81768cf8291d9cf4eae2f175fffb1e15
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -274,23 +274,11 @@ ScriptedImporter:
         y: 0
         width: 9
         height: 9
-      spriteId: 736655a7a2f21354bbce8aa0dfe2de6e
+      spriteId: 797d1d9279d51754884aed35bdd26c02
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

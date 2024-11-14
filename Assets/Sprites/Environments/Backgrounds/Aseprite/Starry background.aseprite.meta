@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1c0d5186bd2270e48ad1fd22e0c3c79f
+guid: 471a530bb59b90743bd3c954df66533c
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615609223949474
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Starry background_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 640
       height: 360
-    spriteID: 05ae8c20bb64cad48b1e710d4c3f2f21
+    spriteID: ba8bced77a469f4439ea9c4f8b363f1e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 654, y: 4}
-  - name: Starry background_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.50155765, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 4
       width: 642
       height: 360
-    spriteID: 61d6a536d7cf68249b5a2cb00757c941
+    spriteID: 13318e09f7e6d284ea4978a5090c9230
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Starry background_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 640
       height: 360
-    spriteID: 784e56333911e1141b55373bd043f205
+    spriteID: 805faebf0e2634e45bf13ba2947a3c43
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1302, y: 4}
-  - name: Starry background_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 372
       width: 640
       height: 360
-    spriteID: 5b2d1ef25746308409722eaad7b83f7e
+    spriteID: 98e8768552b7d174eba481021d671564
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 372}
-  - name: Starry background_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 372
       width: 640
       height: 360
-    spriteID: c5e0dcfa579faa54891e37304980f056
+    spriteID: 84e61559a1be8e8449d266f8838468a0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 652, y: 372}
-  - name: Starry background_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 372
       width: 640
       height: 360
-    spriteID: fe3eb36b85516e8499272a100bc93f6e
+    spriteID: 8ec764a2d8fccf34d9150a33aa222105
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 1300, y: 372}
-  - name: Starry background_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 740
       width: 640
       height: 360
-    spriteID: 570d7e9676f2c294f80cc951b6a40b7a
+    spriteID: 0fe87f0bf0ea426478071c2cd7486e82
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 740}
-  - name: Starry background_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 740
       width: 640
       height: 360
-    spriteID: 56d8b9a6ebfce2d458fdb2f2bccc2861
+    spriteID: a862e0d1746a0254fb32c9be22d685e8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 652, y: 740}
-  - name: Starry background_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 740
       width: 640
       height: 360
-    spriteID: 6650fa09ceff4274cbfdfaf616c00025
+    spriteID: a0ab7672d875c4f47837015fedea3311
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -310,7 +310,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Starry background_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -318,8 +318,8 @@ ScriptedImporter:
         y: 0
         width: 641
         height: 360
-      spriteId: 05ae8c20bb64cad48b1e710d4c3f2f21
-    - name: Starry background_Frame_1
+      spriteId: ba8bced77a469f4439ea9c4f8b363f1e
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -327,8 +327,8 @@ ScriptedImporter:
         y: 0
         width: 643
         height: 360
-      spriteId: 61d6a536d7cf68249b5a2cb00757c941
-    - name: Starry background_Frame_2
+      spriteId: 13318e09f7e6d284ea4978a5090c9230
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -336,8 +336,8 @@ ScriptedImporter:
         y: 0
         width: 641
         height: 360
-      spriteId: 784e56333911e1141b55373bd043f205
-    - name: Starry background_Frame_3
+      spriteId: 805faebf0e2634e45bf13ba2947a3c43
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -345,8 +345,8 @@ ScriptedImporter:
         y: 0
         width: 641
         height: 360
-      spriteId: 5b2d1ef25746308409722eaad7b83f7e
-    - name: Starry background_Frame_4
+      spriteId: 98e8768552b7d174eba481021d671564
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -354,8 +354,8 @@ ScriptedImporter:
         y: 0
         width: 641
         height: 360
-      spriteId: c5e0dcfa579faa54891e37304980f056
-    - name: Starry background_Frame_5
+      spriteId: 84e61559a1be8e8449d266f8838468a0
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -363,8 +363,8 @@ ScriptedImporter:
         y: 0
         width: 641
         height: 360
-      spriteId: fe3eb36b85516e8499272a100bc93f6e
-    - name: Starry background_Frame_6
+      spriteId: 8ec764a2d8fccf34d9150a33aa222105
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -372,8 +372,8 @@ ScriptedImporter:
         y: 0
         width: 641
         height: 360
-      spriteId: 570d7e9676f2c294f80cc951b6a40b7a
-    - name: Starry background_Frame_7
+      spriteId: 0fe87f0bf0ea426478071c2cd7486e82
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -381,8 +381,8 @@ ScriptedImporter:
         y: 0
         width: 641
         height: 360
-      spriteId: 56d8b9a6ebfce2d458fdb2f2bccc2861
-    - name: Starry background_Frame_8
+      spriteId: a862e0d1746a0254fb32c9be22d685e8
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -390,23 +390,11 @@ ScriptedImporter:
         y: 0
         width: 641
         height: 360
-      spriteId: 6650fa09ceff4274cbfdfaf616c00025
+      spriteId: a0ab7672d875c4f47837015fedea3311
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

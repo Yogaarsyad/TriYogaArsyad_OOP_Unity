@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 198714f05ba675e4794633cd768b60ea
+guid: d7d9905446722b04d96789d3335698dd
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Kla'ed - Dreadnought - Shield_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: 8c000d5886a709f4f9139720eb9817d0
+    spriteID: dad4a77925ed27a4da93bbecff9aa4b2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Kla'ed - Dreadnought - Shield_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: d0f80ab1b5864c84fa1c2472db4fcd83
+    spriteID: 0ce1c61693ae0dc4b81071765b0e5b9d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 140}
-  - name: Kla'ed - Dreadnought - Shield_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: 42e74fe252e3eb64a90040b2ec227233
+    spriteID: d73eb0f5046247448a3df2aa1b48f92a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 276}
-  - name: Kla'ed - Dreadnought - Shield_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 412
       width: 128
       height: 128
-    spriteID: fceecf9f7c0f1214097b5cf1d4a09cc5
+    spriteID: 8e61833c23fef5047829d6a990a13c14
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 412}
-  - name: Kla'ed - Dreadnought - Shield_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 548
       width: 128
       height: 128
-    spriteID: cc8f26cc2e83f9848af26dccee89cb11
+    spriteID: c56e6b5345a819d43968ec621bd0e751
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 548}
-  - name: Kla'ed - Dreadnought - Shield_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 684
       width: 128
       height: 128
-    spriteID: a2367172b7bb43c45bb8510acfd9d78c
+    spriteID: 77701ee56e3a6d249b320f87aecf2781
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 684}
-  - name: Kla'ed - Dreadnought - Shield_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 820
       width: 128
       height: 128
-    spriteID: 931b02b4f87b5d247882edc7e6c4929c
+    spriteID: fb884cd86417d244ca7ffeef35defd15
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 820}
-  - name: Kla'ed - Dreadnought - Shield_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 128
       height: 128
-    spriteID: 385ba9f8a5786104abc8285a38455ff3
+    spriteID: 3c92ac1874eba7941967b1180a6c48c0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 4}
-  - name: Kla'ed - Dreadnought - Shield_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 140
       width: 128
       height: 128
-    spriteID: 1522be56f1ccda94bb41f4d06a0d9c73
+    spriteID: 385712c5f0787174db90809eebd59667
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 140, y: 140}
-  - name: Kla'ed - Dreadnought - Shield_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 276
       width: 128
       height: 128
-    spriteID: e7686fd35963833478bf4dbc24600e17
+    spriteID: 747555ad9470afa4c944440018a050ed
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -330,7 +330,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Kla'ed - Dreadnought - Shield_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -338,8 +338,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 8c000d5886a709f4f9139720eb9817d0
-    - name: Kla'ed - Dreadnought - Shield_Frame_1
+      spriteId: dad4a77925ed27a4da93bbecff9aa4b2
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -347,8 +347,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: d0f80ab1b5864c84fa1c2472db4fcd83
-    - name: Kla'ed - Dreadnought - Shield_Frame_2
+      spriteId: 0ce1c61693ae0dc4b81071765b0e5b9d
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -356,8 +356,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 42e74fe252e3eb64a90040b2ec227233
-    - name: Kla'ed - Dreadnought - Shield_Frame_3
+      spriteId: d73eb0f5046247448a3df2aa1b48f92a
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -365,8 +365,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: fceecf9f7c0f1214097b5cf1d4a09cc5
-    - name: Kla'ed - Dreadnought - Shield_Frame_4
+      spriteId: 8e61833c23fef5047829d6a990a13c14
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -374,8 +374,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: cc8f26cc2e83f9848af26dccee89cb11
-    - name: Kla'ed - Dreadnought - Shield_Frame_5
+      spriteId: c56e6b5345a819d43968ec621bd0e751
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -383,8 +383,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: a2367172b7bb43c45bb8510acfd9d78c
-    - name: Kla'ed - Dreadnought - Shield_Frame_6
+      spriteId: 77701ee56e3a6d249b320f87aecf2781
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -392,8 +392,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 931b02b4f87b5d247882edc7e6c4929c
-    - name: Kla'ed - Dreadnought - Shield_Frame_7
+      spriteId: fb884cd86417d244ca7ffeef35defd15
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -401,8 +401,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 385ba9f8a5786104abc8285a38455ff3
-    - name: Kla'ed - Dreadnought - Shield_Frame_8
+      spriteId: 3c92ac1874eba7941967b1180a6c48c0
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -410,8 +410,8 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: 1522be56f1ccda94bb41f4d06a0d9c73
-    - name: Kla'ed - Dreadnought - Shield_Frame_9
+      spriteId: 385712c5f0787174db90809eebd59667
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -419,10 +419,22 @@ ScriptedImporter:
         y: 0
         width: 128
         height: 128
-      spriteId: e7686fd35963833478bf4dbc24600e17
+      spriteId: 747555ad9470afa4c944440018a050ed
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ec115fb5d17209947ae23c655572e246
+guid: 73d9d2a1e22645c4ca81c98a89a24bfb
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nairan - Frigate - Weapons_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 6b757b5c3df02ac4183894435abd89e9
+    spriteID: 42f6deb7bf5e1674db6552359328ab10
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nairan - Frigate - Weapons_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: b758ad5ff5c20d542ae4f2f290c2eed8
+    spriteID: 673458cbaf9bfe84ba82eccb63c47b67
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Nairan - Frigate - Weapons_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 005ca1485c68d454b96b748757b73ebb
+    spriteID: 04b120311d08fb3488b68ccebb894219
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 148}
-  - name: Nairan - Frigate - Weapons_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 2e6116616d732b8499758014b0c4d1fb
+    spriteID: 55f8dc6646d2539458d5c53c0fca4605
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 4}
-  - name: Nairan - Frigate - Weapons_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: ffa4378008ff91848930f5bb7cd70112
+    spriteID: 35603ffc5c37d8f4e935b0657b2f5fec
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -230,7 +230,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nairan - Frigate - Weapons_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -238,8 +238,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 6b757b5c3df02ac4183894435abd89e9
-    - name: Nairan - Frigate - Weapons_Frame_1
+      spriteId: 42f6deb7bf5e1674db6552359328ab10
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -247,8 +247,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: b758ad5ff5c20d542ae4f2f290c2eed8
-    - name: Nairan - Frigate - Weapons_Frame_2
+      spriteId: 673458cbaf9bfe84ba82eccb63c47b67
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -256,8 +256,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 005ca1485c68d454b96b748757b73ebb
-    - name: Nairan - Frigate - Weapons_Frame_3
+      spriteId: 04b120311d08fb3488b68ccebb894219
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -265,8 +265,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 2e6116616d732b8499758014b0c4d1fb
-    - name: Nairan - Frigate - Weapons_Frame_4
+      spriteId: 55f8dc6646d2539458d5c53c0fca4605
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -274,10 +274,22 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: ffa4378008ff91848930f5bb7cd70112
+      spriteId: 35603ffc5c37d8f4e935b0657b2f5fec
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f6122b6f8b0739148bc5e587917c93dc
+guid: a5bf7fbef8999c34b9e4f7bf031c16d9
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Kla'ed - Support ship - Destruction_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.75000006}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 137
       width: 28
       height: 28
-    spriteID: bac09772075d9db47b022e0d4764eda7
+    spriteID: 0e995a9f466ee674991476a91f06bbb8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 137}
-  - name: Kla'ed - Support ship - Destruction_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.75000006}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 173
       width: 28
       height: 28
-    spriteID: aebc58e750428bf47bc6e2e2ad0339ad
+    spriteID: 075f41fa00c40c94c9344d55d6143c8d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 173}
-  - name: Kla'ed - Support ship - Destruction_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.75000006}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 209
       width: 28
       height: 28
-    spriteID: ee249b813d1ed5c488440d2b47873a89
+    spriteID: 4f59c27969cec2a45a1299c89723552f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 209}
-  - name: Kla'ed - Support ship - Destruction_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.75000006}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 56
       width: 28
       height: 28
-    spriteID: 827c57ba389ef584cb3b2695d85223a3
+    spriteID: 46f2dcd9949d6cc409e673745cd35c40
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 64, y: 56}
-  - name: Kla'ed - Support ship - Destruction_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.53846157, y: -0.21739131}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 4
       width: 52
       height: 46
-    spriteID: 63820f9180bbc0747a0f2b99a5732741
+    spriteID: b602c09193f98904482b7bd3abd02804
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Kla'ed - Support ship - Destruction_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5555556, y: -0.22727273}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 4
       width: 54
       height: 44
-    spriteID: da7e5d65777154a46b0e11dd9b8a32b1
+    spriteID: b35d46266a6553f44bb801be5387cd45
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 64, y: 4}
-  - name: Kla'ed - Support ship - Destruction_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.52, y: -0.88}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 92
       width: 25
       height: 25
-    spriteID: e394f69ac7685534a99f20e1e1cde75e
+    spriteID: db69074815ed66f468ff56b209aaa63c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 64, y: 92}
-  - name: Kla'ed - Support ship - Destruction_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.48979592, y: -0.38235295}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 58
       width: 49
       height: 34
-    spriteID: aa6387c7b2fafc245af0c70f190504cd
+    spriteID: e3f2d8eddc5db414a8f33cf8fa460c17
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 58}
-  - name: Kla'ed - Support ship - Destruction_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.48, y: -0.4137931}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 100
       width: 50
       height: 29
-    spriteID: 5671f12a4a67c0b4e8d17c5d62c593f5
+    spriteID: fa3d13ab4155a4a499c7cd1c640f7123
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -310,7 +310,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Kla'ed - Support ship - Destruction_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -318,8 +318,8 @@ ScriptedImporter:
         y: 21
         width: 28
         height: 28
-      spriteId: bac09772075d9db47b022e0d4764eda7
-    - name: Kla'ed - Support ship - Destruction_Frame_1
+      spriteId: 0e995a9f466ee674991476a91f06bbb8
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -327,8 +327,8 @@ ScriptedImporter:
         y: 21
         width: 28
         height: 28
-      spriteId: aebc58e750428bf47bc6e2e2ad0339ad
-    - name: Kla'ed - Support ship - Destruction_Frame_2
+      spriteId: 075f41fa00c40c94c9344d55d6143c8d
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -336,8 +336,8 @@ ScriptedImporter:
         y: 21
         width: 28
         height: 28
-      spriteId: ee249b813d1ed5c488440d2b47873a89
-    - name: Kla'ed - Support ship - Destruction_Frame_3
+      spriteId: 4f59c27969cec2a45a1299c89723552f
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -345,8 +345,8 @@ ScriptedImporter:
         y: 21
         width: 28
         height: 28
-      spriteId: 827c57ba389ef584cb3b2695d85223a3
-    - name: Kla'ed - Support ship - Destruction_Frame_5
+      spriteId: 46f2dcd9949d6cc409e673745cd35c40
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -354,8 +354,8 @@ ScriptedImporter:
         y: 10
         width: 52
         height: 46
-      spriteId: 63820f9180bbc0747a0f2b99a5732741
-    - name: Kla'ed - Support ship - Destruction_Frame_6
+      spriteId: b602c09193f98904482b7bd3abd02804
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -363,8 +363,8 @@ ScriptedImporter:
         y: 10
         width: 54
         height: 44
-      spriteId: da7e5d65777154a46b0e11dd9b8a32b1
-    - name: Kla'ed - Support ship - Destruction_Frame_4
+      spriteId: b35d46266a6553f44bb801be5387cd45
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -372,8 +372,8 @@ ScriptedImporter:
         y: 22
         width: 25
         height: 25
-      spriteId: e394f69ac7685534a99f20e1e1cde75e
-    - name: Kla'ed - Support ship - Destruction_Frame_7
+      spriteId: db69074815ed66f468ff56b209aaa63c
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -381,8 +381,8 @@ ScriptedImporter:
         y: 13
         width: 49
         height: 34
-      spriteId: aa6387c7b2fafc245af0c70f190504cd
-    - name: Kla'ed - Support ship - Destruction_Frame_8
+      spriteId: e3f2d8eddc5db414a8f33cf8fa460c17
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -390,10 +390,22 @@ ScriptedImporter:
         y: 12
         width: 50
         height: 29
-      spriteId: 5671f12a4a67c0b4e8d17c5d62c593f5
+      spriteId: fa3d13ab4155a4a499c7cd1c640f7123
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

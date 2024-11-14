@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 505be3340c16f814f8a942865698b113
+guid: 996fe8384acee6e4a88622044bfaafa9
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nairan - Fighter -  Destruction_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: a05e4b6b1399cdf408ce205ed316fd36
+    spriteID: 205b350c350b397408478a874142c002
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nairan - Fighter -  Destruction_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 21d15f07f93ec84498aada8e7310b860
+    spriteID: 4e4f02f7e3ed18649909b8bd35fef86c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Nairan - Fighter -  Destruction_Frame_13
+  - name: Frame_13
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 167b55da8c40e6e4f9d247c15c21fd6a
+    spriteID: 0da0ba80765084045819c398ebbeafd6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 148}
-  - name: Nairan - Fighter -  Destruction_Frame_14
+  - name: Frame_14
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 220
       width: 64
       height: 64
-    spriteID: 9390c01279ca44c47ba97d2ac0bf3437
+    spriteID: ba0b87801d7a07b4fb9a161f21f9cc84
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 220}
-  - name: Nairan - Fighter -  Destruction_Frame_15
+  - name: Frame_15
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 292
       width: 64
       height: 64
-    spriteID: dd06a8f03623c1542b6183357358dc19
+    spriteID: a90f8800e897d06478603dd0715c23ee
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 292}
-  - name: Nairan - Fighter -  Destruction_Frame_16
+  - name: Frame_16
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 364
       width: 64
       height: 64
-    spriteID: 34024a498ca5a6a49a68f9bd62d96efc
+    spriteID: 32e2b83718aa7a94f9415f3dc8a3bf79
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 364}
-  - name: Nairan - Fighter -  Destruction_Frame_17
+  - name: Frame_17
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 436
       width: 64
       height: 64
-    spriteID: 6e0748e3c8cf3534ba575184c838475f
+    spriteID: 51a2f4bd28e385d4b9067e9fc84229e7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 436}
-  - name: Nairan - Fighter -  Destruction_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 66b1268d9f6706941b083d2c40d9c91d
+    spriteID: 826dfcd6d3887b146b632b5e537df27b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 4}
-  - name: Nairan - Fighter -  Destruction_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: e1f35e15c78a0b64d8678c8558e40255
+    spriteID: 12cbe1d8209bc32429dc6923d652e942
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 76}
-  - name: Nairan - Fighter -  Destruction_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 73669593b98a584428a481feca4aba81
+    spriteID: 67cf599402dc9294bb26420c7daac8dc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 148}
-  - name: Nairan - Fighter -  Destruction_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 220
       width: 64
       height: 64
-    spriteID: 81dad598a316fda4aafc8ead3736bcb0
+    spriteID: 070e680263c92da46a35169729a42b3f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 220}
-  - name: Nairan - Fighter -  Destruction_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 292
       width: 64
       height: 64
-    spriteID: 91b9d2ca1581fb64792ef8a8b9764ffb
+    spriteID: cfb6ee2b5bd0d574fb1069c8981c71c3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -361,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 292}
-  - name: Nairan - Fighter -  Destruction_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 364
       width: 64
       height: 64
-    spriteID: cd57b9eb56ef697498f83d07aedcdcec
+    spriteID: 50619509887c1324684a5399e1cf6f3b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -381,7 +381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 364}
-  - name: Nairan - Fighter -  Destruction_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 436
       width: 64
       height: 64
-    spriteID: a5536034d63b6f441a99760a19f528d3
+    spriteID: 2969e6b9d6803d44fb9188fc6aa20c6e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -401,7 +401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 436}
-  - name: Nairan - Fighter -  Destruction_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 80c0d2f0c715638479fbd6249e2a8aac
+    spriteID: 7c9d9dfb45a9a0941b23bd7fbcf3e914
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,7 +421,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 148, y: 4}
-  - name: Nairan - Fighter -  Destruction_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -432,7 +432,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 4a86fa060b9fd1f40ade0e10601fe9fa
+    spriteID: dbeccbf6bd4c9854fa9e11d6eb758644
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -441,7 +441,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 148, y: 76}
-  - name: Nairan - Fighter -  Destruction_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -452,7 +452,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: 7fa88d5b9a38c5e4aabe4ce1e7245bb4
+    spriteID: afcdab3c8153eda4195279c91fd5e844
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -461,7 +461,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 148, y: 148}
-  - name: Nairan - Fighter -  Destruction_Frame_12
+  - name: Frame_12
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -472,7 +472,7 @@ ScriptedImporter:
       y: 220
       width: 64
       height: 64
-    spriteID: 02ae966318bd5454c93fffd886f04d2e
+    spriteID: 926f06070f0154f4897dd33af01723b4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -490,7 +490,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nairan - Fighter -  Destruction_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -498,8 +498,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: a05e4b6b1399cdf408ce205ed316fd36
-    - name: Nairan - Fighter -  Destruction_Frame_9
+      spriteId: 205b350c350b397408478a874142c002
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -507,8 +507,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 21d15f07f93ec84498aada8e7310b860
-    - name: Nairan - Fighter -  Destruction_Frame_13
+      spriteId: 4e4f02f7e3ed18649909b8bd35fef86c
+    - name: Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -516,8 +516,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 167b55da8c40e6e4f9d247c15c21fd6a
-    - name: Nairan - Fighter -  Destruction_Frame_14
+      spriteId: 0da0ba80765084045819c398ebbeafd6
+    - name: Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -525,8 +525,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 9390c01279ca44c47ba97d2ac0bf3437
-    - name: Nairan - Fighter -  Destruction_Frame_15
+      spriteId: ba0b87801d7a07b4fb9a161f21f9cc84
+    - name: Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -534,8 +534,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: dd06a8f03623c1542b6183357358dc19
-    - name: Nairan - Fighter -  Destruction_Frame_16
+      spriteId: a90f8800e897d06478603dd0715c23ee
+    - name: Frame_16
       frameIndex: 16
       additiveSortOrder: 0
       cellRect:
@@ -543,8 +543,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 34024a498ca5a6a49a68f9bd62d96efc
-    - name: Nairan - Fighter -  Destruction_Frame_17
+      spriteId: 32e2b83718aa7a94f9415f3dc8a3bf79
+    - name: Frame_17
       frameIndex: 17
       additiveSortOrder: 0
       cellRect:
@@ -552,8 +552,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 6e0748e3c8cf3534ba575184c838475f
-    - name: Nairan - Fighter -  Destruction_Frame_1
+      spriteId: 51a2f4bd28e385d4b9067e9fc84229e7
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -561,8 +561,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 66b1268d9f6706941b083d2c40d9c91d
-    - name: Nairan - Fighter -  Destruction_Frame_2
+      spriteId: 826dfcd6d3887b146b632b5e537df27b
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -570,8 +570,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: e1f35e15c78a0b64d8678c8558e40255
-    - name: Nairan - Fighter -  Destruction_Frame_3
+      spriteId: 12cbe1d8209bc32429dc6923d652e942
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -579,8 +579,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 73669593b98a584428a481feca4aba81
-    - name: Nairan - Fighter -  Destruction_Frame_4
+      spriteId: 67cf599402dc9294bb26420c7daac8dc
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -588,8 +588,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 81dad598a316fda4aafc8ead3736bcb0
-    - name: Nairan - Fighter -  Destruction_Frame_5
+      spriteId: 070e680263c92da46a35169729a42b3f
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -597,8 +597,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 91b9d2ca1581fb64792ef8a8b9764ffb
-    - name: Nairan - Fighter -  Destruction_Frame_6
+      spriteId: cfb6ee2b5bd0d574fb1069c8981c71c3
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -606,8 +606,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: cd57b9eb56ef697498f83d07aedcdcec
-    - name: Nairan - Fighter -  Destruction_Frame_7
+      spriteId: 50619509887c1324684a5399e1cf6f3b
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -615,8 +615,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: a5536034d63b6f441a99760a19f528d3
-    - name: Nairan - Fighter -  Destruction_Frame_8
+      spriteId: 2969e6b9d6803d44fb9188fc6aa20c6e
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -624,8 +624,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 80c0d2f0c715638479fbd6249e2a8aac
-    - name: Nairan - Fighter -  Destruction_Frame_10
+      spriteId: 7c9d9dfb45a9a0941b23bd7fbcf3e914
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -633,8 +633,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 4a86fa060b9fd1f40ade0e10601fe9fa
-    - name: Nairan - Fighter -  Destruction_Frame_11
+      spriteId: dbeccbf6bd4c9854fa9e11d6eb758644
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -642,8 +642,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 7fa88d5b9a38c5e4aabe4ce1e7245bb4
-    - name: Nairan - Fighter -  Destruction_Frame_12
+      spriteId: afcdab3c8153eda4195279c91fd5e844
+    - name: Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -651,10 +651,22 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 02ae966318bd5454c93fffd886f04d2e
+      spriteId: 926f06070f0154f4897dd33af01723b4
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

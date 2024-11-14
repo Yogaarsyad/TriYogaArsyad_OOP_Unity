@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: df511725591bc4e4cbab5097f10d30bb
+guid: b43e2308fee6863409b4dfc6b5513a3c
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615753194834946
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nairan - Ray_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 38
-    spriteID: ddce47c9d2f8e444b82f7a2a563d2710
+    spriteID: a7dc09e01e970aa4eb9e0aed85650fe6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nairan - Ray_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 50
       width: 18
       height: 38
-    spriteID: 630bdc4fe956c3a4cbbd125f4487930f
+    spriteID: 78837a022162e234e86d8987fe1c9a7b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 50}
-  - name: Nairan - Ray_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 18
       height: 38
-    spriteID: c19043c1e9e055a4f88bcf11a6bf7969
+    spriteID: fd2f672ac541a5c42b6cd057b3fb5beb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 30, y: 4}
-  - name: Nairan - Ray_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 50
       width: 18
       height: 38
-    spriteID: 669fdcb36bb5b434e87377ec135a5a68
+    spriteID: 2ea73c526fbc1014fadb423371cc3d1f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -210,7 +210,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nairan - Ray_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -218,8 +218,8 @@ ScriptedImporter:
         y: 0
         width: 18
         height: 38
-      spriteId: ddce47c9d2f8e444b82f7a2a563d2710
-    - name: Nairan - Ray_Frame_1
+      spriteId: a7dc09e01e970aa4eb9e0aed85650fe6
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -227,8 +227,8 @@ ScriptedImporter:
         y: 0
         width: 18
         height: 38
-      spriteId: 630bdc4fe956c3a4cbbd125f4487930f
-    - name: Nairan - Ray_Frame_2
+      spriteId: 78837a022162e234e86d8987fe1c9a7b
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -236,8 +236,8 @@ ScriptedImporter:
         y: 0
         width: 18
         height: 38
-      spriteId: c19043c1e9e055a4f88bcf11a6bf7969
-    - name: Nairan - Ray_Frame_3
+      spriteId: fd2f672ac541a5c42b6cd057b3fb5beb
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -245,23 +245,11 @@ ScriptedImporter:
         y: 0
         width: 18
         height: 38
-      spriteId: 669fdcb36bb5b434e87377ec135a5a68
+      spriteId: 2ea73c526fbc1014fadb423371cc3d1f
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

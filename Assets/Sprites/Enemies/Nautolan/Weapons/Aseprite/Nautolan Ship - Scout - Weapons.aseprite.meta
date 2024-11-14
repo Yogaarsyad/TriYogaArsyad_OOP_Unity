@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d2546ce4c2e1c2942a8c49fc5cc5b428
+guid: 53f2d407583878645beeafedd3d40c73
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Nautolan Ship - Scout - Weapons_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: b7ddb48c10db9444a8bae6d6149983f6
+    spriteID: 80f8a8de0cdd69b438bbdbc5cde24eb0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Nautolan Ship - Scout - Weapons_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: a446863aec49a2d4cb9b1762b8169bba
+    spriteID: 55e2dffbdfc5caf49bb3e59189592dce
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 76}
-  - name: Nautolan Ship - Scout - Weapons_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: cb8026f7cd34eef4f94c1ed3bbc2e3a7
+    spriteID: 3a997cb4080a3c64da7750f3d764c391
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 148}
-  - name: Nautolan Ship - Scout - Weapons_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: d119f0f0dc4c19d48912f1c5c3886253
+    spriteID: c3d62f772efffda46878d8251b64d4e9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 4}
-  - name: Nautolan Ship - Scout - Weapons_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 76
       width: 64
       height: 64
-    spriteID: 0ad3d46d5324b09489247e8a37348696
+    spriteID: 39ef3849404c4a243b47914e4e511d71
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 76}
-  - name: Nautolan Ship - Scout - Weapons_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 148
       width: 64
       height: 64
-    spriteID: ca658fd8eed7ee84bb7d2cf675729a6c
+    spriteID: 0e8097a2d5bb1c8429065ddeab26aa36
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 76, y: 148}
-  - name: Nautolan Ship - Scout - Weapons_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 4
       width: 64
       height: 64
-    spriteID: 3ccede73cf5a3e84b8546ca6fd7afb63
+    spriteID: 5ed0482634a2f4e47bde78a590f16106
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -270,7 +270,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Nautolan Ship - Scout - Weapons_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -278,8 +278,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: b7ddb48c10db9444a8bae6d6149983f6
-    - name: Nautolan Ship - Scout - Weapons_Frame_4
+      spriteId: 80f8a8de0cdd69b438bbdbc5cde24eb0
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -287,8 +287,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: a446863aec49a2d4cb9b1762b8169bba
-    - name: Nautolan Ship - Scout - Weapons_Frame_5
+      spriteId: 55e2dffbdfc5caf49bb3e59189592dce
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -296,8 +296,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: cb8026f7cd34eef4f94c1ed3bbc2e3a7
-    - name: Nautolan Ship - Scout - Weapons_Frame_6
+      spriteId: 3a997cb4080a3c64da7750f3d764c391
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -305,8 +305,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: d119f0f0dc4c19d48912f1c5c3886253
-    - name: Nautolan Ship - Scout - Weapons_Frame_1
+      spriteId: c3d62f772efffda46878d8251b64d4e9
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -314,8 +314,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 0ad3d46d5324b09489247e8a37348696
-    - name: Nautolan Ship - Scout - Weapons_Frame_2
+      spriteId: 39ef3849404c4a243b47914e4e511d71
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -323,8 +323,8 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: ca658fd8eed7ee84bb7d2cf675729a6c
-    - name: Nautolan Ship - Scout - Weapons_Frame_3
+      spriteId: 0e8097a2d5bb1c8429065ddeab26aa36
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -332,10 +332,22 @@ ScriptedImporter:
         y: 0
         width: 64
         height: 64
-      spriteId: 3ccede73cf5a3e84b8546ca6fd7afb63
+      spriteId: 5ed0482634a2f4e47bde78a590f16106
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: Default
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 

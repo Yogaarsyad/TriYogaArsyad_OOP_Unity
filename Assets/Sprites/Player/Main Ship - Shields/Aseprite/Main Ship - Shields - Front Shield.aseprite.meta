@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6d8566783e5115246b41550eecc150e7
+guid: 39fd58523aeaa7849b7d332611246197
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615615067975673
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Main Ship - Shields - Front Shield_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -1.9444444}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 36
       height: 18
-    spriteID: 88d200c6b1a3463459ecdaae02ebaa79
+    spriteID: 9158fab780ef5ba46bff0c941690cad7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Main Ship - Shields - Front Shield_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -1.9444444}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 30
       width: 36
       height: 18
-    spriteID: 27d0edfa96e28dd4483543a7ebe6bbbe
+    spriteID: 0ee7cd08eb1bf784fadab51932a99cfe
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 30}
-  - name: Main Ship - Shields - Front Shield_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -1.9444444}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 56
       width: 36
       height: 18
-    spriteID: d039f81fdd2f06345924bd7a145b3d84
+    spriteID: be0b041b737e13445ac9b6c6cc385e93
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 56}
-  - name: Main Ship - Shields - Front Shield_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -1.9444444}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 82
       width: 36
       height: 18
-    spriteID: d75caaac96bf5614281a3917e340d73d
+    spriteID: ed9a86bb292dc834aa640f1eedc77b30
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 82}
-  - name: Main Ship - Shields - Front Shield_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: -1.9444444}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 108
       width: 36
       height: 18
-    spriteID: 21f86d64ee967434098497d1defa6b2c
+    spriteID: d2534ff6537162d499c011d7af337a3b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 108}
-  - name: Main Ship - Shields - Front Shield_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: -1.9444444}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 134
       width: 36
       height: 18
-    spriteID: 0509dadc39fa49d4f9ca0fb06e406120
+    spriteID: 2546595052702094abac8fe38c4a36cc
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 134}
-  - name: Main Ship - Shields - Front Shield_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.5, y: -1.9444444}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 160
       width: 36
       height: 18
-    spriteID: 1241cf3b79df3844eae0462b942f00ea
+    spriteID: 27070d18a193d4a41bdf043c2aa616c5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 160}
-  - name: Main Ship - Shields - Front Shield_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.5, y: -1.9444444}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 186
       width: 36
       height: 18
-    spriteID: e9b6db6f486b2a247bf347ab44ae8000
+    spriteID: c899da39d50d53246a7f97b5d85f7750
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 186}
-  - name: Main Ship - Shields - Front Shield_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.5, y: -1.9444444}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 212
       width: 36
       height: 18
-    spriteID: 34478c5530ca16a4d86c58e8d74ef0e4
+    spriteID: 210dff23b9ae19a4e9c1007e381a1ea9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 212}
-  - name: Main Ship - Shields - Front Shield_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.5, y: -1.9444444}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 4
       width: 36
       height: 18
-    spriteID: 6f57c7fd656d41649b20f048b7b7a32f
+    spriteID: 8d2da8381bc723b45b1838107b7e3d74
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -330,7 +330,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Main Ship - Shields - Front Shield_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -338,8 +338,8 @@ ScriptedImporter:
         y: 35
         width: 36
         height: 18
-      spriteId: 88d200c6b1a3463459ecdaae02ebaa79
-    - name: Main Ship - Shields - Front Shield_Frame_1
+      spriteId: 9158fab780ef5ba46bff0c941690cad7
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -347,8 +347,8 @@ ScriptedImporter:
         y: 35
         width: 36
         height: 18
-      spriteId: 27d0edfa96e28dd4483543a7ebe6bbbe
-    - name: Main Ship - Shields - Front Shield_Frame_2
+      spriteId: 0ee7cd08eb1bf784fadab51932a99cfe
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -356,8 +356,8 @@ ScriptedImporter:
         y: 35
         width: 36
         height: 18
-      spriteId: d039f81fdd2f06345924bd7a145b3d84
-    - name: Main Ship - Shields - Front Shield_Frame_3
+      spriteId: be0b041b737e13445ac9b6c6cc385e93
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -365,8 +365,8 @@ ScriptedImporter:
         y: 35
         width: 36
         height: 18
-      spriteId: d75caaac96bf5614281a3917e340d73d
-    - name: Main Ship - Shields - Front Shield_Frame_4
+      spriteId: ed9a86bb292dc834aa640f1eedc77b30
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -374,8 +374,8 @@ ScriptedImporter:
         y: 35
         width: 36
         height: 18
-      spriteId: 21f86d64ee967434098497d1defa6b2c
-    - name: Main Ship - Shields - Front Shield_Frame_5
+      spriteId: d2534ff6537162d499c011d7af337a3b
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -383,8 +383,8 @@ ScriptedImporter:
         y: 35
         width: 36
         height: 18
-      spriteId: 0509dadc39fa49d4f9ca0fb06e406120
-    - name: Main Ship - Shields - Front Shield_Frame_6
+      spriteId: 2546595052702094abac8fe38c4a36cc
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -392,8 +392,8 @@ ScriptedImporter:
         y: 35
         width: 36
         height: 18
-      spriteId: 1241cf3b79df3844eae0462b942f00ea
-    - name: Main Ship - Shields - Front Shield_Frame_7
+      spriteId: 27070d18a193d4a41bdf043c2aa616c5
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -401,8 +401,8 @@ ScriptedImporter:
         y: 35
         width: 36
         height: 18
-      spriteId: e9b6db6f486b2a247bf347ab44ae8000
-    - name: Main Ship - Shields - Front Shield_Frame_8
+      spriteId: c899da39d50d53246a7f97b5d85f7750
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -410,8 +410,8 @@ ScriptedImporter:
         y: 35
         width: 36
         height: 18
-      spriteId: 34478c5530ca16a4d86c58e8d74ef0e4
-    - name: Main Ship - Shields - Front Shield_Frame_9
+      spriteId: 210dff23b9ae19a4e9c1007e381a1ea9
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -419,23 +419,11 @@ ScriptedImporter:
         y: 35
         width: 36
         height: 18
-      spriteId: 6f57c7fd656d41649b20f048b7b7a32f
+      spriteId: 8d2da8381bc723b45b1838107b7e3d74
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

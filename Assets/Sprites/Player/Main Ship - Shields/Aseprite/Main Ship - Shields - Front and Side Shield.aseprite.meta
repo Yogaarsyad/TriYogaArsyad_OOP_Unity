@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d7904584cde560c4299190adc1d250e2
+guid: e992a49198b39144f930c0b45fd422cb
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615615067975673
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Main Ship - Shields - Front and Side Shield_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.59375}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 50
       height: 32
-    spriteID: b23931697bf3ee14a896a09852a55eac
+    spriteID: 744c6fa18f912c64786cfc50b13700f8
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Main Ship - Shields - Front and Side Shield_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.59375}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 44
       width: 50
       height: 32
-    spriteID: ba463ee5ef05ec34f9e221278bedcde9
+    spriteID: 529741169c53cd1459aa3a297a4f76e0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 44}
-  - name: Main Ship - Shields - Front and Side Shield_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: -0.59375}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 84
       width: 50
       height: 32
-    spriteID: e47c1b4c3e358cc4b8e779ce7064d9d6
+    spriteID: dd0bab12afdfdfc4ab77158e879193f7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 84}
-  - name: Main Ship - Shields - Front and Side Shield_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.59375}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 50
       height: 32
-    spriteID: f1d896b9060eaad4e9116459655a8a8f
+    spriteID: cf2f93654f551a64ca9c23b7a0331901
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 62, y: 4}
-  - name: Main Ship - Shields - Front and Side Shield_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.5, y: -0.59375}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 44
       width: 50
       height: 32
-    spriteID: 667b1a8161a77da4b94f57ab66190e4a
+    spriteID: 6781734b365a7514e845302406d78ec3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 62, y: 44}
-  - name: Main Ship - Shields - Front and Side Shield_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.5, y: -0.59375}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 84
       width: 50
       height: 32
-    spriteID: 34f84c6b738f4b145b64e80e90199410
+    spriteID: 0986355c5fed07f499aaed96e4ac454f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -250,7 +250,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Main Ship - Shields - Front and Side Shield_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -258,8 +258,8 @@ ScriptedImporter:
         y: 19
         width: 50
         height: 32
-      spriteId: b23931697bf3ee14a896a09852a55eac
-    - name: Main Ship - Shields - Front and Side Shield_Frame_1
+      spriteId: 744c6fa18f912c64786cfc50b13700f8
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -267,8 +267,8 @@ ScriptedImporter:
         y: 19
         width: 50
         height: 32
-      spriteId: ba463ee5ef05ec34f9e221278bedcde9
-    - name: Main Ship - Shields - Front and Side Shield_Frame_2
+      spriteId: 529741169c53cd1459aa3a297a4f76e0
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -276,8 +276,8 @@ ScriptedImporter:
         y: 19
         width: 50
         height: 32
-      spriteId: e47c1b4c3e358cc4b8e779ce7064d9d6
-    - name: Main Ship - Shields - Front and Side Shield_Frame_3
+      spriteId: dd0bab12afdfdfc4ab77158e879193f7
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -285,8 +285,8 @@ ScriptedImporter:
         y: 19
         width: 50
         height: 32
-      spriteId: f1d896b9060eaad4e9116459655a8a8f
-    - name: Main Ship - Shields - Front and Side Shield_Frame_4
+      spriteId: cf2f93654f551a64ca9c23b7a0331901
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -294,8 +294,8 @@ ScriptedImporter:
         y: 19
         width: 50
         height: 32
-      spriteId: 667b1a8161a77da4b94f57ab66190e4a
-    - name: Main Ship - Shields - Front and Side Shield_Frame_5
+      spriteId: 6781734b365a7514e845302406d78ec3
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -303,23 +303,11 @@ ScriptedImporter:
         y: 19
         width: 50
         height: 32
-      spriteId: 34f84c6b738f4b145b64e80e90199410
+      spriteId: 0986355c5fed07f499aaed96e4ac454f
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

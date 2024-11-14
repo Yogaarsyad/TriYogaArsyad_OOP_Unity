@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d319f5e543d8b0149b08b8f8cc5da20b
+guid: e35149e7d503edd4dad9f8a97e8d1640
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615201873935656
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Main Ship - Weapons - Rockets_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.50000006, y: -0.55}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 36
       width: 34
       height: 20
-    spriteID: 5059781cca7c03f4cadf6ba4e4cd7176
+    spriteID: 70e100e50dfee284ea8536be6a1d09c9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 173, y: 36}
-  - name: Main Ship - Weapons - Rockets_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.50000006, y: -0.55}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 36
       width: 34
       height: 20
-    spriteID: 7d8264d8029579b4183a96b74a23cfba
+    spriteID: 5384a77475707894a8a3386a9ae1e107
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 215, y: 36}
-  - name: Main Ship - Weapons - Rockets_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.50000006, y: -0.52380955}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 36
       width: 34
       height: 21
-    spriteID: ed9531340cb67be4e8691f3551108e9a
+    spriteID: 059fc2490daf8d64897b3191d5f9ef16
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 131, y: 36}
-  - name: Main Ship - Weapons - Rockets_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.50000006, y: -0.47826087}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 4
       width: 34
       height: 23
-    spriteID: ed5492c4b5143a047a5b421d93e48fc9
+    spriteID: ccce137e3f674cc4db1c816853f98305
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -201,7 +201,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 214, y: 4}
-  - name: Main Ship - Weapons - Rockets_Frame_4
+  - name: Frame_4
     originalName: 
     pivot: {x: 0.50000006, y: -0.45833334}
     alignment: 9
@@ -212,7 +212,7 @@ ScriptedImporter:
       y: 4
       width: 34
       height: 24
-    spriteID: e656f514e247c5d40ad573ee6517177b
+    spriteID: 42daf9d12a2dbca41959f67d9a5fc786
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -221,7 +221,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Main Ship - Weapons - Rockets_Frame_5
+  - name: Frame_5
     originalName: 
     pivot: {x: 0.50000006, y: -0.47826087}
     alignment: 9
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 36
       width: 34
       height: 23
-    spriteID: edeeae7610d21d14fb5bbdf84d9bbb17
+    spriteID: 0ec9de48487d20341ac0737ae29ec963
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -241,7 +241,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 36}
-  - name: Main Ship - Weapons - Rockets_Frame_6
+  - name: Frame_6
     originalName: 
     pivot: {x: 0.50000006, y: -0.45833334}
     alignment: 9
@@ -252,7 +252,7 @@ ScriptedImporter:
       y: 4
       width: 34
       height: 24
-    spriteID: 4ad0565e067bd3f48b297410fab3c5fe
+    spriteID: 7efa4c75c08ea3b46bc08013d011f46c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -261,7 +261,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 46, y: 4}
-  - name: Main Ship - Weapons - Rockets_Frame_7
+  - name: Frame_7
     originalName: 
     pivot: {x: 0.50000006, y: -0.47826087}
     alignment: 9
@@ -272,7 +272,7 @@ ScriptedImporter:
       y: 36
       width: 34
       height: 23
-    spriteID: 03a16cd5b2678304a804c171dfadd401
+    spriteID: 47687874206f30b42b88adde574b48f0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -281,7 +281,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 46, y: 36}
-  - name: Main Ship - Weapons - Rockets_Frame_8
+  - name: Frame_8
     originalName: 
     pivot: {x: 0.50000006, y: -0.45833334}
     alignment: 9
@@ -292,7 +292,7 @@ ScriptedImporter:
       y: 4
       width: 34
       height: 24
-    spriteID: 0816accbb946b324590cf95f7ab1459c
+    spriteID: e60067a7a9340f54c84723c7f6045865
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -301,7 +301,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 88, y: 4}
-  - name: Main Ship - Weapons - Rockets_Frame_9
+  - name: Frame_9
     originalName: 
     pivot: {x: 0.50000006, y: -0.41666666}
     alignment: 9
@@ -312,7 +312,7 @@ ScriptedImporter:
       y: 4
       width: 34
       height: 24
-    spriteID: 00e3af2e017db7f45af4237bca5257b0
+    spriteID: aa6df61605c796947a462b9886cc2d52
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -321,7 +321,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 130, y: 4}
-  - name: Main Ship - Weapons - Rockets_Frame_10
+  - name: Frame_10
     originalName: 
     pivot: {x: 0.50000006, y: -0.45833334}
     alignment: 9
@@ -332,7 +332,7 @@ ScriptedImporter:
       y: 4
       width: 34
       height: 24
-    spriteID: 270797621607d1c47a4afc34c5c615fa
+    spriteID: 6c370558d77cef84d9bc408b3f4b77e9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -341,7 +341,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 172, y: 4}
-  - name: Main Ship - Weapons - Rockets_Frame_11
+  - name: Frame_11
     originalName: 
     pivot: {x: 0.51428574, y: -0.45454547}
     alignment: 9
@@ -352,7 +352,7 @@ ScriptedImporter:
       y: 36
       width: 35
       height: 22
-    spriteID: 324a2d285e62cbe49b01c02cf3c6e832
+    spriteID: 47e9056e3bc0f1d419ef32b9602dc5d3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -361,7 +361,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 88, y: 36}
-  - name: Main Ship - Weapons - Rockets_Frame_12
+  - name: Frame_12
     originalName: 
     pivot: {x: 0.5405405, y: -1.8181819}
     alignment: 9
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 67
       width: 37
       height: 11
-    spriteID: 8209a06e9a4b3124e9e62b9a29815886
+    spriteID: 9be80238994956a4a9fe94705c222d08
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -381,7 +381,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 67}
-  - name: Main Ship - Weapons - Rockets_Frame_13
+  - name: Frame_13
     originalName: 
     pivot: {x: 0.53846157, y: -5}
     alignment: 9
@@ -392,7 +392,7 @@ ScriptedImporter:
       y: 67
       width: 39
       height: 5
-    spriteID: 5739d4cc760382e478e12635d70350c2
+    spriteID: 03ba7a2e3976f634f940dd07e1dd0a21
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -401,7 +401,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 49, y: 67}
-  - name: Main Ship - Weapons - Rockets_Frame_14
+  - name: Frame_14
     originalName: 
     pivot: {x: -0.8181819, y: -5.2000003}
     alignment: 9
@@ -412,7 +412,7 @@ ScriptedImporter:
       y: 67
       width: 11
       height: 5
-    spriteID: 5c768f92d95f2c44aa373d452f9fc9c6
+    spriteID: bec57c46e12b3904b89511f777f48073
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -421,7 +421,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 96, y: 67}
-  - name: Main Ship - Weapons - Rockets_Frame_15
+  - name: Frame_15
     originalName: 
     pivot: {x: -0.6153847, y: -8.333333}
     alignment: 9
@@ -432,7 +432,7 @@ ScriptedImporter:
       y: 67
       width: 13
       height: 3
-    spriteID: b97d906805fcd7b42bc3fb6906a379a8
+    spriteID: bcdb8759699fc8040838fe5d23799eeb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -450,7 +450,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Main Ship - Weapons - Rockets_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -458,8 +458,8 @@ ScriptedImporter:
         y: 11
         width: 34
         height: 20
-      spriteId: 5059781cca7c03f4cadf6ba4e4cd7176
-    - name: Main Ship - Weapons - Rockets_Frame_1
+      spriteId: 70e100e50dfee284ea8536be6a1d09c9
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -467,8 +467,8 @@ ScriptedImporter:
         y: 11
         width: 34
         height: 20
-      spriteId: 7d8264d8029579b4183a96b74a23cfba
-    - name: Main Ship - Weapons - Rockets_Frame_2
+      spriteId: 5384a77475707894a8a3386a9ae1e107
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -476,8 +476,8 @@ ScriptedImporter:
         y: 11
         width: 34
         height: 21
-      spriteId: ed9531340cb67be4e8691f3551108e9a
-    - name: Main Ship - Weapons - Rockets_Frame_3
+      spriteId: 059fc2490daf8d64897b3191d5f9ef16
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -485,8 +485,8 @@ ScriptedImporter:
         y: 11
         width: 34
         height: 23
-      spriteId: ed5492c4b5143a047a5b421d93e48fc9
-    - name: Main Ship - Weapons - Rockets_Frame_4
+      spriteId: ccce137e3f674cc4db1c816853f98305
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -494,8 +494,8 @@ ScriptedImporter:
         y: 11
         width: 34
         height: 24
-      spriteId: e656f514e247c5d40ad573ee6517177b
-    - name: Main Ship - Weapons - Rockets_Frame_5
+      spriteId: 42daf9d12a2dbca41959f67d9a5fc786
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -503,8 +503,8 @@ ScriptedImporter:
         y: 11
         width: 34
         height: 23
-      spriteId: edeeae7610d21d14fb5bbdf84d9bbb17
-    - name: Main Ship - Weapons - Rockets_Frame_6
+      spriteId: 0ec9de48487d20341ac0737ae29ec963
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -512,8 +512,8 @@ ScriptedImporter:
         y: 11
         width: 34
         height: 24
-      spriteId: 4ad0565e067bd3f48b297410fab3c5fe
-    - name: Main Ship - Weapons - Rockets_Frame_7
+      spriteId: 7efa4c75c08ea3b46bc08013d011f46c
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -521,8 +521,8 @@ ScriptedImporter:
         y: 11
         width: 34
         height: 23
-      spriteId: 03a16cd5b2678304a804c171dfadd401
-    - name: Main Ship - Weapons - Rockets_Frame_8
+      spriteId: 47687874206f30b42b88adde574b48f0
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -530,8 +530,8 @@ ScriptedImporter:
         y: 11
         width: 34
         height: 24
-      spriteId: 0816accbb946b324590cf95f7ab1459c
-    - name: Main Ship - Weapons - Rockets_Frame_9
+      spriteId: e60067a7a9340f54c84723c7f6045865
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -539,8 +539,8 @@ ScriptedImporter:
         y: 10
         width: 34
         height: 24
-      spriteId: 00e3af2e017db7f45af4237bca5257b0
-    - name: Main Ship - Weapons - Rockets_Frame_10
+      spriteId: aa6df61605c796947a462b9886cc2d52
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -548,8 +548,8 @@ ScriptedImporter:
         y: 11
         width: 34
         height: 24
-      spriteId: 270797621607d1c47a4afc34c5c615fa
-    - name: Main Ship - Weapons - Rockets_Frame_11
+      spriteId: 6c370558d77cef84d9bc408b3f4b77e9
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -557,8 +557,8 @@ ScriptedImporter:
         y: 10
         width: 35
         height: 22
-      spriteId: 324a2d285e62cbe49b01c02cf3c6e832
-    - name: Main Ship - Weapons - Rockets_Frame_12
+      spriteId: 47e9056e3bc0f1d419ef32b9602dc5d3
+    - name: Frame_12
       frameIndex: 12
       additiveSortOrder: 0
       cellRect:
@@ -566,8 +566,8 @@ ScriptedImporter:
         y: 20
         width: 37
         height: 11
-      spriteId: 8209a06e9a4b3124e9e62b9a29815886
-    - name: Main Ship - Weapons - Rockets_Frame_13
+      spriteId: 9be80238994956a4a9fe94705c222d08
+    - name: Frame_13
       frameIndex: 13
       additiveSortOrder: 0
       cellRect:
@@ -575,8 +575,8 @@ ScriptedImporter:
         y: 25
         width: 39
         height: 5
-      spriteId: 5739d4cc760382e478e12635d70350c2
-    - name: Main Ship - Weapons - Rockets_Frame_14
+      spriteId: 03ba7a2e3976f634f940dd07e1dd0a21
+    - name: Frame_14
       frameIndex: 14
       additiveSortOrder: 0
       cellRect:
@@ -584,8 +584,8 @@ ScriptedImporter:
         y: 26
         width: 11
         height: 5
-      spriteId: 5c768f92d95f2c44aa373d452f9fc9c6
-    - name: Main Ship - Weapons - Rockets_Frame_15
+      spriteId: bec57c46e12b3904b89511f777f48073
+    - name: Frame_15
       frameIndex: 15
       additiveSortOrder: 0
       cellRect:
@@ -593,11 +593,11 @@ ScriptedImporter:
         y: 25
         width: 13
         height: 3
-      spriteId: b97d906805fcd7b42bc3fb6906a379a8
+      spriteId: bcdb8759699fc8040838fe5d23799eeb
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048
@@ -609,19 +609,7 @@ ScriptedImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  generatePhysicsShape: 1
+  generatePhysicsShape: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 48, y: 48}

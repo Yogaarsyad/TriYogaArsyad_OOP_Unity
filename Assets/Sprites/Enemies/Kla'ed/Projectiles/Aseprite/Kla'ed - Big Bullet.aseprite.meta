@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2ca2b634f043ad74aa7e777099554840
+guid: 0e86c0806c1a8984483836f7171c1991
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 72
+    spritePixelsToUnits: 100
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -97,7 +97,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638615753194824945
+  platformSettingsDirtyTick: 0
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: Kla'ed - Big Bullet_Frame_0
+  - name: Frame_0
     originalName: 
     pivot: {x: 0.5, y: -0.33333334}
     alignment: 9
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 6
       height: 9
-    spriteID: dacdba827a6afb64f86e4acd941b2779
+    spriteID: 13df4ed1ca07f9d4abc7707b065fe8f2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -141,7 +141,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-  - name: Kla'ed - Big Bullet_Frame_1
+  - name: Frame_1
     originalName: 
     pivot: {x: 0.5, y: -0.09090909}
     alignment: 9
@@ -152,7 +152,7 @@ ScriptedImporter:
       y: 21
       width: 4
       height: 11
-    spriteID: 41b782f4e7dff494ea62361850224985
+    spriteID: dcc3bb7c1f0404c488884aa600f495fa
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -161,7 +161,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 21}
-  - name: Kla'ed - Big Bullet_Frame_2
+  - name: Frame_2
     originalName: 
     pivot: {x: 0.5, y: 0}
     alignment: 9
@@ -172,7 +172,7 @@ ScriptedImporter:
       y: 4
       width: 2
       height: 12
-    spriteID: 6fe6aa38ba54e4d468884d5dd14a5c7c
+    spriteID: 63ec5b1bddae1054ca0aab828be5768f
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -181,7 +181,7 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 18, y: 4}
-  - name: Kla'ed - Big Bullet_Frame_3
+  - name: Frame_3
     originalName: 
     pivot: {x: 0.5, y: -0.09090909}
     alignment: 9
@@ -192,7 +192,7 @@ ScriptedImporter:
       y: 40
       width: 4
       height: 11
-    spriteID: 05c0b9dde9375fa4fa475b50abe56521
+    spriteID: 6bd48ebc393ba2543af6e669aa61425b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -210,7 +210,7 @@ ScriptedImporter:
     layerType: 0
     blendMode: 0
     cells:
-    - name: Kla'ed - Big Bullet_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -218,8 +218,8 @@ ScriptedImporter:
         y: 3
         width: 6
         height: 9
-      spriteId: dacdba827a6afb64f86e4acd941b2779
-    - name: Kla'ed - Big Bullet_Frame_1
+      spriteId: 13df4ed1ca07f9d4abc7707b065fe8f2
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -227,8 +227,8 @@ ScriptedImporter:
         y: 1
         width: 4
         height: 11
-      spriteId: 41b782f4e7dff494ea62361850224985
-    - name: Kla'ed - Big Bullet_Frame_2
+      spriteId: dcc3bb7c1f0404c488884aa600f495fa
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -236,8 +236,8 @@ ScriptedImporter:
         y: 0
         width: 2
         height: 12
-      spriteId: 6fe6aa38ba54e4d468884d5dd14a5c7c
-    - name: Kla'ed - Big Bullet_Frame_3
+      spriteId: 63ec5b1bddae1054ca0aab828be5768f
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -245,23 +245,11 @@ ScriptedImporter:
         y: 1
         width: 4
         height: 11
-      spriteId: 05c0b9dde9375fa4fa475b50abe56521
+      spriteId: 6bd48ebc393ba2543af6e669aa61425b
     linkedCells: []
     parentIndex: -1
   platformSettings:
-  - name: DefaultTexturePlatform
-    overridden: 0
-    ignorePlatformSupport: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
+  - name: Default
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048

@@ -4,31 +4,39 @@ using UnityEngine;
 public class HitboxComponent : MonoBehaviour
 {
     [SerializeField]
-    HealthComponent health; // Referensi ke komponen kesehatan yang akan dikurangi.
+    private HealthComponent healthComponent;  // Referensi ke komponen kesehatan objek.
 
-    Collider2D area; // Referensi ke Collider2D yang ada pada objek.
+    private Collider2D collider;  // Referensi ke Collider2D objek.
+    private InvincibilityComponent invincibilityComponent;  // Referensi ke komponen invincibility objek.
 
-    private InvincibilityComponent invincibilityComponent; // Referensi ke komponen invincibility.
-
-    void Start()
+    private void Awake()
     {
-        area = GetComponent<Collider2D>(); // Mengambil komponen Collider2D pada objek.
-        invincibilityComponent = GetComponent<InvincibilityComponent>(); // Mengambil komponen Invincibility.
+        collider = GetComponent<Collider2D>();  // Ambil komponen Collider2D objek.
+        invincibilityComponent = GetComponent<InvincibilityComponent>();  // Ambil komponen Invincibility.
     }
 
-    public void Damage(Bullet bullet)
+    public void ApplyDamage(Bullet bullet)
     {
-        if (invincibilityComponent != null && invincibilityComponent.isInvincible) return; // Mengabaikan damage jika objek dalam status invincible.
+        if (IsInvincible()) return;  // Cek apakah objek dalam keadaan invincible dan lewati jika ya.
 
-        if (health != null)
-            health.Subtract(bullet.damage); // Mengurangi kesehatan objek sesuai damage dari peluru.
+        if (healthComponent != null)
+        {
+            healthComponent.DecreaseHealth(bullet.damage);  // Kurangi kesehatan objek sesuai damage dari peluru.
+        }
     }
 
-    public void Damage(int damage)
+    public void ApplyDamage(int damageAmount)
     {
-        if (invincibilityComponent != null && invincibilityComponent.isInvincible) return; // Mengabaikan damage jika objek dalam status invincible.
+        if (IsInvincible()) return;  // Cek apakah objek dalam keadaan invincible dan lewati jika ya.
 
-        if (health != null)
-            health.Subtract(damage); // Mengurangi kesehatan objek sesuai damage yang diberikan.
+        if (healthComponent != null)
+        {
+            healthComponent.DecreaseHealth(damageAmount);  // Kurangi kesehatan objek sesuai damage yang diberikan.
+        }
+    }
+
+    private bool IsInvincible()
+    {
+        return invincibilityComponent != null && invincibilityComponent.isInvincible;  // Mengembalikan status invincibility objek.
     }
 }

@@ -1,55 +1,47 @@
 using System.Collections;
 using UnityEngine;
 
-[RequireComponent(typeof(SpriteRenderer), typeof(HitboxComponent))]
+[RequireComponent(typeof(SpriteRenderer)), RequireComponent(typeof(HitboxComponent))]
 public class InvincibilityComponent : MonoBehaviour
 {
-    [SerializeField] private int blinkTimes = 7;  // Jumlah kedipan saat invincibility aktif.
-    [SerializeField] private float blinkDuration = 0.1f;  // Durasi interval kedipan.
-    [SerializeField] private Material invincibilityMaterial;  // Material untuk kedipan saat invincibility.
+    [SerializeField] private int blinkingCount = 7;
+    [SerializeField] private float blinkInterval = 0.1f;
+    [SerializeField] private Material blinkMaterial;
 
-    private SpriteRenderer spriteRenderer;  // Referensi ke komponen SpriteRenderer.
-    private Material defaultMaterial;  // Menyimpan material asli objek.
+    private SpriteRenderer spriteRenderer;
+    private Material originalMaterial;
 
-    private bool isInvincible = false;  // Menyimpan status apakah objek sedang invincible.
+    public bool isInvincible = false;
 
+    // Start is called before the first frame update
     private void Awake()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();  // Mengambil komponen SpriteRenderer pada objek.
-        defaultMaterial = spriteRenderer.material;  // Menyimpan material asli objek.
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        originalMaterial = spriteRenderer.material;
     }
 
-    public void ActivateInvincibility()
+    public void TriggerInvincibility()
     {
-        if (!isInvincible)  // Pastikan invincibility dimulai hanya jika objek belum invincible.
+        if (!isInvincible)
         {
-            StartCoroutine(HandleInvincibility());  // Memulai coroutine untuk menangani invincibility.
+            StartCoroutine(InvincibilityCoroutine());
         }
     }
 
-    private IEnumerator HandleInvincibility()
+    private IEnumerator InvincibilityCoroutine()
     {
-        isInvincible = true;  // Menandakan objek dalam kondisi invincible.
+        isInvincible = true;
 
-        for (int i = 0; i < blinkTimes; i++)
+        for (int i = 0; i < blinkingCount; i++)
         {
-            ToggleBlinkMaterial(true);  // Ganti material untuk menunjukkan kedipan.
-            yield return new WaitForSeconds(blinkDuration / 2);  // Tunggu selama setengah durasi kedipan.
-            ToggleBlinkMaterial(false);  // Kembalikan material asli.
-            yield return new WaitForSeconds(blinkDuration / 2);  // Tunggu lagi untuk setengah durasi kedipan.
+            spriteRenderer.material = blinkMaterial;
+            yield return new WaitForSeconds(blinkInterval / 2);
+            spriteRenderer.material = originalMaterial;
+            yield return new WaitForSeconds(blinkInterval / 2);
         }
 
-        ResetMaterial();  // Kembalikan material objek ke keadaan semula setelah kedipan selesai.
-        isInvincible = false;  // Menandakan objek tidak lagi invincible.
-    }
+        spriteRenderer.material = originalMaterial;
 
-    private void ToggleBlinkMaterial(bool isBlinking)
-    {
-        spriteRenderer.material = isBlinking ? invincibilityMaterial : defaultMaterial;  // Tentukan material yang digunakan.
-    }
-
-    private void ResetMaterial()
-    {
-        spriteRenderer.material = defaultMaterial;  // Kembalikan material objek ke material asli.
+        isInvincible = false;
     }
 }

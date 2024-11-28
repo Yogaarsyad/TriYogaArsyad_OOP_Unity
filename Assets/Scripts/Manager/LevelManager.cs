@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UIElements;
 
 // Singleton
 public class LevelManager : MonoBehaviour
@@ -15,8 +16,6 @@ public class LevelManager : MonoBehaviour
     IEnumerator LoadSceneAsync(string sceneName)
     {
         animator.enabled = true;
-
-        // animator.SetTrigger("startTransition");
 
         yield return new WaitForSeconds(1);
 

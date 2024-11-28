@@ -1,42 +1,45 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 [RequireComponent(typeof(Collider2D))]
 public class HitboxComponent : MonoBehaviour
 {
     [SerializeField]
-    private HealthComponent healthComponent;  // Referensi ke komponen kesehatan objek.
+    HealthComponent health;
 
-    private Collider2D collider;  // Referensi ke Collider2D objek.
-    private InvincibilityComponent invincibilityComponent;  // Referensi ke komponen invincibility objek.
+    Collider2D area;
 
-    private void Awake()
+    private InvincibilityComponent invincibilityComponent;
+
+    public UnityEvent OnHitboxCollide;
+
+
+    void Start()
     {
-        collider = GetComponent<Collider2D>();  // Ambil komponen Collider2D objek.
-        invincibilityComponent = GetComponent<InvincibilityComponent>();  // Ambil komponen Invincibility.
+        area = GetComponent<Collider2D>();
+        invincibilityComponent = GetComponent<InvincibilityComponent>();
+        OnHitboxCollide = new UnityEvent();
     }
 
-    public void ApplyDamage(Bullet bullet)
+    public void Damage(Bullet bullet)
     {
-        if (IsInvincible()) return;  // Cek apakah objek dalam keadaan invincible dan lewati jika ya.
+        if (invincibilityComponent != null && invincibilityComponent.isInvincible) return;
 
-        if (healthComponent != null)
+        if (health != null)
         {
-            healthComponent.DecreaseHealth(bullet.damage);  // Kurangi kesehatan objek sesuai damage dari peluru.
+            health.Subtract(bullet.damage);
+            OnHitboxCollide.Invoke();
         }
     }
 
-    public void ApplyDamage(int damageAmount)
+    public void Damage(int damage)
     {
-        if (IsInvincible()) return;  // Cek apakah objek dalam keadaan invincible dan lewati jika ya.
+        if (invincibilityComponent != null && invincibilityComponent.isInvincible) return;
 
-        if (healthComponent != null)
+        if (health != null)
         {
-            healthComponent.DecreaseHealth(damageAmount);  // Kurangi kesehatan objek sesuai damage yang diberikan.
+            health.Subtract(damage);
+            OnHitboxCollide.Invoke();
         }
-    }
-
-    private bool IsInvincible()
-    {
-        return invincibilityComponent != null && invincibilityComponent.isInvincible;  // Mengembalikan status invincibility objek.
     }
 }
